@@ -1,0 +1,15 @@
+.notready {
+    background-color:yellow;
+    color:red;
+    font-weight:bold;
+    text-align:center;
+}
+
+table.persontable td:first-child {
+	width:20%;
+	text-align:right;
+}
+
+table#lecturestable td:nth-child(2) {
+	width:15%;
+}
