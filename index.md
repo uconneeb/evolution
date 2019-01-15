@@ -9,7 +9,9 @@ _Teddybear Cholla cacti, Cactus Garden, Joshua Tree National Park, California._
 
 ## EEB-2245 (Evolution)
 
-The goal of this course at the [University of Connecticut](https://uconn.edu/) is to teach you the basic principles of evolutionary biology and the history of life on earth. Here are the basics about the course. Visit the menu items at the top for more information.
+This is a course in the [Department of Ecology and Evolutionary Biology](https://www.eeb.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). The primary goal of the course is to teach the basic principles of evolutionary biology and the history of life on earth. 
+
+Below you will find basic information about the course. Visit the menu items at the top for more information.
 
 > **Meeting Time** 
 
