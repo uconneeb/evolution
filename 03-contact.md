@@ -20,7 +20,7 @@ order: 1
 
 **Person:**              | Kaitlin Gallagher                                                 | Katie Taylor
 **Students:**            | Last name beginning A-K                                           | Last name beginning L-Z 
-**E-mail:**              | [kaitlin.gallagher@uconn.edu](mailto:kaitlin.gallagher@uconn.edu) | [katherine.l.taylor@uconn.edu](mailto:katherine.l.taylor@uconn.edu)
+**E-mail:**              | [kaitlin.gallagher@uconn.edu](mailto:kaitlin.gallagher@uconn.edu) | [katie.taylor@uconn.edu](mailto:katie.taylor@uconn.edu)
 **Office:**              | TLS 478                                                           | TLS 479
 **Office hours:**        | by arrangement                                                    | by arrangement
 {:.persontable}
