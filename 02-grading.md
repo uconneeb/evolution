@@ -22,6 +22,6 @@ that an F in either the W or lecture portion of the course will result in an F f
 course.** Dr. Louise Lewis ([louise.lewis@uconn.edu](mailto:louise.lewis@uconn.edu)) is the coordinator of the W portion of the
 course. Refer to the HuskyCT site associated with this course for detailed information on the W
 portion of the course. You will be assigned a W instructor at an initial in-person meeting, a
-mandatory library session. Please sign up for a library session by January 25th (you will get an email invitation via your UConn email account if you are enrolled in 2245W).
+mandatory library session. Please sign up for a library session in [HuskyCT](https://huskyct.uconn.edu/) by January 24th (you will get an email invitation via your UConn email account if you are enrolled in 2245W).
 If you are enrolled in EEB 2245 and wish to switch to EEB 2245W, please contact Dr. L. Lewis
 to get on the waiting list.
