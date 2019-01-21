@@ -4,9 +4,6 @@ title: Lecture Schedule
 permalink: /lecture-schedule/
 order: 3
 ---
-This schedule is not yet accurate. Please do not rely on it until this notice is removed.
-{:.notready}
-
 This schedule is subject to change without notice. Check regularly for updates!
 
 Lecture |  Date      | Topic                                                             |  Reading
