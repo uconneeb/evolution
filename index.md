@@ -25,6 +25,6 @@ Futuyma, D. J., and M. Kirkpatrick. _Evolution_. 4th ed. Sinauer Associates/Oxfo
 
 Indicated on the [lecture schedule](lecture-schedule). Please read the assigned material before coming to class.
 
-> **W component**
+> **W section**
 
 This web site contains information for the _lecture_ component of the course only. Please see [Grading](grading) for information related to the W portion of the course (only relevant for those enrolled in EEB-2245W).

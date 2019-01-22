@@ -1,8 +1,8 @@
-title: EEB-2245
+title: EEB-2245/2245W
 author: University of Connecticut
 email: evolution@uconn.edu
 description: >- # this means to ignore newlines until "baseurl:"
- Course web site for EEB 2245 (Evolution), Spring semester 2019  
+ Course web site for Spring semester 2019  
 baseurl: "/evolution"
 url: "http://uconneeb.github.io"
 markdown: kramdown
