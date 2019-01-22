@@ -2,7 +2,6 @@
 layout: page
 title: Lecture Schedule
 permalink: /lecture-schedule/
-order: 3
 ---
 This schedule is subject to change without notice. Check regularly for updates!
 

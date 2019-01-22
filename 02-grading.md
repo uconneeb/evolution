@@ -2,7 +2,6 @@
 layout: page
 title: Grading
 permalink: /grading/
-order: 2
 ---
 
 ## EEB 2245
@@ -11,7 +10,8 @@ Your grade will be based on your performance on lecture exams. There will be fou
 throughout the semester—two in the first half of the course and two in the second half of the
 course. Your lowest grade out the four exams will be dropped. Thus, your grade will be based on
 your three top lecture exam grades. **Please note: because you are allowed to drop one of these
-grades, we will not give make-up exams.**
+grades, we will not give make-up exams.** Grades will be posted in the [HuskyCT](https://huskyct.uconn.edu/)  gradebook 
+(and grades are the only thing you will use HuskyCT for unless you are enrolled in the W version of this course).
 
 ## EEB 2245W
 
