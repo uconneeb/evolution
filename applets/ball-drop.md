@@ -1,7 +1,7 @@
 ---
 layout: applet
-title: Test
-permalink: /test/
+title: Ball Drop
+permalink: /applets/ball-drop/
 ---
 
 ## Can you do better than random mutation (and natural selection)?

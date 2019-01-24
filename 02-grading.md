@@ -5,7 +5,7 @@ permalink: /grading/
 ---
 
 ## EEB 2245
-
+![From Darwin's 1837 "B" notebook]({{ "/assets/img/533px-Darwin_Tree_1837.png" | relative_url }}){:.rightsideimage width="200px"}
 Your grade will be based on your performance on lecture exams. There will be four exams
 throughout the semester—two in the first half of the course and two in the second half of the
 course. Your lowest grade out the four exams will be dropped. Thus, your grade will be based on
@@ -25,3 +25,6 @@ portion of the course. You will be assigned a W instructor at an initial in-pers
 mandatory library session. Please sign up for a library session in [HuskyCT](https://huskyct.uconn.edu/) by January 24th (you will get an email invitation via your UConn email account if you are enrolled in 2245W).
 If you are enrolled in EEB 2245 and wish to switch to EEB 2245W, please contact Dr. L. Lewis
 to get on the waiting list.
+
+### Image credits
+- [Page from Darwin's 1837 "B" notebook](https://en.wikipedia.org/wiki/Charles_Darwin#/media/File:Darwin_Tree_1837.png)

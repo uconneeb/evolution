@@ -7,3 +7,8 @@ baseurl: "/evolution"
 url: "http://uconneeb.github.io"
 markdown: kramdown
 theme: minima
+exclude: ['04-applets.md','applets/ball-drop.md']
+header_pages:
+  - 01-schedule.md
+  - 02-grading.md
+  - 03-contact.md
