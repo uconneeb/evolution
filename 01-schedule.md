@@ -3,6 +3,8 @@ layout: page
 title: Lecture Schedule
 permalink: /lecture-schedule/
 ---
+![Some of the fossils on display in lecture on Jan. 24, 2019](../assets/img/fossil-banner.png)_Some of the fossils on display in the second lecture_
+
 This schedule is subject to change without notice. Check regularly for updates!
 
 Lecture |  Date      | Topic                                                             |  Reading
