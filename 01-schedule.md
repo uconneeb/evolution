@@ -9,11 +9,11 @@ This schedule is subject to change without notice. Check regularly for updates!
 
 Lecture |  Date      | Topic                                                             |  Reading
 :-----: | :--------: | :---------------------------------------------------------------- |  :-----------------
-   1    | Tu Jan. 22 | Introduction to the Geological Time Scale; the Fossil Record      |  Ch. 17 (pp. 422–438)
+   1    | Tu Jan. 22 | Introduction to the Geological Time Scale; the Fossil Record      |  Ch. 17 (pp. 430–438)
    2    | Th Jan. 24 | Life in the Precambrian; evolution of the Metazoa                 |  Ch. 17 (pp. 438–440)
    3    | Tu Jan. 29 | Cambrian explosion & Life in the Paleozoic                        |  Ch. 17 (pp. 440–452)
    4    | Th Jan. 31 | Life in the Mesozoic                                              |  Ch. 17 (pp. 440–452)
-   5    | Tu Feb.  5 | Life in the Cenozoic                                              |  Ch. 17 (pp. 459–485)
+   5    | Tu Feb.  5 | Life in the Cenozoic                                              |  Ch. 17 (pp. 459–465)
    6    | Th Feb.  7 | Evolution of primates                                             |  Ch. 21 (pp. 547–559)
         | Tu Feb. 12 | **EXAM 1** (covers Lectures 1-6)                                  |
    7    | Th Feb. 14 | Evolution of biodiversity & extinction                            |  Ch. 19
