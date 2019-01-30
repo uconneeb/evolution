@@ -10,7 +10,7 @@ Your 2245 TAs (Katie and Kaitlin) will be offering optional review session prior
 
 Review session times will be announced in lecture and posted on this page as they are scheduled.
 
-##Exam 1. Tuesday Feb 12th
+## Exam 1. Tuesday Feb 12th
 
 Review session #1: Thursday February 7th at 6-8 pm
 
