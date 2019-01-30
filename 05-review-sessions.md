@@ -12,4 +12,5 @@ Review session times will be announced in lecture and posted on this page as the
 
 #### Exam 1
 Review session #1: Thursday February 7th at 6-8 pm
+
 Review session #2: Monday February 11th at 4-6 pm
