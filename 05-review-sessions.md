@@ -1,4 +1,10 @@
-Review Sessions
+---
+layout: page
+title: Review Sessions
+permalink: /review-sessions/
+---
+This page is under construction - be aware that content is in flux until this notice is removed
+{:.notready}
 
 Your 2245 TAs (Katie and Kaitlin) will be offering optional review session prior to each exam. You are not required to attend these sessions, but you may find them useful. 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture Schedule
+title: Lectures
 permalink: /lecture-schedule/
 ---
 ![Some of the fossils on display in lecture on Jan. 24, 2019](../assets/img/fossil-banner.png)_Some of the fossils on display in the second lecture_
