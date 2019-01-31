@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Review Sessions
+title: Exam Review
 permalink: /review-sessions/
 ---
 This page is under construction - be aware that content is in flux until this notice is removed
