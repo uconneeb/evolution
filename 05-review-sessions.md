@@ -19,3 +19,5 @@ Review session #2: Monday February 11th at 4-6 pm
 Exam 1 from a prior semester [click here to download][1]
 
 [1]: assets/pdf/Exam%201_S_2017.pdf
+
+<a href="assets/pdf/Exam%201_S_2017.pdf">Download File</a>
