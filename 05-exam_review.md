@@ -7,12 +7,10 @@ This page is under construction - be aware that content is in flux until this no
 {:.notready}
 ## Exams from prior semesters
 Click an exam name to download a PDF.
-Exam 1 from a prior semester [click here to download][1]
-
+[Exam 1][1]
 [1]: assets/pdf/Exam%201_S_2017.pdf
 
 <a href="github.com/uconneeb/evolution/blob/master/assets/pdf/Exam%201_S_2017.pdf">Download File</a>
-
 
 ![Exam 1 from a prior semester](assets/pdf/Exam%201_S_2017.pdf)
 
