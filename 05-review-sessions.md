@@ -20,4 +20,4 @@ Exam 1 from a prior semester [click here to download][1]
 
 [1]: assets/pdf/Exam%201_S_2017.pdf
 
-<a href="assets/pdf/Exam%201_S_2017.pdf">Download File</a>
+<a href="github.com/uconneeb/evolution/blob/master/assets/pdf/Exam%201_S_2017.pdf">Download File</a>
