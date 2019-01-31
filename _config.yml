@@ -11,5 +11,5 @@ exclude: ['04-applets.md','applets/ball-drop.md']
 header_pages:
   - 01-schedule.md
   - 02-grading.md
-  - 05-review-sessions.md
+  - 05-exam_review.md
   - 03-contact.md
