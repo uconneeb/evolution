@@ -18,4 +18,4 @@ Review session #2: Monday February 11th at 4-6 pm
 
 Exam 1 from a prior semester [click here to download][1]
 
-[1]:{{ site.url }}/assets/pdf/Exam 1_S_2017.pdf
+[1]: https://github.com/uconneeb/evolution/blob/master/assets/pdf/Exam%201_S_2017.pdf
