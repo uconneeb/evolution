@@ -3,7 +3,7 @@ layout: page
 title: Exam Review
 permalink: /review-sessions/
 ---
-![Some of the fossil hominoids on display in lecture on Feb. 7, 2019](../assets/img/hominoids-banner.png)_Some of the fossil hominoids on display in lecture_
+![Some of the fossil hominoids on display in lecture on Feb. 7, 2019](../assets/img/hominoids-banner.png)_Fossil hominoids on display in lecture_
 
 ## Exams from prior semesters
 Click an exam name to download a PDF.
