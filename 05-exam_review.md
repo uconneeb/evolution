@@ -4,18 +4,18 @@ title: Exam Review
 permalink: /review-sessions/
 ---
 ![Some of the fossil hominoids on display in lecture on Feb. 7, 2019](../assets/img/hominoids-banner.png)_Fossil hominoids on display in lecture_
-
-## Study Guides for exams
+##Study Materials
+#### Study Guides for exams
 
 [Exam 1 study guide](../assets/pdf/Study_Guide_exam_1_2019_final.pdf)
 
-## Exams from prior semesters
+#### Exams from prior semesters
 
 [Exam 1](../assets/pdf/Exam_1_S_2017.pdf)
 
 [Exam 2](../assets/pdf/Exam_2_S_2017.pdf)
 
-## Activities
+#### Activities
 [Phylogenetic tree exercise](../assets/pdf/Tree_Exercise_EEB_2245_S19.pdf)
 
 ## Review sessions
