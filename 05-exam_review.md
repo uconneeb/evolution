@@ -5,7 +5,7 @@ permalink: /review-sessions/
 ---
 ![Some of the fossil hominoids on display in lecture on Feb. 7, 2019](../assets/img/hominoids-banner.png)_Fossil hominoids on display in lecture_
 ##Study Materials
-#### Study Guides for exams
+#### Study guides for exams
 
 [Exam 1 study guide](../assets/pdf/Study_Guide_exam_1_2019_final.pdf)
 
