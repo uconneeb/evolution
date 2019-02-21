@@ -16,7 +16,7 @@ permalink: /review-sessions/
 [Exam 2](../assets/pdf/Exam_2_S_2017.pdf)
 
 ## Activities
-[Tree Exercise](../assets/pdf/Tree_Exercise_EEB_2245_S19.pdf)
+[Phylogenetic tree exercise](../assets/pdf/Tree_Exercise_EEB_2245_S19.pdf)
 
 ## Review sessions
 
