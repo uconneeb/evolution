@@ -36,3 +36,8 @@ Tree exercise discussion #1: Wednesday February 27th at 4-5 pm in MCHU 305
 
 Tree exercise discussion #2: Thursday February 28th at 6-7 pm in MCHU 206
 
+Review session #1: Tuesday March 5th at 5-7 pm in BOUS A106
+
+Review session #2: Wednesday March 6th at 5-7 pm in CHM A203
+
+
