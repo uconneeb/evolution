@@ -578,7 +578,13 @@ var addIntDropdown = function(panel, id, label, choices, default_choice, onfunc)
     //console.log("selectedIndex for \"" + label + "\" dropdown = " + select.property("selectedIndex"));
     }
 
-var addSlider = function(panel, id, label, onfunc) {
+// addSlider(controls_div, "rhoslider", "correlation", 100*(rho+1)/2, function() {
+//     var pct = parseFloat(d3.select(this).property('value'));
+//     rho = -1.0 + 2.0*pct/100;
+//     beta1 = rho*sdY/sdX;
+//     updatePlot();
+// });
+var addSlider = function(panel, id, label, starting_value, onfunc) {
     var control_div = panel.append("div").append("div")
         .attr("id", id)
         .attr("class", "control");
@@ -588,9 +594,11 @@ var addSlider = function(panel, id, label, onfunc) {
         .attr("name", id)
         .attr("min", "0")
         .attr("max", "100")
+        .attr("value", starting_value)
         .on("input", onfunc);
     control_div.append("label")
         .append("label")
+        .attr("id", id)
         .html("&nbsp;" + label);
     }
 
