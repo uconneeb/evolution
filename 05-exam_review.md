@@ -20,8 +20,7 @@ permalink: /review-sessions/
 
 #### Activities
 [Phylogenetic tree exercise](../assets/pdf/Tree_Exercise_EEB_2245_S19.pdf)
-
-[Phylogenetic tree exercise answers](../assets/pdf/TreeExerciseAnswers2_S19.pdf)
+[answers](../assets/pdf/TreeExerciseAnswers2_S19.pdf)
 
 
 ## Review sessions
