@@ -10,7 +10,7 @@ permalink: /review-sessions/
 
 [Exam 1 study guide](../assets/pdf/Study_Guide_exam_1_2019_final.pdf)
 
-[Exam 2 study guide (preliminary)](../assets/pdf/prelim_Study_Guide_Exam_2_2019.pdf)
+[Exam 2 study guide](../assets/pdf/Study_Guide_Exam 2_2019_final.pdf)
 
 #### Exams from prior semesters
 
