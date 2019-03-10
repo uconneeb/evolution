@@ -1,4 +1,4 @@
-title: EEB-2245/2245W
+title: EEB-2245/W
 author: University of Connecticut
 email: evolution@uconn.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -7,9 +7,13 @@ baseurl: "/evolution"
 url: "http://uconneeb.github.io"
 markdown: kramdown
 theme: minima
-exclude: ['07-image-links.md','06-biblio.md','04-applets.md','applets/ball-drop/','applets/correlation/','applets/sweep/']
+exclude: ['07-image-links.md','applets/correlation/','applets/sweep/']
 header_pages:
   - 01-schedule.md
   - 02-grading.md
+  - 04-applets.md
   - 05-exam_review.md
+  - 06-biblio.md
   - 03-contact.md
+plugins:
+  - jekyll-seo-tag
