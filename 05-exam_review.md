@@ -12,11 +12,15 @@ permalink: /review-sessions/
 
 [Exam 2 study guide](../assets/pdf/Study_Guide_Exam 2_2019_final.pdf)
 
+[Exam 3 study guide](../assets/pdf/Study_Guide_Exam 3_2019.pdf)
+
 #### Exams from prior semesters
 
 [Exam 1](../assets/pdf/Exam_1_S_2017.pdf)
 
 [Exam 2](../assets/pdf/Exam_2_S_2017.pdf)
+
+Exam 3 (sorry, no prior exams exist to give to you - please use the [study guide](../assets/pdf/Study_Guide_Exam 3_2019.pdf))
 
 #### Activities
 [Phylogenetic tree exercise](../assets/pdf/Tree_Exercise_EEB_2245_S19.pdf)
