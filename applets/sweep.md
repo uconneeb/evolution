@@ -10,7 +10,7 @@ permalink: /applets/sweep/
 <script type="text/javascript">
     // The MIT License (MIT)
     // 
-    // Copyright (c) 2018 Paul O. Lewis
+    // Copyright (c) 2019 Paul O. Lewis
     // 
     // Permission is hereby granted, free of charge, to any person obtaining a copy
     // of this software and associated documentation files (the “Software”), to deal
@@ -30,32 +30,27 @@ permalink: /applets/sweep/
     // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     // SOFTWARE.
     // 
-    // written by Paul O. Lewis 15-Feb-2019
-    // See https://developer.mozilla.org/en-US/docs/Web/SVG/Element
-    // See https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute
+    // written by Paul O. Lewis 13-Mar-2019
     
-    var lot = new Random();
     var debugging = false;
-    var allow_selfing = true;
-    var showing_steps = true;
-    
+    var allow_selfing = false;
     var locus_frac = 0.5;
     var selection_coefficient = 10;
     var ncrossovers = 2;
     
     // colors 
     var hitchhike_color     = "purple";
+    var mating_box_color    = "#FDC468";
+    var crossover_color     = "black";
     var sweep_color         = "red";
     var high_fitness_color  = "red";
 
-    // Population parameters
-    var nindiv = 25; // 25
+    // population parameters
+    var nindiv = 12;
     
-    var is_fixed = false;
-
     // width and height of svg
     var plotw = 800;
-    var ploth = 1000; // 800
+    var ploth = 600;
     var tm = 30;
     var bm = 10;
     var lm = 50;
@@ -68,26 +63,23 @@ permalink: /applets/sweep/
     var chromosome_thickness = (ploth - (intrachromosome_padding*nindiv) - (interchromosome_padding*(nindiv-1)) - tm - bm)/(2*nindiv);
     var chromosome_length = (plotw - (2*interchromosome_padding) - lm - rm)/3;
     
+    var showing_steps = true;
     var parent_chromosomes = [];
     var offspring_chromosomes = [];
     var nascent_chromosomes = [];
     var painted = [];
     var selected_indivs = [];
+    var is_fixed = false;
+    var lot = new Random();
     
-    function CenterTextInRect(text_element, x, y, w, h) {
-        // center text_element horizontally
-        text_element.attr("text-anchor", "middle");
-        text_element.attr("x", x + w/2);
-
-        // center text_element vertically
-        text_element.attr("y", 0);
-        var bb = text_element.node().getBBox();
-        var descent = bb.height + bb.y;
-        text_element.attr("y", y + h/2 + bb.height/2 - descent);
-        }
-
     function createChromosome(x, y, w, h) {
         return {'weight':1, 'painted':[], 'x':x, 'y':y, 'w':w, 'h':h};
+    }
+    
+    function topLeftCornerOfIndividual(i) {
+        // Assuming i is 0-offset index of individual (0..nindiv-1)
+        let indiv_thickness = 2*chromosome_thickness + intrachromosome_padding + interchromosome_padding;
+        return tm + indiv_thickness*i
     }
     
     function rebuildChromosomes() {
@@ -103,7 +95,7 @@ permalink: /applets/sweep/
     rebuildChromosomes();
     
     // Select DIV element already created (see above) to hold SVG
-    var plot_div = d3.select("div#canvas");
+    var plot_div = d3.select("div#arbitrary");
 
     // Create SVG element
     var plot_svg = plot_div.append("svg")
@@ -149,6 +141,12 @@ permalink: /applets/sweep/
         "Red-filled dots on left indicate",
         "high fitness; open circles low fitness.",
         " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
         "Dotted line on left indicates",
         "location of selected gene.",
         " ",
@@ -157,7 +155,10 @@ permalink: /applets/sweep/
         " ",
         "Note how selected locus carries nearby",
         "regions (purple) with it to fixation.",
-        "This is called \"hitchhiking\"."
+        "This is called \"hitchhiking\".",
+        " ",
+        "Don't see purple hitchhike region? Keep",
+        "clicking Fast button until mutation is fixed."
     ];
     plot_svg.selectAll("text.instructions")
         .data(instructions)
@@ -180,6 +181,29 @@ permalink: /applets/sweep/
         .attr("height", ploth - tm - bm)
         .attr("stroke", "none")
         .attr("fill", hitchhike_color)
+        .style("visibility", "hidden");
+
+    // Create boxes that will show the two selected individuals for each mating
+    var first_mate_rect = plot_svg.append("rect")
+        .attr("id", "mate1")
+        .attr("class", "matebox")
+        .attr("x", lm - interchromosome_padding/2)
+        .attr("y", tm - interchromosome_padding/2)
+        .attr("width", chromosome_length + interchromosome_padding)
+        .attr("height", 2*chromosome_thickness + interchromosome_padding + intrachromosome_padding)
+        .attr("stroke", "none")
+        .attr("fill", mating_box_color)
+        .style("visibility", "hidden");
+
+    var second_mate_rect = plot_svg.append("rect")
+        .attr("id", "mate2")
+        .attr("class", "matebox")
+        .attr("x", lm - interchromosome_padding/2)
+        .attr("y", tm - interchromosome_padding/2)
+        .attr("width", chromosome_length + interchromosome_padding)
+        .attr("height", 2*chromosome_thickness + interchromosome_padding + intrachromosome_padding)
+        .attr("stroke", "none")
+        .attr("fill", mating_box_color)
         .style("visibility", "hidden");
 
     // Draw vertical lines showing locus position
@@ -220,7 +244,7 @@ permalink: /applets/sweep/
             .attr("y1", function(d) {return d[1];})
             .attr("x2", function(d) {return d[2];})
             .attr("y2", function(d) {return d[3];})
-            .attr("stroke", "black")
+            .attr("stroke", crossover_color)
             .attr("stroke-width", 2)
             .style("visibility", "visible");
     }
@@ -358,6 +382,9 @@ permalink: /applets/sweep/
     
     function selectIndivsForMating() {
         // Stores weights for each individual and compute sum of weights
+        // Individual has weight 1 + w1 + w2, where w1 and w2 each equal 
+        // selection_coefficient iff locus is in the red region for strands 1 and 2,
+        // respectively.
         let wts = [];
         let sumwts = 0.0;
         for (let i = 0; i < nindiv; i++) {
@@ -519,6 +546,8 @@ permalink: /applets/sweep/
         if (i < nindiv) {                
             // Generate first gamete
             let a = selected_indivs[2*i + 0];
+            
+            // Create new chromosome and position it in top half of central area
             let x = lm + chromosome_length + interchromosome_padding;
             let y = ploth/2 - intrachromosome_padding/2 - chromosome_thickness;
             var offspring0 = createChromosome(x, y, chromosome_length, chromosome_thickness);
@@ -527,6 +556,8 @@ permalink: /applets/sweep/
         
             // Generate second gamete
             let b = selected_indivs[2*i + 1];
+            
+            // Create new chromosome and position it in bottom half of central area                    
             y = ploth/2 + intrachromosome_padding/2;
             var offspring1 = createChromosome(x, y, chromosome_length, chromosome_thickness);
             crossover(offspring1, b, x, y, false);
@@ -546,6 +577,14 @@ permalink: /applets/sweep/
                     .attr("height", function(d) {return d.h;})
                     .attr("fill", "white")
                     .attr("stroke", "black");
+                    
+                // Show boxes highlighting mated individuals
+                plot_svg.select("rect#mate1")
+                    .attr("y", topLeftCornerOfIndividual(selected_indivs[2*i + 0]) - interchromosome_padding/2)
+                    .style("visibility", "visible");
+                plot_svg.select("rect#mate2")
+                    .attr("y", topLeftCornerOfIndividual(selected_indivs[2*i + 1]) - interchromosome_padding/2)
+                    .style("visibility", "visible");
             }
         }                    
         if (showing_steps) {
@@ -637,7 +676,14 @@ permalink: /applets/sweep/
         }
     }
     
+    function hideMateBoxes() {
+        plot_svg.selectAll("rect.matebox")
+            .style("visibility", "hidden");
+    }
+    
     function moveToNextGeneration() {
+        // Begin by emptying parent_chromosomes, then copy all offspring chromosomes on the right side to the left
+        // side (into parent_chromosomes) to begin the next generation
         parent_chromosomes = [];
         //console.log("**** offspring ****");
         for (let i = 0; i < offspring_chromosomes.length; i++) {
@@ -645,9 +691,11 @@ permalink: /applets/sweep/
             //for (let k = 0; k < offspring_chromosomes[i].painted.length; k++) {
             //    console.log("  " + offspring_chromosomes[i].painted[k][0] + " <--> " + offspring_chromosomes[i].painted[k][1]);
             //}
-            offspring_chromosomes[i].x = lm;
+            offspring_chromosomes[i].x = lm; // make sure left edge of each chromosome is at the left margin
             parent_chromosomes.push(offspring_chromosomes[i]);
         }
+        
+        // Remove all traces of offspring on the right
         offspring_chromosomes = [];
         plot_svg.selectAll("rect.offspring").remove();
         redrawParentalChromosomes(false);
@@ -667,6 +715,7 @@ permalink: /applets/sweep/
         recreatePaintedRectangles();
         showFastButton();
         showHitchhikeRegion();
+        hideMateBoxes();
     }
         
     function createNextButton() {
