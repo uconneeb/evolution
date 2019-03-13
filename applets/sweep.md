@@ -717,7 +717,19 @@ permalink: /applets/sweep/
         showHitchhikeRegion();
         hideMateBoxes();
     }
-        
+    
+    function CenterTextInRect(text_element, x, y, w, h) {
+        // center text_element horizontally
+        text_element.attr("text-anchor", "middle");
+        text_element.attr("x", x + w/2);
+
+        // center text_element vertically
+        text_element.attr("y", 0);
+        var bb = text_element.node().getBBox();
+        var descent = bb.height + bb.y;
+        text_element.attr("y", y + h/2 + bb.height/2 - descent);
+        }
+
     function createNextButton() {
         var next_button = plot_svg.append("rect")
             .attr("id", "nextbutton")
