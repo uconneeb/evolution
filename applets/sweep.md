@@ -95,7 +95,7 @@ permalink: /applets/sweep/
     rebuildChromosomes();
     
     // Select DIV element already created (see above) to hold SVG
-    var plot_div = d3.select("div#arbitrary");
+    var plot_div = d3.select("div#canvas");
 
     // Create SVG element
     var plot_svg = plot_div.append("svg")
