@@ -8,9 +8,13 @@ permalink: /applets/
 
 This applet starts off with a new beneficial mutation in the center of one chromosome in a population of 25 diploid individuals. Red shading denotes chromosome segments that are identical to the chromosome on which the mutation arose. Each generation, crossing over breaks up the red parts, but the new mutation quickly becomes fixed due to its high fitness. A small region around the mutation is also fixed (hitchhiking) and is shown in dark purple once fixation of the selected gene occurs. Refresh your browser to start again.
 
-## [Peppered Moth]({{ "applets/biston/" | relative_url }})
+## [Peppered Moth in the 1800s]({{ "applets/biston-early/" | relative_url }})
 
-This applet lets you explore the effect of assuming different values for the selection coeficient in Haldane's (1924) model for the decline of the light-colored form of the peppered moth (_Biston betularia_) in Britain at the height of the industrial revolution.
+This applet lets you explore the effect of assuming different values for the selection coefficient in Haldane's (1924) model for the decline of the light-colored form of the peppered moth (_Biston betularia_) in Britain at the height of the industrial revolution.
+
+## [Peppered Moth in the 1900s]({{ "applets/biston-late/" | relative_url }})
+
+This applet lets you explore the effect of assuming different values for the selection coefficient in a model designed to predict the decline of the melanic (dark) form of the peppered moth (_Biston betularia_) in Britain after the air became clean again in the late 1900s.
 
 ## [Ball Drop]({{ "applets/ball-drop/" | relative_url }})
 

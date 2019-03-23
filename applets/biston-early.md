@@ -1,18 +1,18 @@
 ---
 layout: applet
-title: Biston
-permalink: /applets/biston/
+title: Biston betularia (1848-1898)
+permalink: /applets/biston-early/
 ---
-## Decline of peppered moth light phenotype from 1848-1898
+## _Biston betularia_ (peppered moth)
+### Decline of the light-colored phenotype from 1848-1898
 Use the slider to set the selection coefficient <em>s</em> in Haldane's model, which 
-accords the melanic (dark-colored) phenotype (genotypes BB and Bb) a relative fitness of 1 and the 
-non-melanic (light-colored) phenotype (genotype bb) a relative fitness of 1 - <em>s</em>. 
+assumes that the light-colored form is selected against with selection coefficient <em>s</em>. 
 
 Can you find the value of <em>s</em> that reduces 
 the light-colored phenotype from 0.99 down to 0.01 over the 50 year period 1948-1898?
 Haldane (1924, p. 26) found the value to be approximately 0.3. 
 
-<div id="ctrl" style="width:1000px;text-align:center"></div>
+<div id="ctrl" style="width:1000px;text-align:left"></div>
 <div id="plot"></div>
 <script type="text/javascript">
     // written by Paul O. Lewis 22-Mar-2019
@@ -210,3 +210,13 @@ Haldane (1924, p. 26) found the value to be approximately 0.3.
         // about the new linedata
         phenotype_tragectory.attr("d", lineFunc(linedata));
         });
+        
+    // Add explanatory text
+    svg.append("text").attr("id", "info").attr("x", xscale(1860)).attr("y", yscale(0.9)).text("Curve and points show frequency of non-melanic form from 1848 to 1898.");
+    svg.append("text").attr("id", "w1").attr("x",   xscale(1860)).attr("y", yscale(0.80)).text("BB fitness = 1");
+    svg.append("text").attr("id", "w2").attr("x",   xscale(1860)).attr("y", yscale(0.75)).text("Bb fitness = 1");
+    svg.append("text").attr("id", "w3").attr("x",   xscale(1860)).attr("y", yscale(0.70)).text("bb fitness = 1 - s");
+    svg.append("text").attr("id", "darkallele").attr("x",  xscale(1870)).attr("y", yscale(0.80)).text("B: dominant melanic allele");
+    svg.append("text").attr("id", "lightallele").attr("x", xscale(1870)).attr("y", yscale(0.75)).text("b: recessive non-melanic allele");
+
+</script>
