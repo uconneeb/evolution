@@ -13,6 +13,8 @@ WA Cresko, A Amores, C Wilson, J Murphy, M Currey, P Phillips, MA Bell, CB Kimme
 
 JBS Haldane. 1924. A mathematical theory of natural and artificial selection. I. Trans. Cambridge Philos. Soc. 23:19-41. (Sorry, no DOI available) 
 
+O Savolainen, M Lascoux, and J Merila. 2013. Ecological genomics of local adaptation. Nature Reviews Genetics 14:807-820. [DOI: 10.1038/nrg3522](https://doi.org/10.1038/nrg3522)
+
 J Wang, J Ding, T Biyue, KM Robinson, IH Michelson, A Johannson, B Nystedt, DG Scofield, O Nilsson, S Jansson, NR Street, and PK Ingvarsson. 2018. A major locus controls local adaptation and adaptive life history variation in a perennial plant. _Genome Biology_ 19:72. [DOI: 10.1186/s13059-018-1444-y](https://doi.org/10.1186/s13059-018-1444-y)
 
 {% comment %}
