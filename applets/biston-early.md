@@ -6,7 +6,7 @@ permalink: /applets/biston-early/
 ## _Biston betularia_ (peppered moth)
 ### Decline of the light-colored phenotype from 1848-1898
 Use the slider to set the selection coefficient <em>s</em> in Haldane's model, which 
-assumes that the light-colored form is selected against with selection coefficient <em>s</em>. 
+assumes that the light-colored (non-melanic) form is selected against with selection coefficient <em>s</em>. 
 
 Can you find the value of <em>s</em> that reduces 
 the light-colored phenotype from 0.99 down to 0.01 over the 50 year period 1948-1898?
