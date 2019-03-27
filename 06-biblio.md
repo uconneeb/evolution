@@ -11,7 +11,7 @@ ML Cody and JM Overton. 1996. Short-term evolution of reduced dispersal in islan
 
 WA Cresko, A Amores, C Wilson, J Murphy, M Currey, P Phillips, MA Bell, CB Kimmel, and JH Postlethwait. Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations. 2004. Proceedings of the National Academy of Science USA 101:6050-6055. [DOI: 10.1073/pnas.0308479101](https://doi.org/10.1073/pnas.0308479101)
 
-JBS Haldane. 1924. A mathematical theory of natural and artificial selection. I. Trans. Cambridge Philos. Soc. 23:19-41. (Sorry, no DOI available) 
+JBS Haldane. 1924. A mathematical theory of natural and artificial selection. I. Trans. Cambridge Philos. Soc. 23:19-41. (No DOI available, but it can be downloaded from [the Blackwell Publisher website](http://www.blackwellpublishing.com/ridley/classictexts/haldane1.pdf)) 
 
 O Savolainen, M Lascoux, and J Merila. 2013. Ecological genomics of local adaptation. Nature Reviews Genetics 14:807-820. [DOI: 10.1038/nrg3522](https://doi.org/10.1038/nrg3522)
 
