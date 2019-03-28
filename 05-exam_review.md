@@ -48,4 +48,11 @@ Review session #1: Tuesday March 5th at 5-7 pm in BOUS A106
 
 Review session #2: Wednesday March 6th at 5-7 pm in CHM A203
 
+#### Exam 3
+
+Extra review session: Monday April 1st at 5-6 pm in MCHU 205
+
+Review Session #1: Thursday April 11th 6-8 pm in BOUS A106
+
+Revies Session #2: Monday April 15th 4-6 pm in BOUS A106
 
