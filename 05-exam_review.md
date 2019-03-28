@@ -14,6 +14,8 @@ permalink: /review-sessions/
 
 [Exam 3 study guide](../assets/pdf/Study_Guide_Exam_3_2019.pdf)
 
+[Natural selection genotype/allele frequencies handout](../assets/pdf/natural-selection-handout.pdf)
+
 #### Exams from prior semesters
 
 [Exam 1](../assets/pdf/Exam_1_S_2017.pdf)
