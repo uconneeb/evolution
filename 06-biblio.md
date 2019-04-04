@@ -3,7 +3,7 @@ layout: page
 title: Literature Cited
 permalink: /literature-cited/
 ---
-The papers listed on this page have bee mentioned in lecture and the information is provided here for the sake of completeness. _You are **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
+The papers and books listed on this page have bee mentioned in lecture and the information is provided here for the sake of completeness. _You are **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
 **AF Blakeslee. 1914.** Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account. Journal of Heredity 5:511-518. [DOI: 10.1093/oxfordjournals.jhered.a107785](https://doi.org/10.1093/oxfordjournals.jhered.a107785) _(This is the source of the famous 1914 photo showing a normal distribution of human heights taken at UConn.)_
 
@@ -12,6 +12,12 @@ The papers listed on this page have bee mentioned in lecture and the information
 **ML Cody and JM Overton. 1996.** Short-term evolution of reduced dispersal in island plant populations. _Journal of Ecology_ 84:53-61. [DOI: 10.2307/2261699](https://doi.org/10.2307/2261699) _(This study was discussed in some detail the week before spring break.)_
 
 **WA Cresko, A Amores, C Wilson, J Murphy, M Currey, P Phillips, MA Bell, CB Kimmel, and JH Postlethwait. 2004.** Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations. Proceedings of the National Academy of Science USA 101:6050-6055. [DOI: 10.1073/pnas.0308479101](https://doi.org/10.1073/pnas.0308479101) _(Figure 4 provided the photo of the F2 dihybrid cross involving stickleback armor that I showed in class.)_
+
+**CR Darwin. 1870.** A naturalist's voyage round the world. 2nd edition. John Murray, London. [Free ebook available at Gutenberg](http://www.gutenberg.org/ebooks/3704) _(The plate showing four species of Darwin's finches was used in class. This is Darwin's travel diary from his voyage on the H.M.S. Beagle, first published in 1839 very soon after his return.)_
+
+**PR Grant. 1986.** Ecology and Evolution of Darwin's Finches. Princeton University Press. (This is a book, but you can download individual chapters as PDF files from [JSTOR](https://www.jstor.org/stable/j.ctt1m3nz91)) _(Plots from this book were used in discussing examples of selection for quantitative traits such as bill depth in Darwin's finches)_
+
+**PR Grant and BR Grant. 1995.** Predicting microevolutionary responses to directional selection on heritable variation. Evolution 49:241-251. [DOI: 10.1111/j.1558-5646.1995.tb02236.x](https://doi.org/10.1111/j.1558-5646.1995.tb02236.x) _(Figure 1 was shown in class to illustrate that the breeder's equation works for natural selection as well as artificial selection.)_
 
 **JBS Haldane. 1924.** A mathematical theory of natural and artificial selection. I. Trans. Cambridge Philos. Soc. 23:19-41. (No DOI available, but it can be downloaded from [the Blackwell Publisher website](http://www.blackwellpublishing.com/ridley/classictexts/haldane1.pdf)) _(This paper represents the first time anyone estimated a selection coefficient for the case of peppered moths in the 1800s. See p. 26 but note that peppered moths were in the genus _Amphidasys_ rather than _Biston_ at that time.)_
 

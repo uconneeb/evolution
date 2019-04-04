@@ -16,6 +16,16 @@ permalink: /review-sessions/
 
 [Natural selection genotype/allele frequencies handout](../assets/pdf/natural-selection-handout.pdf)
 
+[RuBisCO large subunit DNA handout](../assets/pdf/rbcL.pdf)
+
+Note: the RuBisCO data was on the first handout relevant to Exam 3, and the other figures are available from 
+papers listed on the [Literature Cited](/literature-cited/) page 
+(Figures 5,7d from Cody & Overton 1996; 
+Figures 3,4 from Carroll & Boyd 1992; 
+Figure 4 from Cresko et al. 2004; 
+Figure 2 in [Michael Bell web page](http://life.bio.sunysb.edu/ee/belllab/loberg.html); 
+and Figures 1b,3c,3d from Wang et al. 2018)
+
 #### Exams from prior semesters
 
 [Exam 1](../assets/pdf/Exam_1_S_2017.pdf)

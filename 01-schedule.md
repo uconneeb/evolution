@@ -29,9 +29,9 @@ Lecture |  Date      | Topic                                                    
         | Th Mar. 21 | **SPRING BREAK**                                                  |
   15    | Tu Mar. 26 | Modeling natural selection:<br/>directional selection in peppered moths |  pp. 104, 106-110; Box 5A; Fig. 5.1
   16    | Th Mar. 28 | Modeling natural selection:<br/>balancing selection in humans     |  pp. 120-122; Fig. 5.18
-  17    | Tu Apr.  2 | Selection in quantitative traits                                  |  pp. 135-146; Figs. 6.3, 6.6, 6.11, 6.13
-  18    | Th Apr.  4 | Sexual selection                                                  |  pp. 247-259  
-  19    | Tu Apr.  9 | Population genetics                                               |  pp. 83-85
+  17    | Tu Apr.  2 | Selection in quantitative traits                                  |  pp. 135-146; Figs. 6.2, 6.3, 6.13
+  18    | Th Apr.  4 | Selection in quantitative traits (continued)                      |  p. 147; pp. Figs. 6.6, 6.7, 6.8, 6.11, 6.14
+  19    | Tu Apr.  9 | Sexual selection, Hardy-Weinberg Equilibrium                      |  pp. 247-259, 83-85
   20    | Th Apr. 11 | Genetic drift                                                     |  pp. 165-177
         | Tu Apr. 16 | **EXAM 3**  (covers Lectures 13–19)                               |
   21    | Th Apr. 18 | Nonrandom mating; Kin and group selection                         |  pp. 62-65, 269-270, 300-303, 308-315, Boxes 12B,12C
