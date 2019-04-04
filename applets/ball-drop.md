@@ -979,7 +979,7 @@ permalink: /applets/ball-drop/
                     placed.push({'cx':new_cx, 'cy':new_cy, 'r':d.r});
                     //d3.select(this).transition().duration(500).attr("cx", new_cx).attr("cy", new_cy);
                     this.parentNode.appendChild(this); // bring to front (see https://stackoverflow.com/questions/13595175/updating-svg-element-z-index-with-d3)
-                    d3.select(this).transition().duration(500).attr("cx", new_cx).transition().duration(500).attr("cy", new_cy);
+                    d3.select(this).style("pointer-events", "none").transition().duration(500).attr("cx", new_cx).transition().duration(500).attr("cy", new_cy);
                     }
                 else {
                     // Find all intersection points
@@ -993,13 +993,13 @@ permalink: /applets/ball-drop/
                     // Move clicked ball to lowest intersection point if bucket is not 
                     // yet full
                     if (bucket_full) {
-                        d3.selectAll("circle.ball").attr("fill", "gray").attr("stroke", "gray");
+                        d3.selectAll("circle.ball").attr("fill", "gray").attr("stroke", "gray").style("pointer-events", "none");
                         showSummary();
                         }
                     else {
                         placed.push({'cx':lowest_intersect.x, 'cy':lowest_intersect.y, 'r':d.r});
                         this.parentNode.appendChild(this); // bring to front (see https://stackoverflow.com/questions/13595175/updating-svg-element-z-index-with-d3)
-                        d3.select(this).transition().duration(500).attr("cx", lowest_intersect.x).transition().duration(500).attr("cy", lowest_intersect.y);
+                        d3.select(this).style("pointer-events", "none").transition().duration(500).attr("cx", lowest_intersect.x).transition().duration(500).attr("cy", lowest_intersect.y);
                         }
                     }
                 });
