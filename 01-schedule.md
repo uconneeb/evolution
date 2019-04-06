@@ -33,7 +33,7 @@ Lecture |  Date      | Topic                                                    
   18    | Th Apr.  4 | Selection in quantitative traits (continued)                      |  p. 147; pp. Figs. 6.6, 6.7, 6.8, 6.11, 6.14
   19    | Tu Apr.  9 | Sexual selection, Hardy-Weinberg Equilibrium                      |  pp. 247-259, 83-85
   20    | Th Apr. 11 | Genetic drift                                                     |  pp. 165-177
-        | Tu Apr. 16 | **EXAM 3**  (covers Lectures 13–19)                               |
+        | Tu Apr. 16 | **EXAM 3**  (covers Lectures 13–20)                               |
   21    | Th Apr. 18 | Nonrandom mating; Kin and group selection                         |  pp. 62-65, 269-270, 300-303, 308-315, Boxes 12B,12C
   22    | Tu Apr. 23 | Migration                                                         |  pp. 191-204
   23    | Th Apr. 25 | Allopatric speciation                                             |  pp. 213-227
