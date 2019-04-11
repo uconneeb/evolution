@@ -23,6 +23,8 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 **JBS Haldane. 1924.** A mathematical theory of natural and artificial selection. I. Trans. Cambridge Philos. Soc. 23:19-41. (No DOI available, but it can be downloaded from [the Blackwell Publisher website](http://www.blackwellpublishing.com/ridley/classictexts/haldane1.pdf)) _(This paper represents the first time anyone estimated a selection coefficient for the case of peppered moths in the 1800s. See p. 26 but note that peppered moths were in the genus _Amphidasys_ rather than _Biston_ at that time.)_
 
+**UM Savalli. 1994.** Tail length affects territory ownership in the yellow-shouldered widowbird. Animal Behavior 48:105-111. [DOI: 10.1006/anbe.1994.1216](https://doi.org/10.1006/anbe.1994.1216) _(No figures were used from this paper, but the results were contrasted to those found by Andersson 1982 in a different species of widowbird.)_
+
 **O Savolainen, M Lascoux, and J Merila. 2013.** Ecological genomics of local adaptation. Nature Reviews Genetics 14:807-820. [DOI: 10.1038/nrg3522](https://doi.org/10.1038/nrg3522) _(Figure 3 of this paper was shown in lecture to illustrate repeated loss of stickleback armor in freshwater lake environments.)_
 
 **AE van't Hof, P Campagne, DJ Rigden, CJ Yung, J Lingley, MA Quail, N Hall, AC Darby, and IJ Saccheri. 2016.** The industrial melanism mutation in British peppered moths is a transposable element. Nature 534:102-107. [DOI: 10.1038/nature17951](https://doi.org/10.1038/nature17951) _(This paper describes the genetic basis of the dark (melanic) form of the peppered moth. It was mentioned after Dr. McClintock's visit because the mutation results from a transposable element.)_
