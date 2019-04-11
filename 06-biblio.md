@@ -3,7 +3,9 @@ layout: page
 title: Literature Cited
 permalink: /literature-cited/
 ---
-The papers and books listed on this page have bee mentioned in lecture and the information is provided here for the sake of completeness. _You are **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
+The papers and books listed on this page have bee mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
+
+**M Andersson. 1982.** Female choice selects for extreme tail length in a widowbird. Nature 299:818-820. [DOI: 10.1038/299818a0](https://doi.org/10.1038/299818a0) _(A version of Figure 1 was drawn by hand in class.)_
 
 **AF Blakeslee. 1914.** Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account. Journal of Heredity 5:511-518. [DOI: 10.1093/oxfordjournals.jhered.a107785](https://doi.org/10.1093/oxfordjournals.jhered.a107785) _(This is the source of the famous 1914 photo showing a normal distribution of human heights taken at UConn.)_
 
