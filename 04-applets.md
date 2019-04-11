@@ -20,9 +20,18 @@ This applet lets you explore the effect of assuming different values for the sel
 
 Random mutation and natural selection have already found a good solution to this ball packing problem. Can you find a better solution? Your goal is to drop balls into the pit in an order that maximizes the fraction of the pit area occupied by balls. After you play, the app will tell you how well you did compared to the best solution found by 50 generations of natural selection in a population of 50 haploid individuals.
 
-## [Drift]({{ "applets/drift/" | relative_url }})
+## [Selfing]({{ "applets/selfing/" | relative_url }})
 
-This app shows that the long-term effect of genetic drift in 16 small populations each having 9 diploid individuals is ultimately always fixation of one allele or the other.
+This app shows the effect of non-random mating in the form of self-fertilization (selfing), the most extreme form of inbreeding. Selfing leads quickly to a total lack of heterozygotes.
+
+## [Genetic Drift](https://keholsinger.shinyapps.io/Genetic-Drift/)
+
+This app was created by Dr. Kent Holsinger for a different course (note that you are **not expected** to read the detailed notes linked to this page, just explore the applet itself). Be sure to wait for the app to load, then see the effects of increasing and decreasing the population size.
+
+## [Subpopulations]({{ "applets/subpopulations/" | relative_url }})
+
+This app shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding).
+
 
 {% comment %}
 ## [Correlation]({{ "applets/correlation/" | relative_url }})
