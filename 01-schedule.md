@@ -32,12 +32,12 @@ Lecture |  Date      | Topic                                                    
   17    | Tu Apr.  2 | Selection in quantitative traits                                  |  pp. 135-146; Figs. 6.2, 6.3, 6.13
   18    | Th Apr.  4 | Selection in quantitative traits (continued)                      |  p. 147; pp. Figs. 6.6, 6.7, 6.8, 6.11, 6.14
   19    | Tu Apr.  9 | Sexual selection, Hardy-Weinberg Equilibrium                      |  pp. 247-259, 83-85
-  20    | Th Apr. 11 | Genetic drift                                                     |  pp. 165-177
+  20    | Th Apr. 11 | Nonrandom mating (selfing), genetic drift (start)                 |  pp. 165-177
         | Tu Apr. 16 | **EXAM 3**  (covers Lectures 13–20)                               |
-  21    | Th Apr. 18 | Nonrandom mating; Kin and group selection                         |  pp. 62-65, 269-270, 300-303, 308-315, Boxes 12B,12C
-  22    | Tu Apr. 23 | Migration                                                         |  pp. 191-204
+  21    | Th Apr. 18 | Genetic drift, population structure, founder effect               |  pp. 269-270, 196-197
+  22    | Tu Apr. 23 | Migration                                                         |  pp. 191-195, 198-204
   23    | Th Apr. 25 | Allopatric speciation                                             |  pp. 213-227
   24    | Tu Apr. 30 | Sympatric speciation                                              |  pp. 227-242
-  25    | Th May   2 | Coevolution                                                       |  pp. 321-359
-        | May 10-16  | **Final Exam week EXAM 4** (covers Lectures 20–25                 |
+  25    | Th May   2 | TBA                                                               |  
+        | Tu May   7 | **Final exam** (covers Lectures 20–25)                            | 3:30 - 5:30
 {:#lecturestable}
