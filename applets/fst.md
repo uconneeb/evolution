@@ -6,7 +6,8 @@ permalink: /applets/fst/
 
 ## Fst and genetic drift in small populations
 
-Press the 'n' key to advance to the next generation. Refresh your browser to start over.
+Press the 'n' key to advance to the next generation. Press the 's' key to toggle between
+4 and 16 diploid individuals per population. Refresh your browser to start over.
 
 Note that **AA** homozygotes are yellow, **Aa** heterozygotes are orange, and **aa** homozygotes are red. 
 The frequency of allele **A** used at the start is _p_ = 0.5.
@@ -42,7 +43,7 @@ as large as it can get, and **Fst** equals 1.
     // SOFTWARE.
     // 
     // written by Paul O. Lewis 16-April-2019
-
+    
     // Colors
     var genotype_color = ["yellow", "orange", "red"];
     var genotype_stroke = "gray";
@@ -69,6 +70,8 @@ as large as it can get, and **Fst** equals 1.
 
     // height of status text area below population grid
     var status_h = 50;
+    
+    var ngens = 0;
 
     // There poprows x popcols isolated subpopulations
     var poprows = 4;
@@ -76,8 +79,10 @@ as large as it can get, and **Fst** equals 1.
     var npops = poprows*popcols;
 
     // There indivrows x indivcols diploid individuals per subpopulation
+    var tinypop = false;
     var indivrows = 4;
     var indivcols = 4;
+    var indiv_data = [];
 
     // Dimensions of cells in which individuals are shown
     var wcell = grid_w/(popcols*indivcols);
@@ -107,7 +112,7 @@ as large as it can get, and **Fst** equals 1.
             heterozygosity.push({"i":i, "j":j, "heterozygosity":0.0});
         }
     }
-
+    
     function resetFreqPlotData() {
         for (let b = 0; b < freqplot_bars; b++) {
             freqplot_data[b].freq = 0;
@@ -206,30 +211,34 @@ as large as it can get, and **Fst** equals 1.
     }       
 
     // Data for individuals is stored as list of objects containing information about each individual
-    var indiv_data = [];
-    total_heterozygosity = 0.0;
-    total_freqA = 0.0;
-    resetFreqPlotData();
-    for (let i = 0; i < poprows; i++) {
-        for (let j = 0; j < popcols; j++) {
-            let n = indivrows*indivcols;
-            let v = drawNGenotypes(i, j, n, true);
-            total_heterozygosity += heterozygosity[i*popcols + j].heterozygosity;
-            total_freqA += freqA[i*popcols + j].freq;
-            for (let k = 0; k < indivrows; k++) {
-                for (let m = 0; m < indivcols; m++) {
-                    let x = getCellX(j, m);
-                    let y = getCellY(i, k);
-                    indiv_data.push({"i":i, "j":j, "k":k, "m":m, "x":x, "y":y, "genotype":v[k*indivcols + m]});
+    function initializePops() {
+        ngens = 0;
+        indiv_data = [];
+        total_heterozygosity = 0.0;
+        total_freqA = 0.0;
+        resetFreqPlotData();
+        for (let i = 0; i < poprows; i++) {
+            for (let j = 0; j < popcols; j++) {
+                let n = indivrows*indivcols;
+                let v = drawNGenotypes(i, j, n, true);
+                total_heterozygosity += heterozygosity[i*popcols + j].heterozygosity;
+                total_freqA += freqA[i*popcols + j].freq;
+                for (let k = 0; k < indivrows; k++) {
+                    for (let m = 0; m < indivcols; m++) {
+                        let x = getCellX(j, m);
+                        let y = getCellY(i, k);
+                        indiv_data.push({"i":i, "j":j, "k":k, "m":m, "x":x, "y":y, "genotype":v[k*indivcols + m]});
+                    }
                 }
             }
         }
+        total_heterozygosity /= (poprows*popcols);
+        total_freqA /= (poprows*popcols);
     }
-    total_heterozygosity /= (poprows*popcols);
-    total_freqA /= (poprows*popcols);
+    initializePops();
 
     function getStatusText() {
-        return "mean p = " + total_freqA.toFixed(3) + ", heterogyzosity = " + total_heterozygosity.toFixed(3) + ", Fst = " + Fst.toFixed(3);
+        return "mean p = " + total_freqA.toFixed(3) + ", H = " + total_heterozygosity.toFixed(3) + ", Fst = " + Fst.toFixed(3) + ", " + ngens + " generations";
     }
 
     function recalcFst() {
@@ -248,6 +257,7 @@ as large as it can get, and **Fst** equals 1.
     }
 
     function nextGeneration() {
+        ngens++;
         resetFreqPlotData();
         total_heterozygosity = 0.0;
         total_freqA = 0.0;
@@ -322,6 +332,36 @@ as large as it can get, and **Fst** equals 1.
         if (d3.event.keyCode == 78) {
             // 78 is the "n" key
             nextGeneration();
+        }
+        else if (d3.event.keyCode == 83) {
+            // 83 is the "s" key
+            if (tinypop) {
+                tinypop = false;
+                indivrows = 4;
+                indivcols = 4;
+            }
+            else {
+                tinypop = true;
+                indivrows = 2;
+                indivcols = 2;
+            }
+            
+            wcell = grid_w/(popcols*indivcols);
+            hcell = grid_h/(poprows*indivrows);
+            cell_avg_diam = (wcell + hcell)/2;
+            
+            d3.selectAll("circle.indiv").remove();
+            initializePops();
+            plot_svg.selectAll("circle.indiv")
+                .data(indiv_data)
+                .enter()
+                .append("circle")
+                .attr("class", "indiv")
+                .attr("cx", function(d) {return d.x;})
+                .attr("cy", function(d) {return d.y;})
+                .attr("r", rindiv)
+                .attr("fill", function(d) {return genotype_color[d.genotype];})
+                .attr("stroke", genotype_stroke);
         }
     }
     d3.select("body")
