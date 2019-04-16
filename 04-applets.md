@@ -28,9 +28,9 @@ This app shows the effect of non-random mating in the form of self-fertilization
 
 This app was created by Dr. Kent Holsinger for a different course (note that you are **not expected** to read the detailed notes linked to this page, just explore the applet itself). Be sure to wait for the app to load, then see the effects of increasing and decreasing the population size.
 
-## [Subpopulations]({{ "applets/subpopulations/" | relative_url }})
+## [Fst]({{ "applets/fst/" | relative_url }})
 
-This app shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding).
+This app shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding, but see if you can spot the difference).
 
 
 {% comment %}

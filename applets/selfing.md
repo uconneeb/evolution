@@ -93,22 +93,43 @@ The starting frequencies of AA, Aa, and aa are 0.25, 0.5, and 0.25, respectively
     }
     
     // Draw n genotypes
-    function drawNGenotypes(n, self_fertilize) {
+    function drawNGenotypes(n, self_fertilize, initialize) {
         let v = [];
+        let nTotal = 0;
         let nAA = 0;
         let nAa = 0;
         let naa = 0;
-        for (k = 0; k < n; k++) {
-            let g = drawOneGenotype(freqAA, freqAa, freqaa, self_fertilize);
-            v.push(g);
-            if (g == 0)
-                nAA++;
-            else if (g == 1)
-                nAa++;
-            else 
-                naa++;
+        if (initialize) {
+            nTotal = indivrows*indivcols;
+            nAA = Math.floor(0.25*nTotal);
+            nAa = Math.floor(0.5*nTotal);
+            naa = Math.floor(0.25*nTotal);
+            if (nAA + nAa + naa != nTotal) {
+                console.log("ERROR: number of individuals in each population should be a multiple of 4");
+            }
+            for (let i = 0; i < nAA; i++) {
+                v.push(0);
+            }
+            for (let i = 0; i < nAa; i++) {
+                v.push(1);
+            }
+            for (let i = 0; i < naa; i++) {
+                v.push(2);
+            }
         }
-        let nTotal = nAA + nAa + naa;
+        else {
+            for (k = 0; k < n; k++) {
+                let g = drawOneGenotype(freqAA, freqAa, freqaa, self_fertilize);
+                v.push(g);
+                if (g == 0)
+                    nAA++;
+                else if (g == 1)
+                    nAa++;
+                else 
+                    naa++;
+            }
+            nTotal = nAA + nAa + naa;
+        }
         freqAA = nAA/nTotal;
         freqAa = nAa/nTotal;
         freqaa = naa/nTotal;
@@ -126,7 +147,7 @@ The starting frequencies of AA, Aa, and aa are 0.25, 0.5, and 0.25, respectively
     // Data for individuals is stored as list of objects containing information about each individual
     var indiv_data = [];
     let n = indivrows*indivcols;
-    let v = drawNGenotypes(n, false);
+    let v = drawNGenotypes(n, false, true);
     for (let i = 0; i < indivrows; i++) {
         for (let j = 0; j < indivcols; j++) {
             let x = getCellX(j);
@@ -141,7 +162,7 @@ The starting frequencies of AA, Aa, and aa are 0.25, 0.5, and 0.25, respectively
     
     function nextGeneration() {
         let n = indivrows*indivcols;
-        let v = drawNGenotypes(n, true);
+        let v = drawNGenotypes(n, true, false);
         for (let i = 0; i < indivrows; i++) {
             for (let j = 0; j < indivcols; j++) {
                 let x = getCellX(j);
@@ -239,7 +260,7 @@ The starting frequencies of AA, Aa, and aa are 0.25, 0.5, and 0.25, respectively
         .attr("cy", function(d) {return d.y;})
         .attr("r", rindiv)
         .attr("fill", function(d) {return genotype_color[d.genotype];})
-        .attr("stroke", "none");
+        .attr("stroke", "black");
 
     // Create blue line from center of plot area to right edge
     plot_svg.selectAll("line.popbounds")
