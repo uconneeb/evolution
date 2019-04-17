@@ -6,25 +6,13 @@ permalink: /applets/fst/
 
 ## Fst and genetic drift in small populations
 
-The following keys do something:
-* 'n' advances to the next generation
-* 's' toggles between 4 and 16 diploid individuals per population
-* 'h' hides population boundaries
-
-Refresh your browser to start over.
-
 Key to genotype colors:
 * ![](https://via.placeholder.com/20.png/FEFF0B/000000?text=+) AA (yellow)
 * ![](https://via.placeholder.com/20.png/F08D08/000000?text=+) Aa (orange)
 * ![](https://via.placeholder.com/20.png/FF0000/FFFFFF?text=+) aa (red)
 
-The frequency of allele **A** used at the start is _p_ = 0.5.
-
-The **blue histogram** at the top shows the distribution of _p_ over the 12 populations (_p_ = 0 at far left, _p_ = 1 at far right). 
-With each new generation, drift increases the variance of _p_ across populations and thus 
-increases **Fst** (indicated by the fraction of the status bar filled with **orange**) until, eventually, 
-all populations are fixed for either the **A** or the **a** allele, the variance of _p_ is 
-as large as it can get, and **Fst** equals 1.
+The frequency of allele **A** used at the start is _p_ = 0.5 for all populations. Refresh your browser to start over.
+Scroll down for more details.
 
 <div id="arbitrary"></div>
 <script type="text/javascript">
@@ -249,7 +237,7 @@ as large as it can get, and **Fst** equals 1.
     initializePops();
 
     function getStatusText() {
-        return "g = " + ngens + ", p = " + pbar.toFixed(3) + ", Ho = " + Ho.toFixed(3) + ", He = " + He.toFixed(3) + ", Fst = " + Fst.toFixed(3);
+        return "g = " + ngens + ", pmean = " + pbar.toFixed(3) + ", Ho = " + Ho.toFixed(3) + ", He = " + He.toFixed(3) + ", Fst = " + Fst.toFixed(3);
     }
 
     function recalcFst() {
@@ -462,3 +450,22 @@ as large as it can get, and **Fst** equals 1.
         .text(getStatusText())
     CenterTextInRect(status_text, 0, freqplot_h, grid_w, fstbar_h);                 
 </script>
+
+The following keys do something:
+* 'n' advances to the next generation
+* 's' toggles between 4 and 16 diploid individuals per population
+* 'h' hides population boundaries
+
+The status text shows:
+* **g** = the number of generations of random mating within populations
+* **pmean** = mean frequency of the A allele (_p_) over all populations
+* **Ho** = observed heterozygosity = fraction of heterozygotes over all populations
+* **He** = expected heterozygosity = expected fraction of heterozygotes = 2 pmean (1-pmean)
+* **Fst** = variance of _p_ across populations divided by pmean (1 - pmean), which is the maximum possible variance of _p_ across populations
+
+The **blue histogram** at the top shows the distribution of _p_ over the 12 populations (_p_ = 0 at far left, _p_ = 1 at far right).
+ 
+With each new generation, drift increases the variance of _p_ across populations and thus 
+increases **Fst** (indicated by the fraction of the status bar filled with **orange**) until, eventually, 
+all populations are fixed for either the **A** or the **a** allele, the variance of _p_ is 
+as large as it can get, and **Fst** equals 1.
