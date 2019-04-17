@@ -6,10 +6,18 @@ permalink: /applets/fst/
 
 ## Fst and genetic drift in small populations
 
-Press the 'n' key to advance to the next generation. Press the 's' key to toggle between
-4 and 16 diploid individuals per population. Refresh your browser to start over.
+The following keys do something:
+* 'n' advances to the next generation
+* 's' toggles between 4 and 16 diploid individuals per population
+* 'h' hides population boundaries
 
-Note that **AA** homozygotes are yellow, **Aa** heterozygotes are orange, and **aa** homozygotes are red. 
+Refresh your browser to start over.
+
+Key to genotype colors:
+* ![](https://via.placeholder.com/20.png/FEFF0B/000000?text=+) AA (yellow)
+* ![](https://via.placeholder.com/20.png/F08D08/000000?text=+) Aa (orange)
+* ![](https://via.placeholder.com/20.png/FF0000/FFFFFF?text=+) aa (red)
+
 The frequency of allele **A** used at the start is _p_ = 0.5.
 
 The **blue histogram** at the top shows the distribution of _p_ over the 12 populations (_p_ = 0 at far left, _p_ = 1 at far right). 
@@ -83,6 +91,8 @@ as large as it can get, and **Fst** equals 1.
     var indivrows = 4;
     var indivcols = 4;
     var indiv_data = [];
+    
+    var popbounds_hidden = false;
 
     // Dimensions of cells in which individuals are shown
     var wcell = grid_w/(popcols*indivcols);
@@ -101,10 +111,11 @@ as large as it can get, and **Fst** equals 1.
         [0, grid_w]);
 
     // Initialize frequency of A allele in all subpopulations
-    var total_heterozygosity = 0.0;
+    var Ho = 0.0;
+    var He = 0.0;
     var heterozygosity = [];
     var freqA = [];
-    var total_freqA = 0.0;
+    var pbar = 0.0;
     for (let i = 0; i < poprows; i++) {
         for (let j = 0; j < popcols; j++) {
             let tmp = {"i":i, "j":j, "freq":0.5};
@@ -214,15 +225,15 @@ as large as it can get, and **Fst** equals 1.
     function initializePops() {
         ngens = 0;
         indiv_data = [];
-        total_heterozygosity = 0.0;
-        total_freqA = 0.0;
+        Ho = 0.0;
+        pbar = 0.0;
         resetFreqPlotData();
         for (let i = 0; i < poprows; i++) {
             for (let j = 0; j < popcols; j++) {
                 let n = indivrows*indivcols;
                 let v = drawNGenotypes(i, j, n, true);
-                total_heterozygosity += heterozygosity[i*popcols + j].heterozygosity;
-                total_freqA += freqA[i*popcols + j].freq;
+                Ho += heterozygosity[i*popcols + j].heterozygosity;
+                pbar += freqA[i*popcols + j].freq;
                 for (let k = 0; k < indivrows; k++) {
                     for (let m = 0; m < indivcols; m++) {
                         let x = getCellX(j, m);
@@ -232,13 +243,13 @@ as large as it can get, and **Fst** equals 1.
                 }
             }
         }
-        total_heterozygosity /= (poprows*popcols);
-        total_freqA /= (poprows*popcols);
+        Ho /= (poprows*popcols);
+        pbar /= (poprows*popcols);
     }
     initializePops();
 
     function getStatusText() {
-        return "mean p = " + total_freqA.toFixed(3) + ", H = " + total_heterozygosity.toFixed(3) + ", Fst = " + Fst.toFixed(3) + ", " + ngens + " generations";
+        return "g = " + ngens + ", p = " + pbar.toFixed(3) + ", Ho = " + Ho.toFixed(3) + ", He = " + He.toFixed(3) + ", Fst = " + Fst.toFixed(3);
     }
 
     function recalcFst() {
@@ -259,14 +270,14 @@ as large as it can get, and **Fst** equals 1.
     function nextGeneration() {
         ngens++;
         resetFreqPlotData();
-        total_heterozygosity = 0.0;
-        total_freqA = 0.0;
+        Ho = 0.0;
+        pbar = 0.0;
         for (let i = 0; i < poprows; i++) {
             for (let j = 0; j < popcols; j++) {
                 let n = indivrows*indivcols;
                 let v = drawNGenotypes(i, j, n, false);
-                total_heterozygosity += heterozygosity[i*popcols + j].heterozygosity;
-                total_freqA += freqA[i*popcols + j].freq;
+                Ho += heterozygosity[i*popcols + j].heterozygosity;
+                pbar += freqA[i*popcols + j].freq;
                 for (let k = 0; k < indivrows; k++) {
                     for (let m = 0; m < indivcols; m++) {
                         let x = getCellX(j, m);
@@ -277,8 +288,9 @@ as large as it can get, and **Fst** equals 1.
                 }
             }
         }
-        total_heterozygosity /= (poprows*popcols);
-        total_freqA /= (poprows*popcols);
+        Ho /= (poprows*popcols);
+        pbar /= (poprows*popcols);
+        He = 2.0*pbar*(1.0 - pbar);
         recalcFst();
         d3.select("rect#fst")
             .attr("width", grid_w*Fst)
@@ -332,6 +344,17 @@ as large as it can get, and **Fst** equals 1.
         if (d3.event.keyCode == 78) {
             // 78 is the "n" key
             nextGeneration();
+        }
+        else if (d3.event.keyCode == 72) {
+            // 72 is the "h" key
+            if (popbounds_hidden) {
+                d3.selectAll("line.popbounds").style("visibility", "visible");
+                popbounds_hidden = false;
+            }
+            else {
+                d3.selectAll("line.popbounds").style("visibility", "hidden");
+                popbounds_hidden = true;
+            }
         }
         else if (d3.event.keyCode == 83) {
             // 83 is the "s" key
