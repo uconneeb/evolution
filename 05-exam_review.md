@@ -26,6 +26,8 @@ Figure 4 from Cresko et al. 2004;
 Figure 2 in [Michael Bell web page](http://life.bio.sunysb.edu/ee/belllab/loberg.html); 
 and Figures 1b,3c,3d from Wang et al. 2018)
 
+[Coalescence figure shown April 18](../assets/pdf/coalescence.pdf)
+
 #### Exams from prior semesters
 
 [Exam 1](../assets/pdf/Exam_1_S_2017.pdf)
