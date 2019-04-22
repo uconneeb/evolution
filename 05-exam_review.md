@@ -14,6 +14,10 @@ permalink: /review-sessions/
 
 [Exam 3 study guide](../assets/pdf/Study_Guide_Exam_3_2019.pdf)
 
+[Exam 4 study guide](../assets/pdf/Study_Guide_Exam_4_2019.pdf)
+
+#### Supplementary materials
+
 [Natural selection genotype/allele frequencies handout](../assets/pdf/natural-selection-handout.pdf)
 
 [RuBisCO large subunit DNA handout](../assets/pdf/rbcL.pdf)
