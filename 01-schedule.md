@@ -34,9 +34,9 @@ Lecture |  Date      | Topic                                                    
   19    | Tu Apr.  9 | Sexual selection, Hardy-Weinberg Equilibrium                      |  pp. 247-259, 83-85
   20    | Th Apr. 11 | Nonrandom mating (selfing), genetic drift (start)                 |  pp. 165-177
         | Tu Apr. 16 | **EXAM 3**  (covers Lectures 13–20)                               |
-  21    | Th Apr. 18 | Genetic drift, population structure, founder effect               |  pp. 269-270, 196-197
-  22    | Tu Apr. 23 | Migration                                                         |  pp. 191-195, 198-204
-  23    | Th Apr. 25 | Allopatric speciation                                             |  pp. 213-227
+  21    | Th Apr. 18 | Genetic drift, population structure                               |  pp. 196-197
+  22    | Tu Apr. 23 | Bottlenecks, founder effect, drift-selection-migration combo      |  pp. 191-195, 198-204
+  23    | Th Apr. 25 | Allopatric speciation, reproductive isolating barriers            |  pp. 213-227
   24    | Tu Apr. 30 | Sympatric speciation                                              |  pp. 227-242
   25    | Th May   2 | TBA                                                               |  
         | Tu May   7 | **Final exam** (covers Lectures 20–25)                            | 3:30 - 5:30

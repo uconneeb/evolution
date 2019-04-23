@@ -9,6 +9,12 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 **AF Blakeslee. 1914.** Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account. Journal of Heredity 5:511-518. [DOI: 10.1093/oxfordjournals.jhered.a107785](https://doi.org/10.1093/oxfordjournals.jhered.a107785) _(This is the source of the famous 1914 photo showing a normal distribution of human heights taken at UConn.)_
 
+{% comment %}
+**DI Bolnick and P. Nosil. 2007.** Natural selection in populations subject to a migration load. Evolution 2229-2243. [DOI: 10.1111/j.1558-5646.2007.00179.x](https://doi.org/10.1111/j.1558-5646.2007.00179.x) _(Discussed in lecture April 23 as an example of both the effects of migration as well as migration-selection balance.)_
+{% endcomment %}
+
+**RL Cann, M Stoneking, and AC Wilson. 1987** Mitochondrial DNA and human evolution. Nature 325:31-36. [DOI: 10.1038/325031a0](https://doi.org/10.1038/325031a0) _(This paper was mentioned April 18 in the discussion of "Mitochondrial Eve".)_
+
 **SP Carroll and C. Boyd. 1992.** Host race radiation in the soapberry bug: natural history with the history. _Evolution_ 46:1052-1069. [DOI: 10.1111/j.1558-5646.1992.tb00619.x](https://doi.org/10.1111/j.1558-5646.1992.tb00619.x) _(This study was discussed in some detail the week before spring break.)_
 
 **ML Cody and JM Overton. 1996.** Short-term evolution of reduced dispersal in island plant populations. _Journal of Ecology_ 84:53-61. [DOI: 10.2307/2261699](https://doi.org/10.2307/2261699) _(This study was discussed in some detail the week before spring break.)_
@@ -22,6 +28,8 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 **PR Grant and BR Grant. 1995.** Predicting microevolutionary responses to directional selection on heritable variation. Evolution 49:241-251. [DOI: 10.1111/j.1558-5646.1995.tb02236.x](https://doi.org/10.1111/j.1558-5646.1995.tb02236.x) _(Figure 1 was shown in class to illustrate that the breeder's equation works for natural selection as well as artificial selection.)_
 
 **JBS Haldane. 1924.** A mathematical theory of natural and artificial selection. I. Trans. Cambridge Philos. Soc. 23:19-41. (No DOI available, but it can be downloaded from [the Blackwell Publisher website](http://www.blackwellpublishing.com/ridley/classictexts/haldane1.pdf)) _(This paper represents the first time anyone estimated a selection coefficient for the case of peppered moths in the 1800s. See p. 26 but note that peppered moths were in the genus _Amphidasys_ rather than _Biston_ at that time.)_
+
+**P Nosil. 2009.** Adaptive population divergence in cryptic color-pattern following a reduction in gene flow. Evolution 63:1902-1912. [DOI: 10.1111/j.1558-5646.2009.00671.x](https://doi.org/10.1111/j.1558-5646.2009.00671.x) _(Discussed in lecture April 23 as an example of both the effects of migration as well as migration-selection balance.)_
 
 **UM Savalli. 1994.** Tail length affects territory ownership in the yellow-shouldered widowbird. Animal Behavior 48:105-111. [DOI: 10.1006/anbe.1994.1216](https://doi.org/10.1006/anbe.1994.1216) _(No figures were used from this paper, but the results were contrasted to those found by Andersson 1982 in a different species of widowbird.)_
 
