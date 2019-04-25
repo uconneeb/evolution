@@ -6,10 +6,14 @@ permalink: /applets/selfing/
 
 ## Effects of repeated selfing
 
-Press the "n" key to advance to the next generation. Repeat to see heterozygosity decrease to zero. Refresh your browser to start over.
+Key to genotype colors:
+* ![](https://via.placeholder.com/20.png/FEFF0B/000000?text=+) AA (yellow)
+* ![](https://via.placeholder.com/20.png/F08D08/000000?text=+) Aa (orange)
+* ![](https://via.placeholder.com/20.png/FF0000/FFFFFF?text=+) aa (red)
 
-Note that AA homozygotes are yellow, Aa heterozygotes are orange, and aa homozygotes are red. 
 The starting frequencies of AA, Aa, and aa are 0.25, 0.5, and 0.25, respectively. 
+Press the "n" key to advance to the next generation. Repeat to see heterozygosity decrease to zero. 
+Refresh your browser to start over.
 
 <div id="arbitrary"></div>
 <script type="text/javascript">
@@ -43,8 +47,8 @@ The starting frequencies of AA, Aa, and aa are 0.25, 0.5, and 0.25, respectively
     var status_h = 50;
     
     // There indivrows x indivcols diploid individuals
-    var indivrows = 12;
-    var indivcols = 12;
+    var indivrows = 16;
+    var indivcols = 16;
     
     // Dimensions of cells in which individuals are shown
     var wcell = plot_w/indivcols;
