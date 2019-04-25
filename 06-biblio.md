@@ -7,6 +7,9 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 **M Andersson. 1982.** Female choice selects for extreme tail length in a widowbird. Nature 299:818-820. [DOI: 10.1038/299818a0](https://doi.org/10.1038/299818a0) _(A version of Figure 1 was drawn by hand in class.)_
 
+**M Baym, TD Lieberman, ED Kelsic, R Chait, R Gross, I Yelin, R Kishony.
+2016.** Spatiotemporal microbial evolution on antibiotic landscapes. Science 353:1147-1151. [DOI: 10.1126/science.aag0822](https://doi.org/10.1126/science.aag0822) _(Showed the [YouTube video](https://youtu.be/yybsSqcB7mE) during class on April 25 and talked about some of the main conclusions from this experiment. You may also want to watch the [segment on 60 minutes](https://www.cbsnews.com/news/could-antibiotic-resistant-superbugs-become-a-bigger-killer-than-cancer-60-minutes-2019-04-21/) about this topic.)_
+
 **AF Blakeslee. 1914.** Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account. Journal of Heredity 5:511-518. [DOI: 10.1093/oxfordjournals.jhered.a107785](https://doi.org/10.1093/oxfordjournals.jhered.a107785) _(This is the source of the famous 1914 photo showing a normal distribution of human heights taken at UConn.)_
 
 {% comment %}
