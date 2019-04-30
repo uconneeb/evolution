@@ -24,8 +24,8 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 **ML Cody and JM Overton. 1996.** Short-term evolution of reduced dispersal in island plant populations. _Journal of Ecology_ 84:53-61. [DOI: 10.2307/2261699](https://doi.org/10.2307/2261699) _(This study was discussed in some detail the week before spring break.)_
 
+**JA Coyne. 2014.** There are no ring species. [blog post](https://whyevolutionistrue.wordpress.com/2014/07/16/there-are-no-ring-species/) _(I include this blog post because it reproduces plate 1 from Coyne and Orr, 2004, which was mentioned in lecture April 30 in the discussion of ring species.)_
 {% comment %}
-**JA Coyne. 2014.** There are no ring species. [blog post](https://whyevolutionistrue.wordpress.com/2014/07/16/there-are-no-ring-species/) _(I include this blog post because it reproduces plate 1 from Coyne and Orr, 2004, which was mentioned in lecture April 25 in the discussion of ring species.)_
 {% endcomment %}
 
 **JA Coyne and HA Orr. 2004.** Speciation. Sinauer Associates, Sunderland, Massachusetts. [link to publisher site](https://global.oup.com/ushe/product/speciation-9780878930890?q=coyne&lang=en&cc=us) _(Figs. 3.2, p. 96, and 3.4, pl. 100, were used in a handout referenced April 25 to illustrate allopatric sister species and incipient allopatric speciation, respectively.)_
@@ -47,6 +47,10 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 **PO Lewis and DJ Crawford. 1995.** Pleistocene refugium endemics exhibit greater allozymic diversity than widespread congeners in the genus Polygonella (Polygonaceae). American Journal of Botany 82:141-149. [DOI: 10.1002/j.1537-2197.1995.tb11483.x](https://doi.org/10.1002/j.1537-2197.1995.tb11483.x) _(Phylogeny and distributions of taxa used to illustrate allopatry of sister species in handout referenced April 25.)_
 
 **P Nosil. 2009.** Adaptive population divergence in cryptic color-pattern following a reduction in gene flow. Evolution 63:1902-1912. [DOI: 10.1111/j.1558-5646.2009.00671.x](https://doi.org/10.1111/j.1558-5646.2009.00671.x) _(Discussed in lecture April 23 as an example of both the effects of migration as well as migration-selection balance.)_
+
+**JQ Richmond and EL Jockusch. 2007.** Body size evolution simultaneously creates and collapses species boundaries in a clade of scincid lizards. Proceedings of the Royal Society B 274:1701–1708. [DOI: 10.1098/rspb.2007.0364](https://doi.org/10.1098/rspb.2007.0364) _(Figure 1 shown in class April 30 as example of loss of reproductive isolating barriers leading to a species that is polyphyletic.)_
+{% comment %}
+{% endcomment %}
 
 **JQ Richmond, EL Jockusch, and AM Latimer. 2011.** Mechanical reproductive isolation facilitates parallel speciation in Western North American scincid lizards. American Naturalist 178:320-332. [DOI: 10.5061/dryad.51d7k](https://doi.org/10.5061/dryad.51d7k) _(Showed video 1 and figure 3 from this paper on April 25 to illustrate mechanical isolation.)_
 
