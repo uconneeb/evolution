@@ -58,6 +58,8 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 **O Savolainen, M Lascoux, and J Merila. 2013.** Ecological genomics of local adaptation. Nature Reviews Genetics 14:807-820. [DOI: 10.1038/nrg3522](https://doi.org/10.1038/nrg3522) _(Figure 3 of this paper was shown in lecture to illustrate repeated loss of stickleback armor in freshwater lake environments.)_
 
+**DE Soltis. 1984.** Autopolyploidy in Tolmiea menziesii (Saxifragaceae). American Journal of Botany 71:1171-1174. [link to PDF](https://www.jstor.org/stable/2443640) _(Figure 1 is an example of speciation by autopolyploidy in plants.)_
+
 **AE van't Hof, P Campagne, DJ Rigden, CJ Yung, J Lingley, MA Quail, N Hall, AC Darby, and IJ Saccheri. 2016.** The industrial melanism mutation in British peppered moths is a transposable element. Nature 534:102-107. [DOI: 10.1038/nature17951](https://doi.org/10.1038/nature17951) _(This paper describes the genetic basis of the dark (melanic) form of the peppered moth. It was mentioned after Dr. McClintock's visit because the mutation results from a transposable element.)_
 
 **J Wang, J Ding, T Biyue, KM Robinson, IH Michelson, A Johannson, B Nystedt, DG Scofield, O Nilsson, S Jansson, NR Street, and PK Ingvarsson. 2018.** A major locus controls local adaptation and adaptive life history variation in a perennial plant. _Genome Biology_ 19:72. [DOI: 10.1186/s13059-018-1444-y](https://doi.org/10.1186/s13059-018-1444-y) _(Figure 3 of this paper provided a couple of figures used in lecture when describing the selective sweep of the early-bud-formation-mutation in population of aspen in northern Sweden.)_
