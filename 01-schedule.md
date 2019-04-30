@@ -36,8 +36,8 @@ Lecture |  Date      | Topic                                                    
         | Tu Apr. 16 | **EXAM 3**  (covers Lectures 13–20)                               |
   21    | Th Apr. 18 | Genetic drift, population structure                               |  pp. 196-197
   22    | Tu Apr. 23 | Bottlenecks, founder effect, drift-selection-migration combo      |  pp. 191-195, 198-204
-  23    | Th Apr. 25 | Allopatric speciation, reproductive isolating barriers            |  pp. 215-217, 220-223, 227-228, 235-237, 241; Table 9.1; Figs. 9.17, 9.27, 9.28
-  24    | Tu Apr. 30 | Sympatric speciation                                              |  pp. 232-233, 238-240
-  25    | Th May   2 | TBA                                                               |  
+  23    | Th Apr. 25 | Allopatric speciation, reproductive isolating barriers            |  pp. 215-217, 220-223, 227-228, 235-237, 241; Table 9.1
+  24    | Tu Apr. 30 | Peripatric, parapatric, and sympatric speciation                  |  pp. 230-233, 238-240; Figs. 9.17, 9.19, 9.27, 9.28
+  25    | Th May   2 | Relatedness and inclusive fitness                                 |  pp. 300-303, 308-310; Boxes 12B, 12C
         | Tu May   7 | **Final exam** (covers Lectures 20–25)                            | 3:30 - 5:30
 {:#lecturestable}

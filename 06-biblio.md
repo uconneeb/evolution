@@ -24,13 +24,17 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 **ML Cody and JM Overton. 1996.** Short-term evolution of reduced dispersal in island plant populations. _Journal of Ecology_ 84:53-61. [DOI: 10.2307/2261699](https://doi.org/10.2307/2261699) _(This study was discussed in some detail the week before spring break.)_
 
+{% comment %}
 **JA Coyne. 2014.** There are no ring species. [blog post](https://whyevolutionistrue.wordpress.com/2014/07/16/there-are-no-ring-species/) _(I include this blog post because it reproduces plate 1 from Coyne and Orr, 2004, which was mentioned in lecture April 25 in the discussion of ring species.)_
+{% endcomment %}
 
 **JA Coyne and HA Orr. 2004.** Speciation. Sinauer Associates, Sunderland, Massachusetts. [link to publisher site](https://global.oup.com/ushe/product/speciation-9780878930890?q=coyne&lang=en&cc=us) _(Figs. 3.2, p. 96, and 3.4, pl. 100, were used in a handout referenced April 25 to illustrate allopatric sister species and incipient allopatric speciation, respectively.)_
 
 **WA Cresko, A Amores, C Wilson, J Murphy, M Currey, P Phillips, MA Bell, CB Kimmel, and JH Postlethwait. 2004.** Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations. Proceedings of the National Academy of Science USA 101:6050-6055. [DOI: 10.1073/pnas.0308479101](https://doi.org/10.1073/pnas.0308479101) _(Figure 4 provided the photo of the F2 dihybrid cross involving stickleback armor that I showed in class.)_
 
 **CR Darwin. 1870.** A naturalist's voyage round the world. 2nd edition. John Murray, London. [Free ebook available at Gutenberg](http://www.gutenberg.org/ebooks/3704) _(The plate showing four species of Darwin's finches was used in class. This is Darwin's travel diary from his voyage on the H.M.S. Beagle, first published in 1839 very soon after his return.)_
+
+**FC Gowen, JM Maley, C Cicero,  AT Peterson, BC Faircloth, TC Warr, and JE McCormack. 2014.** Speciation in western scrub-jays, Haldane’s rule, and genetic clines in secondary contact. BMC Evolutionary Biology 14:135 [DOI: 10.1186/1471-2148-14-135](https://doi.org/10.1186/1471-2148-14-135) _(Figure 1 from this paper was used to illustrate allopatric speciation with Sierra Nevada Mountains as the vicariance event. The authors suggest splitting western scrub jays into separate species, but do not actually perform the taxonomic change suggested.)_
 
 **PR Grant. 1986.** Ecology and Evolution of Darwin's Finches. Princeton University Press. (This is a book, but you can download individual chapters as PDF files from [JSTOR](https://www.jstor.org/stable/j.ctt1m3nz91)) _(Plots from this book were used in discussing examples of selection for quantitative traits such as bill depth in Darwin's finches)_
 
