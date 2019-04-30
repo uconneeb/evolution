@@ -75,6 +75,8 @@ Revies Session #2: Monday April 15th 4-6 pm in BOUS A106
 #### Exam 4
 
 Review Session #1: Thursday May 2nd at 6–8 pm in BOUS A106
+
 Review Session #2: Sunday May 5th at 2-4 pm in MCHU 205
+
 Review Session #3: Monday May 6th at 2-4 pm in MCHU 205
 
