@@ -16,7 +16,7 @@ permalink: /review-sessions/
 
 [Exam 4 study guide](../assets/pdf/Study_Guide_Exam_4_2019.pdf)
 
-#### Supplementary materials
+#### Supplementary materials relevant to Exam 3
 
 [Natural selection genotype/allele frequencies handout](../assets/pdf/natural-selection-handout.pdf)
 
@@ -30,7 +30,17 @@ Figure 4 from Cresko et al. 2004;
 Figure 2 in [Michael Bell web page](http://life.bio.sunysb.edu/ee/belllab/loberg.html); 
 and Figures 1b,3c,3d from Wang et al. 2018)
 
+#### Supplementary materials relevant to Exam 4
+
 [Coalescence figure shown April 18](../assets/pdf/coalescence.pdf)
+
+[Willington Turkeys (video)](https://youtu.be/hOd2K1tL_Hw)
+
+[Relatedness handout](../assets/pdf/relatedness.pdf)
+
+[Queen bumblebee policing workers (video)](https://www.thedodo.com/in-the-wild/queen-bee-fights-rebelling-colony-worker)
+
+Note: the handout distributed in lecture April 25 cannot be linked here because it contains copyrighted images and figures. You can obtain a copy at one of the review sessions, however, if you missed getting it in lecture.
 
 #### Exams from prior semesters
 
