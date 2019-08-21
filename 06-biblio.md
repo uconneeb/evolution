@@ -3,6 +3,8 @@ layout: page
 title: Literature Cited
 permalink: /literature-cited/
 ---
+<span class="notready">**Important Notice:** This web site is now **obsolete**. It was used for the Spring 2019 version of the course. The Fall 2019 course website is in [HuskyCT](https://huskyct.uconn.edu).</span>
+
 The papers and books listed on this page have bee mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
 **M Andersson. 1982.** Female choice selects for extreme tail length in a widowbird. Nature 299:818-820. [DOI: 10.1038/299818a0](https://doi.org/10.1038/299818a0) _(A version of Figure 1 was drawn by hand in class.)_

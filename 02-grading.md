@@ -7,6 +7,8 @@ permalink: /grading/
 ## EEB 2245
 ![From Darwin's 1837 "B" notebook]({{ "/assets/img/533px-Darwin_Tree_1837.png" | relative_url }}){:.rightsideimage width="200px"}
 
+<span class="notready">**Important Notice:** This web site is now **obsolete**. It was used for the Spring 2019 version of the course. The Fall 2019 course website is in [HuskyCT](https://huskyct.uconn.edu).</span>
+
 Your grade will be based on your performance on lecture exams. There will be four exams
 throughout the semester—two in the first half of the course and two in the second half of the
 course. Your lowest grade out the four exams will be dropped. Thus, your grade will be based on

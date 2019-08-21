@@ -5,6 +5,8 @@ permalink: /review-sessions/
 ---
 ![Some of the fossil hominoids on display in lecture on Feb. 7, 2019](../assets/img/hominoids-banner.png)_Fossil hominoids on display in lecture_
 
+<span class="notready">**Important Notice:** This web site is now **obsolete**. It was used for the Spring 2019 version of the course. The Fall 2019 course website is in [HuskyCT](https://huskyct.uconn.edu).</span>
+
 ## Study Materials
 #### Study guides for exams
 

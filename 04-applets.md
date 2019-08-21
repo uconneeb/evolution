@@ -3,6 +3,7 @@ layout: page
 title: Applets
 permalink: /applets/
 ---
+<span class="notready">**Important Notice:** This web site is now **obsolete**. It was used for the Spring 2019 version of the course. The Fall 2019 course website is in [HuskyCT](https://huskyct.uconn.edu).</span>
 
 ## [Selective Sweep]({{ "applets/sweep/" | relative_url }})
 

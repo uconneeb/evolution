@@ -9,6 +9,8 @@ _Teddybear Cholla cacti, Cactus Garden, Joshua Tree National Park, California._
 
 ## EEB 2245/2245W (Evolution)
 
+<span class="notready">**Important Notice:** This web site is now **obsolete**. It was used for the Spring 2019 version of the course. The Fall 2019 course website is in [HuskyCT](https://huskyct.uconn.edu).</span>
+
 This is a course in the [Department of Ecology and Evolutionary Biology](https://www.eeb.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). The primary goal of the course is to teach the basic principles of evolutionary biology and the history of life on earth. 
 
 Below you will find basic information about the course. Visit the menu items at the top for more information.

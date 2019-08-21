@@ -5,6 +5,8 @@ permalink: /lecture-schedule/
 ---
 ![Some of the fossils on display in lecture on Jan. 24, 2019](../assets/img/fossil-banner.png)_Some of the fossils on display in the second lecture_
 
+<span class="notready">**Important Notice:** This web site is now **obsolete**. It was used for the Spring 2019 version of the course. The Fall 2019 course website is in [HuskyCT](https://huskyct.uconn.edu).</span>
+
 This schedule is subject to change without notice. Check regularly for updates!
 
 Lecture |  Date      | Topic                                                             |  Reading
