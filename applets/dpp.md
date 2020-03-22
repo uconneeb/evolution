@@ -41,7 +41,7 @@ Each subsequent break affects the remainder only. Larger values of alpha lead to
     var bm = 20;
 
     var alpha = 1.0;
-    var alphamin = 1.0;
+    var alphamin = 0.1;
     
     var ndarts = 100;
     var ndartsmin = 10;
@@ -54,7 +54,7 @@ Each subsequent break affects the remainder only. Larger values of alpha lead to
     var darts = [];
     var Ek = [];
     var remainder = 1.0;
-    var remainder_cutoff = 0.001;
+    var remainder_cutoff = 0.0001;
     
     var lot = new Random();
     
@@ -105,6 +105,7 @@ Each subsequent break affects the remainder only. Larger values of alpha lead to
     precomputeExpectedNumberOccupiedTables();
         
     function showStatus() {
+        //console.log("alpha = " + alpha);
         if (somebad) {
             plot_svg.select("text#alpha")
                 .text("alpha = " + alpha.toFixed(1) + " | n = " + ndarts + " | E = " + Ek[ndarts].toFixed(1) + " | O = NA (break more sticks)");            
@@ -229,8 +230,24 @@ Each subsequent break affects the remainder only. Larger values of alpha lead to
             .attr("stroke", "white");
     }
     
-    function modifyAlpha(increment) {
-        alpha += increment;
+    function modifyAlpha(incr) {
+        // alpha  10*alpha     a   incr = +1     incr = -1 
+        // -----------------------------------------------
+        //     2        20    20   30/10 = 3   10/10 =   1
+        //  1.01      10.1    10   20/10 = 2    9/10 = 0.9
+        //     1        10    10   20/10 = 2    9/10 = 0.9
+        //  0.99       9.9    10   20/10 = 2    9/10 = 0.9
+        //   0.9         9     9   10/10 = 1    8/10 = 0.8
+        // -----------------------------------------------
+        var a = Math.round(10*alpha);
+        if (incr > 0) {
+            a += (a < 10 ? 1 : 10);
+        }
+        else {
+            a -= (a > 10 ? 10 : 1);
+        }
+        //console.log("a = " + a);
+        alpha = a/10;
         if (alpha < alphamin)
             alpha = alphamin;
         reset();
@@ -246,6 +263,21 @@ Each subsequent break affects the remainder only. Larger values of alpha lead to
     }
 
     // Listen and react to keystrokes
+    // key      code  key code  key code  key code  key code
+    // -------------  --------  --------  --------  --------
+    // tab         9    0   48    ~  192    a   65    n   78
+    // return     13    1   49    ;  186    b   66    o   79
+    // shift      16    2   50    =  187    c   67    p   80
+    // control    17    3   51    ,  188    d   68    q   81
+    // option     18    4   52    -  189    e   69    r   82
+    // command    91    5   53    .  190    f   70    s   83
+    // space      32    6   54    /  191    g   71    t   84
+    // leftarrow  37    7   55    \  220    h   72    u   85
+    // uparrow    38    8   56    [  219    i   73    v   86
+    // rightarrow 39    9   57    ]  221    j   74    w   87
+    // downarrow  40              '  222    k   75    x   88
+    //                                      l   76    y   89
+    //                                      m   77    z   90
     function keyDown() {
         //console.log("key was pressed: " + d3.event.keyCode);
         if (d3.event.keyCode == 84 || d3.event.keyCode == 68) {
@@ -292,8 +324,8 @@ Notes:
 * p key mimics pressing the b key until the remainder is tiny (0.001)
 * r key resets everything
 * t key throws darts and computes the O statistic
-* up/down arrow keys increase/decrease alpha (but smallest value is 1)
-* right/left arrow keys increase/decrease the number of darts (within the range 10-100)
+* shift-up/shift-down arrow keys increase/decrease alpha (but smallest value is 0.1)
+* shift-right/shift-left arrow keys increase/decrease the number of darts (within the range 10-100)
 * E is the expected number of colored rectangles hit by at least one of the n darts
 * O is the observed number of colored rectangles hit by at least one dart
 
