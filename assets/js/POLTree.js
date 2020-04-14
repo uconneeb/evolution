@@ -1,6 +1,6 @@
 function TreeNode() {
-    this.x = null,
-    this.y = null,
+    this.x = null,          // not copied by deepCopy
+    this.y = null,          // not copied by deepCopy
     this.angle = 0,
     this.nchildren = 0,
     this.ndescendants = 0,
@@ -13,8 +13,8 @@ function TreeNode() {
     this.depth = 0.0,
     this.name = "",
     this.number = -1,
-    //this.radius = 0.0,      // used?
     this.info = null,
+    this.tmp = 0;           // temporary workspace; not copied by deepCopy
     this.decorate = null;   // if defined, should be function(x, y, svg) that adds some elements to svg at point (x,y)
     }
 
@@ -28,8 +28,68 @@ function Tree() {
     this.ymax = 0.0;
     }
 
+Tree.prototype.deepCopy = function(t) {
+    // Deep copies tree to t
+    t.nleaves = this.nleaves;
+    t.total_height = this.total_height;
+    t.xmax = this.xmax;
+    t.ymax = this.ymax;
+        
+    // First pass builds map m and sets everything except lchild, rsib, and parent
+    t.preorder = [];
+    t.leaforder = {};
+    for (let i = 0; i < this.preorder.length; i++) {
+        let nd = this.preorder[i];
+        nd.tmp = i;
+        
+        let newnd = new TreeNode();
+        newnd.x            = null;
+        newnd.y            = null;
+        newnd.angle        = nd.angle;
+        newnd.nchildren    = nd.nchildren;
+        newnd.ndescendants = nd.ndescendants;
+        newnd.backbone     = nd.backbone;
+        newnd.edgelen      = nd.edgelen;
+        newnd.height       = nd.height;
+        newnd.depth        = nd.depth;
+        newnd.name         = nd.name;
+        newnd.number       = nd.number;
+        newnd.info         = nd.info;
+        newnd.decorate     = nd.decorate;
+        newnd.lchild       = null;
+        newnd.rsib         = null;
+        newnd.parent       = null;
+                
+        t.preorder.push(newnd);
+
+        if (nd.lchild == null) {
+            t.leaforder[newnd.number] = this.leaforder[nd.number];
+        }
+    }
+    
+    // Second pass sets lchild, rsib, and parent
+    for (let i = 0; i < this.preorder.length; i++) {
+        let nd    = this.preorder[i];
+        let newnd = t.preorder[i];
+
+        if (nd.lchild) {
+            newnd.lchild = t.preorder[nd.lchild.tmp];
+        }
+
+        if (nd.rsib) {
+            newnd.rsib   = t.preorder[nd.rsib.tmp];
+        }
+
+        if (nd.parent) {
+            newnd.parent = t.preorder[nd.parent.tmp];
+        }
+    }
+    
+    t.root = t.preorder[0];
+    
+}
+
 Tree.prototype.rebuildPreorder = function() {
-    //console.log("entering rebuildPreorder function");
     // Build preorder array
     this.preorder = [this.root];
     var num_nodes = this.nleaves;
@@ -58,7 +118,6 @@ Tree.prototype.rebuildPreorder = function() {
                 nd = nd.rsib;
             }
         }
-    //console.log("done rebuilding preorder");
 
     // Build leaforder lookup and determine node heights
     this.leaforder = {};
@@ -70,7 +129,6 @@ Tree.prototype.rebuildPreorder = function() {
         nd.height = nd.edgelen;
         if (nd.parent != null)
             nd.height += nd.parent.height;
-        //console.log("nd.name = " + nd.name + ", nd.height = " + nd.height);
 
         if (nd.lchild == null) {
             if (nd.height > this.total_height)
@@ -78,7 +136,6 @@ Tree.prototype.rebuildPreorder = function() {
             this.leaforder[nd.number] = k++;
             }
         }
-    //console.log("done rebuilding leaforder");
     }
 
 Tree.prototype.makeNewick = function(precision) {
@@ -88,42 +145,35 @@ Tree.prototype.makeNewick = function(precision) {
     var root_tip = null;
     for (i in this.preorder) {
         var nd = this.preorder[i];
-        var ndnum = root_tip.number + 1;
-        if (nd.lchild)
-            {
+        var ndnum = nd.number + 1;
+        if (nd.lchild) {
             newick += "(";
             node_stack.push(nd);
-            if (root_tip)
-                {
+            if (root_tip) {
                 newick += ndnum + ":" + nd.edgelen.toFixed(precision);
                 newick += ",";
                 root_tip = null;
                 }
             }
-        else
-            {
+        else {
             newick += ndnum + ":" + nd.edgelen.toFixed(precision);
             if (nd.rsib)
                 newick += ",";
-            else
-                {
+            else {
                 var popped = (node_stack.length == 0 ? 0 : node_stack[node_stack.length - 1]);
-                while (popped && !popped.rsib)
-                    {
+                while (popped && !popped.rsib) {
                     node_stack.pop();
-                    if (node_stack.length == 0)
-                        {
+                    if (node_stack.length == 0) {
                         newick += ")";
                         popped = null;
                         }
-                    else
-                        {
+                    else {
                         newick += "):" + popped.edgelen.toFixed(precision);
-                        popped = node_stack.top();
+                        popped = node_stack.pop();
+                        node_stack.push(popped);
                         }
                     }
-                if (popped && popped.rsib)
-                    {
+                if (popped && popped.rsib) {
                     node_stack.pop();
                     newick += "):" + popped.edgelen.toFixed(precision);
                     newick += ",";
@@ -170,22 +220,17 @@ Tree.prototype.ladderize = function() {
             var b = nodeb.ndescendants;
             var c = nodec.ndescendants;
             if (a >= b && a >= c) {
-                //console.log("(a = " + a + ") larger than (b = " + b + ") and (c = " + c + ")");
                 nd.lchild = nodeb;
                 nodeb.rsib = nodec;
                 nodec.rsib = nodea;
                 nodea.rsib = null;
                 }
             else if (b >= a && b >= c) {
-                //console.log("(b = " + b + ") larger than (a = " + a + ") and (c = " + c + ")");
                 nd.lchild = nodea;
                 nodea.rsib = nodec;
                 nodec.rsib = nodeb;
                 nodeb.rsib = null;
                 }
-            //else if (c >= a && c >= b) {
-            //    //console.log("(c = " + c + ") larger than (a = " + a + ") and (b = " + b + ")");
-            //    }
             }
         else if (nd.lchild && nd.lchild.ndescendants > nd.lchild.rsib.ndescendants) {
             // assumes no polyomies
@@ -236,17 +281,14 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
     for (var c = 0; c < newick.length; c++)
         {
         var ch = newick[c];
-        //console.log("ch = " + ch); // temporary
         if (/\s/.test(ch))
             continue;
         switch(ch)
             {
             case ';':
-                //console.log("~~> semicolon"); // temporary
                 break;
 
             case ')':
-                //console.log("~~> right parenthesis"); // temporary
                 // If nd is bottommost node, expecting left paren or semicolon, but not right paren
                 if (!nd.parent)
                     console.log("Too many right parentheses at position " + c + " in tree description");
@@ -263,7 +305,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
                 break;
 
             case ':':
-                //console.log("~~> colon"); // temporary
                 // Expect colon only after a node name or another right paren
                 if (!(previous & Colon_Valid))
                     console.log("Unexpected colon at position " + c + " in tree description");
@@ -271,7 +312,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
                 break;
 
             case ',':
-                //console.log("~~> comma"); // temporary
                 // Expect comma only after an edge length, a node name, or a right paren
                 if (!nd.parent || !(previous & Comma_Valid))
                     console.log("Unexpected comma at position " + c + " in tree description");
@@ -284,7 +324,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
                 break;
 
             case '(':
-                //console.log("~~> left parenthesis"); // temporary
                 // Expect left paren only after a comma or another left paren
                 if (!(previous & LParen_Valid))
                     console.log("Not expecting left parenthesis at position " + c + " in tree description");
@@ -298,7 +337,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
 
             case "'":
             case "\"":
-                //console.log("~~> apostrophe"); // temporary
                 // Encountered an apostrophe, which always indicates the start of a
                 // node name (but note that node names do not have to be quoted)
 
@@ -340,7 +378,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
                         this.nleaves += 1;
                         }
                     }
-                //console.log("~~> nd.name (quoted) = " + nd.name + ", ch = " + ch); // temporary
 
                 previous = Prev_Tok.Name;
                 break;
@@ -349,7 +386,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
                 // Expecting either an edge length or an unquoted node name
                 if (previous == Prev_Tok.Colon)
                     {
-                    //console.log("~~> default (after colon)"); // temporary
                     // Edge length expected (e.g. "235", "0.12345", "1.7e-3")
                     var edge_length_str = "";
                     var IC  = null;
@@ -372,7 +408,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
                             console.log("Invalid branch length character (" + ch + ") at position " + c + " in tree description");
                         }
                     c--;
-                    //console.log("edge_length_str = " + edge_length_str);
                     nd.edgelen = Number(edge_length_str);
                     if (nd.edgelen < 1.e-10)
                         nd.edgelen = 1.e-10;
@@ -381,7 +416,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
                     }
                 else
                     {
-                    //console.log("~~> default (not after colon)"); // temporary
                     // Get the node name
                     nd.name = "";
                     for (; c < newick.length; c++)
@@ -414,7 +448,6 @@ Tree.prototype.buildFromNewick = function(translate, newick) {
                             this.nleaves += 1;
                             }
                         }
-                    //console.log("~~> nd.name (unquoted) = " + nd.name + ", ch = " + ch); // temporary
 
                     previous = Prev_Tok.Name;
                     }
@@ -468,7 +501,6 @@ Tree.prototype.createLogarithmicSpiralData = function(a, b, pct, ntheta, nleaves
         if (x2 > xmax) xmax = x2;
         if (y2 < ymin) ymin = y2;
         if (y2 > ymax) ymax = y2;
-        //console.log("curve: x2 = " + x2 + ", y2 = " + y2 + ", theta2 = " + theta2);
         data.curve.push({'x1':x1, 'y1':y1, 'x2':x2, 'y2':y2, 'theta1':theta1, 'theta2':theta2});
 
         if (t % thetas_per_leaf == 0) {
