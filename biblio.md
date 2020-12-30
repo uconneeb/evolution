@@ -3,10 +3,9 @@ layout: page
 title: Literature Cited
 permalink: /literature-cited/
 ---
-<span class="notready">**Important Notice:** This web site is now **obsolete**. It was used for the Spring 2019 version of the course. The Fall 2019 course website is in [HuskyCT](https://huskyct.uconn.edu).</span>
-
 The papers and books listed on this page have bee mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
+{% comment %}
 **M Andersson. 1982.** Female choice selects for extreme tail length in a widowbird. Nature 299:818-820. [DOI: 10.1038/299818a0](https://doi.org/10.1038/299818a0) _(A version of Figure 1 was drawn by hand in class.)_
 
 {% include examfour.html %} **M Baym, TD Lieberman, ED Kelsic, R Chait, R Gross, I Yelin, R Kishony.
@@ -14,9 +13,7 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 **AF Blakeslee. 1914.** Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account. Journal of Heredity 5:511-518. [DOI: 10.1093/oxfordjournals.jhered.a107785](https://doi.org/10.1093/oxfordjournals.jhered.a107785) _(This is the source of the famous 1914 photo showing a normal distribution of human heights taken at UConn.)_
 
-{% comment %}
 **DI Bolnick and P. Nosil. 2007.** Natural selection in populations subject to a migration load. Evolution 2229-2243. [DOI: 10.1111/j.1558-5646.2007.00179.x](https://doi.org/10.1111/j.1558-5646.2007.00179.x) _(Discussed in lecture April 23 as an example of both the effects of migration as well as migration-selection balance.)_
-{% endcomment %}
 
 {% include examfour.html %} **RL Cann, M Stoneking, and AC Wilson. 1987** Mitochondrial DNA and human evolution. Nature 325:31-36. [DOI: 10.1038/325031a0](https://doi.org/10.1038/325031a0) _(This paper was mentioned April 18 in the discussion of "Mitochondrial Eve".)_
 
@@ -26,9 +23,7 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 **ML Cody and JM Overton. 1996.** Short-term evolution of reduced dispersal in island plant populations. _Journal of Ecology_ 84:53-61. [DOI: 10.2307/2261699](https://doi.org/10.2307/2261699) _(This study was discussed in some detail the week before spring break.)_
 
-{% comment %}
 **JA Coyne. 2014.** There are no ring species. [blog post](https://whyevolutionistrue.wordpress.com/2014/07/16/there-are-no-ring-species/) _(I include this blog post because it reproduces plate 1 from Coyne and Orr, 2004, which was mentioned in lecture xxx in the discussion of ring species.)_
-{% endcomment %}
 
 {% include examfour.html %} **JA Coyne and HA Orr. 2004.** Speciation. Sinauer Associates, Sunderland, Massachusetts. [link to publisher site](https://global.oup.com/ushe/product/speciation-9780878930890?q=coyne&lang=en&cc=us) _(Figs. 3.2, p. 96, and 3.4, pl. 100, were used in a handout referenced April 25 to illustrate allopatric sister species and incipient allopatric speciation, respectively.)_
 
@@ -50,9 +45,7 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 
 {% include examfour.html %} **P Nosil. 2009.** Adaptive population divergence in cryptic color-pattern following a reduction in gene flow. Evolution 63:1902-1912. [DOI: 10.1111/j.1558-5646.2009.00671.x](https://doi.org/10.1111/j.1558-5646.2009.00671.x) _(Discussed in lecture April 23 as an example of both the effects of migration as well as migration-selection balance.)_
 
-{% comment %}
 **JQ Richmond and EL Jockusch. 2007.** Body size evolution simultaneously creates and collapses species boundaries in a clade of scincid lizards. Proceedings of the Royal Society B 274:1701–1708. [DOI: 10.1098/rspb.2007.0364](https://doi.org/10.1098/rspb.2007.0364) _(Figure 1 shown in class xxx as example of loss of reproductive isolating barriers leading to a species that is polyphyletic.)_
-{% endcomment %}
 
 {% include examfour.html %} **JQ Richmond, EL Jockusch, and AM Latimer. 2011.** Mechanical reproductive isolation facilitates parallel speciation in Western North American scincid lizards. American Naturalist 178:320-332. [DOI: 10.5061/dryad.51d7k](https://doi.org/10.5061/dryad.51d7k) _(Showed video 1 and figure 3 from this paper on April 25 to illustrate mechanical isolation.)_
 
@@ -65,6 +58,4 @@ The papers and books listed on this page have bee mentioned in lecture and the i
 **AE van't Hof, P Campagne, DJ Rigden, CJ Yung, J Lingley, MA Quail, N Hall, AC Darby, and IJ Saccheri. 2016.** The industrial melanism mutation in British peppered moths is a transposable element. Nature 534:102-107. [DOI: 10.1038/nature17951](https://doi.org/10.1038/nature17951) _(This paper describes the genetic basis of the dark (melanic) form of the peppered moth. It was mentioned after Dr. McClintock's visit because the mutation results from a transposable element.)_
 
 **J Wang, J Ding, T Biyue, KM Robinson, IH Michelson, A Johannson, B Nystedt, DG Scofield, O Nilsson, S Jansson, NR Street, and PK Ingvarsson. 2018.** A major locus controls local adaptation and adaptive life history variation in a perennial plant. _Genome Biology_ 19:72. [DOI: 10.1186/s13059-018-1444-y](https://doi.org/10.1186/s13059-018-1444-y) _(Figure 3 of this paper provided a couple of figures used in lecture when describing the selective sweep of the early-bud-formation-mutation in population of aspen in northern Sweden.)_
-
-{% comment %}
 {% endcomment %}
