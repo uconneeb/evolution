@@ -33,10 +33,10 @@ Lecture |      Date     |                           Topic                       
         | Apr.  1       | **EXAM 3** (covers Lectures 1-6)                                   |
 20      | Apr.  6       | Evolution of biodiversity & extinction                             |  Ch. 19
 21      | Apr.  8       | Characters, homology & homoplasy                                   |  Ch. 16
-22      | Apr. 13       | Systematics & reconstructing evolutionary history                  |  Ch. 16
-23      | Apr. 15       | Evolution and development                                          |  Ch. 15
-24      | Apr. 20       | Biogeography & major patterns of distribution                      |  Ch. 18
-25      | Apr. 22       | Continental drift & Historical Biogeography                        |  Ch. 18
+22      | Apr. 13       | SPRING RECESS                                                      |  
+23      | Apr. 15       | SPRING RECESS                                                      |  
+24      | Apr. 20       | Systematics & phylogenetics; evolution and development             |  Ch. 15,16
+25      | Apr. 22       | Major distribution patterns; continental drift, biogeography       |  Ch. 18
         | Apr. 27       | **EXAM 4** (covers Lectures 7–12)                                  |
 {:#lecturestable}
 

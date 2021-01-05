@@ -9,9 +9,7 @@ permalink: /grading/
 
 Your grade will be based on your performance on lecture exams. There will be four exams
 throughout the semester—two in the first half of the course and two in the second half of the
-course. Your lowest grade out the four exams will be dropped. Thus, your grade will be based on
-your three top lecture exam grades. **Please note: because you are allowed to drop one of these
-grades, we will not give make-up exams.** Grades will be posted in the _My Grades_ section of [HuskyCT](https://huskyct.uconn.edu/).
+course. Grades will be posted in the _My Grades_ section of [HuskyCT](https://huskyct.uconn.edu/).
 
 ## EEB 2245W
 

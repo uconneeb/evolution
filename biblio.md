@@ -5,6 +5,28 @@ permalink: /literature-cited/
 ---
 The papers and books listed on this page have bee mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
+**Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
+
+**Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 
+
+**Hill et al. 2005.** [Genetic algorithm for large-scale maximum parsimony phylogenetic analysis of proteins.](https://doi.org/10.1016/j.bbagen.2005.04.027) Biochimica et Biophysica Acta (BBA) - General Subjects. 
+
+**Huang et al. 2020.** [Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19](https://doi.org/10.1038/s41401-020-0485-4) Acta Pharmacologica Sinica 41:1141-1149.
+
+**Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
+
+**Lin and Liu 2007.** [Genetic algorithms for portfolio selection problems with minimum transaction lots](https://doi.org/10.1016/j.ejor.2006.12.024) European Journal of Operational Research 185:393-404.
+
+**Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
+
+**Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-􏲪1662.
+
+**Rambaut et al. 2020.** [Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations](https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563/1) COVID-19 Genomics Consortium UK Dec. 2020.
+
+**Rivera et al. 2020.** [Toughening mechanisms of the elytra of the diabolical ironclad beetle.](https://doi.org/10.1038/s41586-020-2813-8) Nature 586, 543–548.
+
+**Zwickl 2006.** [Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion.](https://repositories.lib.utexas.edu/handle/2152/2666) Ph.D. dissertation, The University of Texas at Austin.
+
 {% comment %}
 **M Andersson. 1982.** Female choice selects for extreme tail length in a widowbird. Nature 299:818-820. [DOI: 10.1038/299818a0](https://doi.org/10.1038/299818a0) _(A version of Figure 1 was drawn by hand in class.)_
 
