@@ -38,6 +38,6 @@ Lecture |      Date     |                           Topic                       
 22      | Apr. 20       | Evolution and development                                          |  Ch. 16
 23      | Apr. 22       | Major distribution patterns                                        |  Ch. 18
 24      | Apr. 27       | Continental drift & historical biogeography                        |  Ch. 18
-        | TBA           | **EXAM 4** (covers Lectures 7–12)                                  |
+        | FINALS WEEK   | **EXAM 4** (covers Lectures 7–12)                                  |
 {:#lecturestable}
 
