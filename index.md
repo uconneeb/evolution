@@ -15,7 +15,7 @@ Below you will find basic information about the course. Visit the menu items at 
 
 ## Meeting time
 
-The course is entirely online. The lectures (at least in the first half of the course) will involve pre-recorded 30-min lectures, which you are expected to listen to before class, followed on-line (synchronous) discussion sessions during the nominal class meeting times (Tuesdays and Thursdays, 9:30-10:45am). 
+The course is entirely online. The lectures (at least in the first half of the course) will involve pre-recorded 30-min lectures, which you are encouraged to listen to before class, followed by on-line (synchronous) discussion sessions during the nominal class meeting times (Tuesdays and Thursdays, 9:30-10:45am). 
 
 ## Textbook
 
@@ -25,26 +25,13 @@ Futuyma, D. J., and M. Kirkpatrick. _Evolution_. 4th ed. Sinauer Associates/Oxfo
 
 Indicated on the [lecture schedule](lecture-schedule). Please watch the lecture video (posted to HuskyCT) and read the assigned material before the lecture discussion begins.
 
-## W section
+## If you are enrolled in EEB-2245...
 
-This web site contains information for the _lecture_ component of the course only. Please see [Grading](grading) for information related to the W portion of the course (only relevant for those enrolled in EEB-2245W).
+Even though you are not enrolled in the W version of the course, you will nevertheless see rows in the HuskyCT _My Grades_ section that pertain only to W students. If you are not in the W version of the course, you need not worry that you have no grade in grade book rows clearly labeled as part of the W course.
 
-## Contact information
+## If you are enrolled in EEB-2245W...
 
-**Lecture Instructors**     | **Dr. Paul O. Lewis (1st half)** | **Dr. Janine Caira(2nd half)**     
-:-------------------------: | :------------------------------: | :-----------------------------:
-**E-mail (@uconn.edu)**     | paul.lewis                       | janine.caira         
-**Office hours**            | by appointment                   | by appointment        
-
-**W Instructors**           | **Dr. Elizabeth Jockusch**       | **Dr. Mark Urban**               | **Dr. Louise Lewis**        
-:-------------------------: | :------------------------------: | :-----------------------------:  | :-----------------------------:
-**E-mail (@uconn.edu)**     | elizabeth.jockusch               | mark.urban                       | louise.lewis         
-**Office hours**            | by appointment                   | by appointment                   | by appointment        
-
-**TAs**                     | **Jessica Espinosa**             | **Zachary Muscavitch**
-:-------------------------: | :------------------------------: | :-----------------------------:
-**E-mail (@uconn.edu)**     | jessica.espinosa                 | zachary.muscavitch   
-**Office hours**            | by appointment                   | by appointment        
+This web site contains information for the _lecture_ component of the course only. Please see [Grading](grading) for information related to the W portion of the course.
 
 {% comment %}
 ## Learning objectives
