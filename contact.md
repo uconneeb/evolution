@@ -19,7 +19,7 @@ permalink: /contact/
 **Person:**         | Jessica Espinosa                                                  | Zachary Muscavitch
 **Students:**       | Last name beginning A-?                                           | Last name beginning ?-Z 
 **E-mail:**         | [jessica.espinosa@uconn.edu](mailto:jessica.espinosa@uconn.edu)   | [zachary.muscavitch@uconn.edu](mailto:zachary.muscavitch@uconn.edu)
-**Office hours:**   | by arrangement                                                    | by arrangement
+**Office hours:**   | by arrangement                                                    | to be arranged by poll
 {:.persontable}
 
 ## W Coordinator

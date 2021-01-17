@@ -6,31 +6,23 @@ permalink: /review-sessions/
 
 ## Review sessions
 
-Your 2245 TAs will be offering optional review sessions prior to each exam. You are not required to attend these sessions, but you may find them useful. You will likely get the most out of them if you bring your questions from lecture and/or the textbook. Note that these sessions are open door, so you may come and leave at point.
-
+Your 2245 TAs will be offering an optional review session prior to each exam. You are not required to attend these sessions, but you may find them useful. These sessions will be held on Husky CT and will be recorded. Ahead of the review sessions, the TAs will ask you to submit questions that you would like answered. This way, even if you are unable to make the review session, you can still get your question answered. Note that these sessions are open door, so you may come and leave at point. 
 Review session times will be announced in lecture and posted on this page as they are scheduled.
 
 #### Exam 1
-Review session #1: 
-
-Review session #2: 
+Review session: 
 
 #### Exam 2
 
-Review session #1: 
-
-Review session #2: 
+Review session: 
 
 #### Exam 3
 
-Review Session #1: 
-
-Revies Session #2: 
+Review Session:  
 
 #### Exam 4
 
-Review Session #1: 
+Review Session: 
 
-Review Session #2: 
 
 
