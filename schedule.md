@@ -29,7 +29,7 @@ Lecture |      Date     |                           Topic                       
 16      | Mar. 18       | Life in the Mesozoic                                               |  Ch. 17 (pp. 440–452)
 17      | Mar. 23       | Life in the Cenozoic                                               |  Ch. 17 (pp. 459–465)
 18      | Mar. 25       | Evolution of primates                                              |  Ch. 21 (pp. 547–559)
-        | Mar. 30       | **EXAM 3** (covers Lectures 1-6)                                   |
+        | Mar. 30       | **EXAM 3** (covers Lectures 13-18)                                   |
 19      | Apr.  1       | Evolution of biodiversity & extinction                             |  Ch. 19
 20      | Apr.  6       | Characters, homology & homoplasy                                   |  Ch. 16
 21      | Apr.  8       | Systematics & reconstructing evolutionary history                  |  Ch. 15
@@ -38,6 +38,6 @@ Lecture |      Date     |                           Topic                       
 22      | Apr. 20       | Evolution and development                                          |  Ch. 16
 23      | Apr. 22       | Major distribution patterns                                        |  Ch. 18
 24      | Apr. 27       | Continental drift & historical biogeography                        |  Ch. 18
-        | FINALS WEEK   | **EXAM 4** (covers Lectures 7–12)                                  |
+        | FINALS WEEK   | **EXAM 4** (covers Lectures 19-24)                                  |
 {:#lecturestable}
 
