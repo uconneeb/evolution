@@ -3,7 +3,7 @@ layout: page
 title: Literature Cited
 permalink: /literature-cited/
 ---
-The papers and books listed on this page have bee mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
+The papers and books listed on this page have been mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 

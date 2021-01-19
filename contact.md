@@ -17,7 +17,7 @@ permalink: /contact/
 ## Teaching Assistants
 
 **Person:**         | Jessica Espinosa                                                  | Zachary Muscavitch
-**Students:**       | Last name beginning A-?                                           | Last name beginning ?-Z 
+**Students:**       | Last name beginning A-M                                           | Last name beginning N-Z 
 **E-mail:**         | [jessica.espinosa@uconn.edu](mailto:jessica.espinosa@uconn.edu)   | [zachary.muscavitch@uconn.edu](mailto:zachary.muscavitch@uconn.edu)
 **Office hours:**   | by arrangement                                                    | to be arranged by poll
 {:.persontable}
@@ -28,3 +28,5 @@ permalink: /contact/
 **E-mail:**         | [tom.harrington@uconn.edu](mailto:tom.harrington@uconn.edu)
 **Office hours:**   | by arrangement 
 {:.persontable}
+
+If you are enrolled in EEB-2245W, your W instructor is probably not listed here. Please contact Dr. Harrington if you do not know who your W instructor is, or for other general issues surrounding the W version of the course.

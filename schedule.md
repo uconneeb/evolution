@@ -5,15 +5,15 @@ permalink: /lecture-schedule/
 ---
 ![Some of the fossils on display in lecture on Jan. 24, 2019](../assets/img/fossil-banner.png)_Some of the fossils on display in lecture in Spring 2019_
 
-This schedule is subject to change without notice. Check regularly for updates!
+Lectures (Jan. 19 - Mar. 2 at least) are two-parted: (1) video on HuskyCT (watch from 9:30-10:00, or preferably earlier); (2) online discussion from 10:00-10:45 (using Collaborate within HuskyCT). This schedule is subject to change without notice (except for exam dates). Check regularly for updates!
 
 Lecture |      Date     |                           Topic                                    |      Reading
 :-----: | :-----------: | :----------------------------------------------------------------  | :-----------------
 1       | Jan. 19       | Why evolution is important                                         |  Ch. 1 (pp. 3-9)
-2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 59-62,66-67)
-3       | Jan. 26       | Fitness and adaptation                                             |  TBA (To Be Announced)
-4       | Jan. 28       | Sexual selection                                                   |  TBA
-5       | Feb.  2       | Quantitative trait evolution                                       |  TBA
+2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 57-62,66-67)
+3       | Jan. 26       | Quantitative trait evolution                                       |  TBA (To Be Announced)
+4       | Jan. 28       | Selection at a single locus                                        |  TBA
+5       | Feb.  2       | Sexual selection                                                   |  TBA
 6       | Feb.  4       | Direct and inclusive fitness                                       |  TBA
 7       | Feb.  9       | Multilevel selection and target of selection                       |  TBA
         | Feb. 11       | **EXAM 1**  (covers Lectures 1-7)                                  |  

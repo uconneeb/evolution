@@ -15,7 +15,7 @@ Below you will find basic information about the course. Visit the menu items at 
 
 ## Meeting time
 
-The course is entirely online. The lectures (at least in the first half of the course) will involve pre-recorded 30-min lectures, which you are encouraged to listen to before class, followed by on-line (synchronous) discussion sessions during the nominal class meeting times (Tuesdays and Thursdays, 9:30-10:45am). 
+The course is entirely online. The lectures (at least in the first half of the course) will involve pre-recorded 25-ish minute lectures, available in the Course Content section of our HuskyCT course, which you are encouraged to listen to before class (or at least starting right at 9:30), followed by on-line (synchronous) discussion sessions (Tuesdays and Thursdays, 10:00-10:45am). The online discussions use the Blackboard Collaborate component of HuskyCT; you will find a link on the left when you log into EEB-2245 in HuskyCT.
 
 ## Textbook
 
@@ -23,7 +23,7 @@ Futuyma, D. J., and M. Kirkpatrick. _Evolution_. 4th ed. Sinauer Associates/Oxfo
 
 ## Assigned readings and activities
 
-Indicated on the [lecture schedule](lecture-schedule). Please watch the lecture video (posted to HuskyCT) and read the assigned material before the lecture discussion begins.
+Indicated on the [lecture schedule](lecture-schedule). Please watch the lecture video (posted to HuskyCT) and read the assigned textbook pages before the lecture discussion begins.
 
 ## If you are enrolled in EEB-2245...
 
@@ -32,6 +32,20 @@ Even though you are not enrolled in the W version of the course, you will nevert
 ## If you are enrolled in EEB-2245W...
 
 This web site contains information for the _lecture_ component of the course only. Please see [Grading](grading) for information related to the W portion of the course.
+
+## Important Information ##
+
+* [Resources for Students Experiencing Distress](resources-for-students-experiencing-distress)
+* [Students with Disabilities](students-with-disabilities)
+* [Accommodations for Illness and Extended Absences](illness)
+* [Recording lectures](recording)
+* [Student Responsibilities and Resources](responsibilities)
+* [Technology Help](technology-help)
+* [Evaluation of Course Experience](evaluations)
+
+## Privacy Statement ##
+
+For information on managing your privacy at the University of Connecticut, visit the University’s Privacy page. NOTE: This course has NOT been designed for use with mobile devices.
 
 {% comment %}
 ## Learning objectives
