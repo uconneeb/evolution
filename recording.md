@@ -7,6 +7,6 @@ Some parts of each lecture for this semester’s course will be conducted using 
 
 The web-based video delivery of each class in this course is for sole use of the students enrolled in this course. Any other use of these class videos or any pictures or derivatives of the class videos without the written consent of the lecture instructor is prohibited.
 
-The sharing of any recorded content without our written permission is prohibited. If you would like to ensure your likeness is not captured during an online class, please turn your camera off. 
+The sharing of any recorded content without written permission from the lecture instructor is prohibited. If you would like to ensure your likeness is not captured during an online class, please turn your camera off. 
 
 Please remember that the unauthorized recording or sharing of course content may be considered a violation the law, University policy, and/or The Student Code.
