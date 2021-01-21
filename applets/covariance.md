@@ -1,17 +1,17 @@
 ---
 layout: applet
-title: Correlation
-permalink: /applets/correlation/
+title: Covariance
+permalink: /applets/covariance/
 ---
 
-## Correlation
+## Covariance, standard deviation, and correlation
 
 <div id="plot"></div>
 <div id="controls"></div>
 <script type="text/javascript">
     // The MIT License (MIT)
     // 
-    // Copyright (c) 2019 Paul O. Lewis
+    // Copyright (c) 2018 Paul O. Lewis
     // 
     // Permission is hereby granted, free of charge, to any person obtaining a copy
     // of this software and associated documentation files (the “Software”), to deal
@@ -54,14 +54,17 @@ permalink: /applets/correlation/
     var muX   =  5.0;
     var muY   =  5.0;
     
-    var min_sd = 0.001;
-    var max_sd = 1.5;
+    var min_sd   = 0.001;
+    var max_sd   = 1.5;
     var beta1min = -sdY/sdX;
     var beta1max =  sdY/sdX;
+    var covmin   = -sdY*sdX;
+    var covmax   =  sdY*sdX;
     
     // regression/correlation
     var beta0 = muY - beta1*muX;
     var beta1 = rho*sdY/sdX;
+    var cov   = rho*sdX*sdY;
     
     // used for debugging
     var covXYhat = rho*sdX*sdY;
@@ -315,15 +318,11 @@ permalink: /applets/correlation/
         .style('visibility','hidden');
     
     function updateSliders() {
-        let rhopct = 100*(rho + 1)/2;
-        d3.select("input#rhoslider").property('value', rhopct);                
-        d3.select("label#rhoslider").html("&nbsp;correlation = " + d3.format(".3f")(rho));
-
-        beta1min = -sdY/sdX;
-        beta1max =  sdY/sdX;
-        let betapct = 100*(beta1 - beta1min)/(beta1max - beta1min);
-        d3.select("input#betaslider").property('value', betapct);                
-        d3.select("label#betaslider").html("&nbsp;slope = " + d3.format(".3f")(beta1));
+        covmin = -sdY*sdX;
+        covmax =  sdY*sdX;
+        let covpct = 100*(cov - covmin)/(covmax - covmin);
+        d3.select("input#covslider").property('value', covpct);                
+        d3.select("label#covslider").html("&nbsp;covariance = " + d3.format(".3f")(cov));
 
         let sdXpct = 100*sdX/max_sd;
         d3.select("input#sdXslider").property('value', sdXpct);                
@@ -332,6 +331,9 @@ permalink: /applets/correlation/
         let sdYpct = 100*sdY/max_sd;
         d3.select("input#sdYslider").property('value', sdYpct);                
         d3.select("label#sdYslider").html("&nbsp;sdY = " + d3.format(".3f")(sdY));
+        
+        d3.select("p#betatext").html("slope = " + d3.format(".3f")(beta1));
+        d3.select("p#rhotext").html("correlation = " + d3.format(".3f")(rho));
     }
     
     function updatePlot() {
@@ -352,18 +354,19 @@ permalink: /applets/correlation/
     // Select DIV element already created (see above) to hold SVG
     var controls_div  = d3.select("div#controls");
     
-    addSlider(controls_div, "rhoslider", "correlation", 100*(rho+1)/2, function() {
+    //        cov              cov
+    // rho = -----    beta1 = -----
+    //       sX sY             sX^2
+    
+    addStatusText(controls_div, "betatext", "slope = " + d3.format(".3f")(beta1), false);
+    addStatusText(controls_div, "rhotext",  "correlation = " + d3.format(".3f")(rho), false);
+    addSlider(controls_div, "covslider", "covariance", 100*(cov - covmin)/(covmax - covmin), function() {
         var pct = parseFloat(d3.select(this).property('value'));
-        rho = -1.0 + 2.0*pct/100;
-        beta1 = rho*sdY/sdX;
-        updatePlot();
-    });
-    addSlider(controls_div, "betaslider", "slope", 100*(beta1 - beta1min)/(beta1max - beta1min), function() {
-        var pct = parseFloat(d3.select(this).property('value'));
-        beta1min = -sdY/sdX;
-        beta1max =  sdY/sdX;
-        beta1 = beta1min + pct*(beta1max - beta1min)/100;
-        rho = beta1*sdX/sdY;
+        covmin = -sdY*sdX;
+        covmax =  sdY*sdX;
+        cov    =  covmin + pct*(covmax - covmin)/100;
+        beta1  =  cov/(sdX*sdX);
+        rho    =  cov/(sdX*sdY);
         updatePlot();
     });
     addSlider(controls_div, "sdXslider", "sdX", 100*(sdX/max_sd), function() {
@@ -371,7 +374,14 @@ permalink: /applets/correlation/
         sdX = max_sd*pct/100;
         if (sdX < min_sd)
             sdX = min_sd;
-        beta1 = rho*sdY/sdX;
+        covmin = -sdY*sdX;
+        covmax =  sdY*sdX;
+        if (cov > covmax)
+            cov = covmax;
+        if (cov < covmin)
+            cov = covmin;
+        beta1  =  cov/(sdX*sdX);
+        rho    =  cov/(sdX*sdY);
         updatePlot();
     });
     addSlider(controls_div, "sdYslider", "sdY", 100*(sdY/max_sd), function() {
@@ -381,7 +391,14 @@ permalink: /applets/correlation/
             sdY = beta1*sdX;
         if (sdY < min_sd)
             sdY = min_sd;
-        rho = beta1*sdX/sdY;
+        covmin = -sdY*sdX;
+        covmax =  sdY*sdX;
+        if (cov > covmax)
+            cov = covmax;
+        if (cov < covmin)
+            cov = covmin;
+        beta1  =  cov/(sdX*sdX);
+        rho    =  cov/(sdX*sdY);
         updatePlot();
     });
     updateSliders();
@@ -391,3 +408,11 @@ permalink: /applets/correlation/
         .style('font-family', 'Helvetica')
         .style('font-size', param_text_height_pixels);
 </script>
+
+The sliders allow you to change the covariance as well as the standard deviation (square root of the variance) of the X and Y variables.
+
+When you move a slider, the applet simulates new data with that combination of covariance and standard deviations, and recalculates the slope of the best-fitting trend line and the correlation coefficient.
+
+The correlation is a standardized version of the covariance that ranges from -1 to 1. The correlation coefficient equals the covariance divided by the product of the two standard deviations. That is, correlation = covariance/(sdX*sdY).
+
+

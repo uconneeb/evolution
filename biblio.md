@@ -5,6 +5,8 @@ permalink: /literature-cited/
 ---
 The papers and books listed on this page have been mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
+**Berra 1990.** Evolution and the myth of creationism. Stanford University Press.
+
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
 **Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm.](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
