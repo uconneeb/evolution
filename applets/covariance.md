@@ -36,6 +36,9 @@ permalink: /applets/covariance/
 
     // pseudo-random number generator
     var lot = new Random(12345);
+    
+    // determines whether regression line shown
+    var regression = true;
 
     // width and height of svg
     var w = 600;
@@ -258,7 +261,9 @@ permalink: /applets/covariance/
                 linedata.push({'x':x, 'y':y});
         }
     }
-    recalcLineData();
+    if (regression) {
+        recalcLineData();
+    }
     
     // Create path representing density curve
     var lineFunc = d3.line()
@@ -266,13 +271,15 @@ permalink: /applets/covariance/
         .y(function(d) {return yscale(d.y);});
 
     // Draw regression line
-    var regression_line = svg.append("path")
-        .attr("id", "regression")
-        .attr("d", lineFunc(linedata))
-        .attr("fill", "none")
-        .attr("stroke", brickred)
-        .attr("stroke-width", 2)
-        .style("pointer-events", "none");   // prevent line from intercepting drag events
+    if (regression) {
+        var regression_line = svg.append("path")
+            .attr("id", "regression")
+            .attr("d", lineFunc(linedata))
+            .attr("fill", "none")
+            .attr("stroke", brickred)
+            .attr("stroke-width", 2)
+            .style("pointer-events", "none");   // prevent line from intercepting drag events
+    }
 
     // Create x axis
     var xaxis = d3.axisBottom(xscale)
@@ -332,7 +339,9 @@ permalink: /applets/covariance/
         d3.select("input#sdYslider").property('value', sdYpct);                
         d3.select("label#sdYslider").html("&nbsp;sdY = " + d3.format(".3f")(sdY));
         
-        d3.select("p#betatext").html("slope = " + d3.format(".3f")(beta1));
+        if (regression) {
+            d3.select("p#betatext").html("slope = " + d3.format(".3f")(beta1));
+        }
         d3.select("p#rhotext").html("correlation = " + d3.format(".3f")(rho));
     }
     
@@ -344,8 +353,10 @@ permalink: /applets/covariance/
         redrawHistogramY();
 
         // Recalculate regression line and points
-        recalcLineData();
-        regression_line.attr("d", lineFunc(linedata));
+        if (regression) {
+            recalcLineData();
+            regression_line.attr("d", lineFunc(linedata));
+        }
         
         //updateParameterDisplays();
         updateSliders();
@@ -358,7 +369,9 @@ permalink: /applets/covariance/
     // rho = -----    beta1 = -----
     //       sX sY             sX^2
     
-    addStatusText(controls_div, "betatext", "slope = " + d3.format(".3f")(beta1), false);
+    if (regression) {
+        addStatusText(controls_div, "betatext", "slope = " + d3.format(".3f")(beta1), false);
+    }
     addStatusText(controls_div, "rhotext",  "correlation = " + d3.format(".3f")(rho), false);
     addSlider(controls_div, "covslider", "covariance", 100*(cov - covmin)/(covmax - covmin), function() {
         var pct = parseFloat(d3.select(this).property('value'));

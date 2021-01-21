@@ -9,7 +9,7 @@ Lectures (Jan. 19 - Mar. 2 at least) are two-parted: (1) video on HuskyCT (watch
 
 Lecture |      Date     |                           Topic                                    |      Reading
 :-----: | :-----------: | :----------------------------------------------------------------  | :-----------------
-1       | Jan. 19       | Why evolution is important                                         |  Ch. 1 (pp. 3-9)
+1       | Jan. 19       | Why evolution is important ([answers to your 1st day questions](../first-day-questions))     |  Ch. 1 (pp. 3-9)
 2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 57-62,66-67)
 3       | Jan. 26       | Quantitative trait evolution                                       |  TBA (To Be Announced)
 4       | Jan. 28       | Selection at a single locus                                        |  TBA

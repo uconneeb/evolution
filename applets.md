@@ -9,6 +9,7 @@ permalink: /applets/
 Random mutation and natural selection have already found a good solution to this ball packing problem. Can you find a better solution? Your goal is to drop balls into the pit in an order that maximizes the fraction of the pit area occupied by balls. After you play, the app will tell you how well you did compared to the best solution found by 50 generations of natural selection in a population of 50 haploid individuals.
 
 {% comment %}
+
 ## [Covariance]({{ "applets/covariance/" | relative_url }})
 
 This app illustrates the relationships among variance, covariance, and correlation.
