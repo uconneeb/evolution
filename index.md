@@ -7,7 +7,7 @@ layout: home
 ![Photo of Cactus Garden, Joshua Tree National Park](assets/img/cylindropuntia.jpg)
 _Teddybear Cholla cacti, Cactus Garden, Joshua Tree National Park, California. These plants are well adapted for life in an environment in which water is a very scarce resource._
 
-# EEB 2245/2245W (Evolution)
+# EEB 2245/2245W (Evolutionary Biology)
 
 EEB 2245/W is a course in the [Department of Ecology and Evolutionary Biology](https://www.eeb.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). The primary goal of the course is to teach the basic principles of evolutionary biology and the history of life on earth. 
 
