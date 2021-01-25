@@ -20,8 +20,8 @@ permalink: /contact/
 **Students:**       | Last name beginning A-M                                           | Last name beginning N-Z 
 **E-mail:**         | [jessica.espinosa@uconn.edu](mailto:jessica.espinosa@uconn.edu)   | [zachary.muscavitch@uconn.edu](mailto:zachary.muscavitch@uconn.edu)
 **Office hours:**   | Mondays 9-11AM                                                    | Wednesdays 3:30-4:30PM
-***Office hours to be held online via Collaborate on HuskyCT**
 {:.persontable}
+***Office hours to be held online via Collaborate on HuskyCT**
 
 ## W Coordinator
 
