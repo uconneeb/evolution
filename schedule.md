@@ -7,11 +7,11 @@ permalink: /lecture-schedule/
 
 Lectures (Jan. 19 - Mar. 2 at least) are two-parted: (1) video on HuskyCT (watch from 9:30-10:00, or preferably earlier); (2) online discussion from 10:00-10:45 (using Collaborate within HuskyCT). This schedule is subject to change without notice (except for exam dates). Check regularly for updates!
 
-Lecture |      Date     |                           Topic                                    |      Reading
+Lecture |      Date     |                           Topic                                    |      Reading*
 :-----: | :-----------: | :----------------------------------------------------------------  | :-----------------
 1       | Jan. 19       | Why evolution is important ([answers to your 1st day questions](../first-day-questions))     |  Ch. 1 (pp. 3-9)
 2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 57-62,66-67)
-3       | Jan. 26       | Quantitative trait evolution                                       |  TBA (To Be Announced)
+3       | Jan. 26       | Quantitative trait evolution                                       |  Ch. 1 (pp. 10-15), Ch. 6 (pp. 139-147)
 4       | Jan. 28       | Selection at a single locus                                        |  TBA
 5       | Feb.  2       | Sexual selection                                                   |  TBA
 6       | Feb.  4       | Direct and inclusive fitness                                       |  TBA
@@ -41,3 +41,4 @@ Lecture |      Date     |                           Topic                       
         | FINALS WEEK   | **EXAM 4** (covers Lectures 19-24)                                  |
 {:#lecturestable}
 
+*A note about textbook readings: for a particular page range specified in the lecture schedule, start reading at the first section heading on the first page of the range and stop just before the first section heading on the last page of the range. For example, for pp. 10-15 of chapter 1, start reading beginning with the section "Charles Darwin" on p. 10 and stop reading just before the section "Evolutionary biology after Darwin" on p. 15.

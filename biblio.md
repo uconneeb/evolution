@@ -5,13 +5,17 @@ permalink: /literature-cited/
 ---
 The papers and books listed on this page have been mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
-**Berra 1990.** Evolution and the myth of creationism. Stanford University Press.
+**Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
 
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
+
+**Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.
 
 **Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm.](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
 
 **Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 
+
+**Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
 
 **Hill et al. 2005.** [Genetic algorithm for large-scale maximum parsimony phylogenetic analysis of proteins.](https://doi.org/10.1016/j.bbagen.2005.04.027) Biochimica et Biophysica Acta (BBA) - General Subjects. 
 
@@ -20,6 +24,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
 
 **Lin and Liu 2007.** [Genetic algorithms for portfolio selection problems with minimum transaction lots.](https://doi.org/10.1016/j.ejor.2006.12.024) European Journal of Operational Research 185:393-404.
+
+**Lürling 2003.** [Phenotypic plasticity in the green algae Desmodesmus and Scenedesmus with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
 
 **Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
 
@@ -31,9 +37,15 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Rivera et al. 2020.** [Toughening mechanisms of the elytra of the diabolical ironclad beetle.](https://doi.org/10.1038/s41586-020-2813-8) Nature 586, 543–548.
 
+**Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
+
+** Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
+
 **Zwickl 2006.** [Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion.](https://repositories.lib.utexas.edu/handle/2152/2666) Ph.D. dissertation, The University of Texas at Austin.
 
 {% comment %}
+**Berra 1990.** Evolution and the myth of creationism. Stanford University Press.
+
 **M Andersson. 1982.** Female choice selects for extreme tail length in a widowbird. Nature 299:818-820. [DOI: 10.1038/299818a0](https://doi.org/10.1038/299818a0) _(A version of Figure 1 was drawn by hand in class.)_
 
 {% include examfour.html %} **M Baym, TD Lieberman, ED Kelsic, R Chait, R Gross, I Yelin, R Kishony.
