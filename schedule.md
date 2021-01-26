@@ -11,7 +11,7 @@ Lecture |      Date     |                           Topic                       
 :-----: | :-----------: | :----------------------------------------------------------------  | :-----------------
 1       | Jan. 19       | Why evolution is important ([answers to your 1st day questions](../first-day-questions))     |  Ch. 1 (pp. 3-9)
 2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 57-62,66-67)
-3       | Jan. 26       | Quantitative trait evolution                                       |  Ch. 1 (pp. 10-15), Ch. 6 (pp. 139-143, 144-147)
+3       | Jan. 26       | Quantitative trait evolution                                       |  Ch. 1 (pp. 10-15), Ch. 6 (pp. 139-143)
 4       | Jan. 28       | Selection at a single locus                                        |  TBA
 5       | Feb.  2       | Sexual selection                                                   |  TBA
 6       | Feb.  4       | Direct and inclusive fitness                                       |  TBA
