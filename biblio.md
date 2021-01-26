@@ -7,7 +7,11 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
 
+**Barrett et al. 2008.** [Natural selection on a major armor gene in threespine stickleback.](https://doi.org/10.1126/science.1159978) Science 322:255-257.
+
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
+
+**Cresko et al. 2004.** [Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations.](https://doi.org/10.1073/pnas.0308479101) Proceedings of the National Academy of Science USA 101:6050-6055.
 
 **Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.
 
@@ -37,9 +41,11 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Rivera et al. 2020.** [Toughening mechanisms of the elytra of the diabolical ironclad beetle.](https://doi.org/10.1038/s41586-020-2813-8) Nature 586, 543–548.
 
+**Shapiro et al. 2004.** Genetic and developmental basis of evolutionary pelvic reduction in threespine sticklebacks.](https://doi.org/10.1038/nature02415) Nature 428_717-723.
+
 **Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
 
-** Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
+**Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
 **Zwickl 2006.** [Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion.](https://repositories.lib.utexas.edu/handle/2152/2666) Ph.D. dissertation, The University of Texas at Austin.
 
@@ -66,8 +72,6 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **JA Coyne. 2014.** There are no ring species. [blog post](https://whyevolutionistrue.wordpress.com/2014/07/16/there-are-no-ring-species/) _(I include this blog post because it reproduces plate 1 from Coyne and Orr, 2004, which was mentioned in lecture xxx in the discussion of ring species.)_
 
 {% include examfour.html %} **JA Coyne and HA Orr. 2004.** Speciation. Sinauer Associates, Sunderland, Massachusetts. [link to publisher site](https://global.oup.com/ushe/product/speciation-9780878930890?q=coyne&lang=en&cc=us) _(Figs. 3.2, p. 96, and 3.4, pl. 100, were used in a handout referenced April 25 to illustrate allopatric sister species and incipient allopatric speciation, respectively.)_
-
-**WA Cresko, A Amores, C Wilson, J Murphy, M Currey, P Phillips, MA Bell, CB Kimmel, and JH Postlethwait. 2004.** Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations. Proceedings of the National Academy of Science USA 101:6050-6055. [DOI: 10.1073/pnas.0308479101](https://doi.org/10.1073/pnas.0308479101) _(Figure 4 provided the photo of the F2 dihybrid cross involving stickleback armor that I showed in class.)_
 
 **CR Darwin. 1870.** A naturalist's voyage round the world. 2nd edition. John Murray, London. [Free ebook available at Gutenberg](http://www.gutenberg.org/ebooks/3704) _(The plate showing four species of Darwin's finches was used in class. This is Darwin's travel diary from his voyage on the H.M.S. Beagle, first published in 1839 very soon after his return.)_
 
