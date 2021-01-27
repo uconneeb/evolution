@@ -10,10 +10,18 @@ assumes that the melanic form is selected against with selection coefficient <em
 
 Can you find a single value of <em>s</em> that matches the points, which measure the 
 frequency of the melanic form each year in a single place ([West Kirby, near Liverpool, 
-England](https://goo.gl/maps/h9QniAYgzRr)). You may find that allowing the selection coefficient to change in 1976 helps 
-in fitting the model to the empirical measurements. Does the best fitting model assume a 
-constant selection coefficient, increasing selection against the melanic form, or 
-decreasing selection against the melanic form?
+England](https://goo.gl/maps/h9QniAYgzRr)). You will find that allowing the selection coefficient to change in 1976 helps 
+in fitting the model to the empirical measurements. 
+
+Why does 1976 seem important? Does this sentence from the [Wikipedia article on Liverpool](https://en.wikipedia.org/wiki/Liverpool#20th_century) provide a clue?
+> From the mid-1970s onwards, Liverpool's docks and traditional manufacturing industries declined due to restructuring of shipping and heavy industry...
+
+Does the best fitting model assume a 
+* constant selection coefficient, 
+* increasing selection against the melanic form, or 
+* decreasing selection against the melanic form?
+
+---
 
 <div id="ctrl"></div>
 <div id="plot"></div>
