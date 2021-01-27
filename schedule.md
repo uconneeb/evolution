@@ -12,10 +12,10 @@ Lecture |      Date     |                           Topic                       
 1       | Jan. 19       | Why evolution is important ([answers to your 1st day questions](../first-day-questions))     |  Ch. 1 (pp. 3-9)
 2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 57-62,66-67)
 3       | Jan. 26       | Quantitative trait evolution                                       |  Ch. 1 (pp. 10-15), Ch. 6 (pp. 139-143)
-4       | Jan. 28       | Selection at a single locus                                        |  (coming soon...)
-5       | Feb.  2       | Sexual selection                                                   |  TBA
-6       | Feb.  4       | Direct and inclusive fitness                                       |  TBA
-7       | Feb.  9       | Multilevel selection and target of selection                       |  TBA
+4       | Jan. 28       | Selection at a single locus                                        |  Ch. 5 (pp. 104-105, 119-122)
+5       | Feb.  2       | Evolution of fitness; selective sweeps                             |  TBA
+6       | Feb.  4       | Sexual selection                                                   |  TBA
+7       | Feb.  9       | Inclusive fitness; multilevel selection                            |  TBA
         | Feb. 11       | **EXAM 1**  (covers Lectures 1-7)                                  |  
 8       | Feb. 16       | Hardy-Weinberg equilibrium                                         |  TBA
 9       | Feb. 18       | Nonrandom mating, migration                                        |  TBA
