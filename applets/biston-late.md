@@ -13,8 +13,10 @@ frequency of the melanic form each year in a single place ([West Kirby, near Liv
 England](https://goo.gl/maps/h9QniAYgzRr)). You will find that allowing the selection coefficient to change in 1976 helps 
 in fitting the model to the empirical measurements. 
 
+{% comment %}
 Why does 1976 seem important? Does this sentence from the [Wikipedia article on Liverpool](https://en.wikipedia.org/wiki/Liverpool#20th_century) provide a clue?
 > From the mid-1970s onwards, Liverpool's docks and traditional manufacturing industries declined due to restructuring of shipping and heavy industry...
+{% endcomment %}
 
 Does the best fitting model assume a 
 * constant selection coefficient, 
