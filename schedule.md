@@ -13,8 +13,8 @@ Lecture |      Date     |                           Topic                       
 2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 57-62,66-67)
 3       | Jan. 26       | Quantitative trait evolution                                       |  Ch. 1 (pp. 10-15), Ch. 6 (pp. 139-143)
 4       | Jan. 28       | Selection at a single locus                                        |  Ch. 5 (pp. 104-105, 119-122)
-5       | Feb.  2       | Modeling natural selection                                         |  (coming soon...)
-6       | Feb.  4       | Sexual selection                                                   |  TBA
+5       | Feb.  2       | Heritability; modeling natural selection                           |  Ch. 5 (pp. 104-110), Ch. 6 (pp. 145-147)
+6       | Feb.  4       | Molecular evolution; sexual selection                              |  TBA
 7       | Feb.  9       | Inclusive fitness; multilevel selection                            |  TBA
         | Feb. 11       | **EXAM 1**  (covers Lectures 1-7)                                  |  
 8       | Feb. 16       | Hardy-Weinberg equilibrium                                         |  TBA
