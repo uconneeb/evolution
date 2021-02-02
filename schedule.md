@@ -13,16 +13,16 @@ Lecture |      Date     |                           Topic                       
 2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 57-62,66-67)
 3       | Jan. 26       | Quantitative trait evolution                                       |  Ch. 1 (pp. 10-15), Ch. 6 (pp. 139-143)
 4       | Jan. 28       | Selection at a single locus                                        |  Ch. 5 (pp. 104-105, 119-122)
-5       | Feb.  2       | Heritability; modeling natural selection                           |  Ch. 5 (pp. 104-110), Ch. 6 (pp. 145-147)
-6       | Feb.  4       | Molecular evolution; sexual selection                              |  TBA
-7       | Feb.  9       | Inclusive fitness; multilevel selection                            |  TBA
-        | Feb. 11       | **EXAM 1**  (covers Lectures 1-7)                                  |  
-8       | Feb. 16       | Hardy-Weinberg equilibrium                                         |  TBA
-9       | Feb. 18       | Nonrandom mating, migration                                        |  TBA
-10      | Feb. 23       | Genetic drift and population structure                             |  TBA
-11      | Feb. 25       | Adaptive landscapes and shifting balance                           |  TBA
-12      | Mar.  2       | Speciation                                                         |  TBA
-        | Mar.  4       | **EXAM 2** (covers Lectures 8-13)                                  |  
+        | Feb.  2       | _(class canceled due to snow storm)_                               |  
+5       | Feb.  4       | Heritability; modeling natural selection at one locus              |  Ch. 5 (pp. 104-110), Ch. 6 (pp. 145-147)
+6       | Feb.  9       | Molecular evolution; sexual selection                              |  TBA
+        | Feb. 11       | **EXAM 1**  (covers Lectures 1-5)                                  |  
+7       | Feb. 16       | Inclusive fitness, multilevel selection                            |  TBA
+8       | Feb. 18       | Hardy-Weinberg equilibrium, nonrandom mating, migration            |  TBA
+9       | Feb. 23       | Genetic drift and population structure                             |  TBA
+10      | Feb. 25       | Adaptive landscapes and shifting balance                           |  TBA
+11      | Mar.  2       | Speciation                                                         |  TBA
+        | Mar.  4       | **EXAM 2** (covers Lectures 6-11)                                  |  
 13      | Mar.  9       | Introduction to the geological time scale; the fossil record       |  Ch. 17 (pp. 430–438)
 14      | Mar. 11       | Life in the Precambrian; evolution of the Metazoa                  |  Ch. 17 (pp. 438–440)
 15      | Mar. 16       | Cambrian explosion & life in the Paleozoic                         |  Ch. 17 (pp. 440–452)
