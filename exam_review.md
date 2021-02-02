@@ -10,7 +10,7 @@ Your 2245 TAs will be offering an optional review session prior to each exam. Yo
 Review session times will be announced in lecture and posted on this page as they are scheduled.
 
 #### Exam 1
-Review session: 
+Review session:  [Poll for Exam 1 review.](https://whenisgood.net/k47cwnz)
 
 #### Exam 2
 
