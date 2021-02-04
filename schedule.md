@@ -14,9 +14,9 @@ Lecture |      Date     |                           Topic                       
 3       | Jan. 26       | Quantitative trait evolution                                       |  Ch. 1 (pp. 10-15), Ch. 6 (pp. 139-143)
 4       | Jan. 28       | Selection at a single locus                                        |  Ch. 5 (pp. 104-105, 119-122)
         | Feb.  2       | _(class canceled due to snow storm)_                               |  
-5       | Feb.  4       | Heritability; modeling natural selection at one locus              |  Ch. 5 (pp. 104-110), Ch. 6 (pp. 145-147)
-6       | Feb.  9       | Molecular evolution; sexual selection                              |  TBA
-        | Feb. 11       | **EXAM 1**  (covers Lectures 1-5)                                  |  
+5       | Feb.  4       | Heritability; modeling natural selection at one locus ([practice problems handout](../assets/pdf/practice.pdf)) |  Ch. 5 (pp. 104-110), Ch. 6 (pp. 145-147)
+6       | Feb.  9       | Molecular evolution; sexual selection                              |  Ch. 4 (figs. 4.2, 4.3), Ch. 10 (pp. 247-260)
+        | Feb. 11       | **EXAM 1**  (covers Lectures 1-6)                                  |  
 7       | Feb. 16       | Inclusive fitness, multilevel selection                            |  TBA
 8       | Feb. 18       | Hardy-Weinberg equilibrium, nonrandom mating, migration            |  TBA
 9       | Feb. 23       | Genetic drift and population structure                             |  TBA
@@ -41,4 +41,4 @@ Lecture |      Date     |                           Topic                       
         | FINALS WEEK   | **EXAM 4** (covers Lectures 19-24)                                  |
 {:#lecturestable}
 
-*A note about textbook readings: for a particular page range specified in the lecture schedule, start reading at the first section heading on the first page of the range and stop just before the first section heading on the last page of the range. For example, for pp. 10-15 of chapter 1, start reading beginning with the section "Charles Darwin" on p. 10 and stop reading just before the section "Evolutionary biology after Darwin" on p. 15.
+*A note about textbook readings: **for a particular page range** specified in the lecture schedule, start reading at the first section heading on the first page of the range and stop just before the first section heading on the last page of the range. **For tables and figures** listed, study the figure itself, the caption, and the paragraphs in the main text that reference the figure or table.
