@@ -14,7 +14,7 @@ Lecture |      Date     |                           Topic                       
 3       | Jan. 26       | Quantitative trait evolution                                       |  Ch. 1 (pp. 10-15), Ch. 6 (pp. 139-143)
 4       | Jan. 28       | Selection at a single locus                                        |  Ch. 5 (pp. 104-105, 119-122)
         | Feb.  2       | _(class canceled due to snow storm)_                               |  
-5       | Feb.  4       | Heritability; modeling natural selection at one locus ([practice problems handout](../assets/pdf/practice.pdf)) |  Ch. 5 (pp. 104-110), Ch. 6 (pp. 145-147)
+5       | Feb.  4       | Heritability; modeling natural selection at one locus ([practice problems handout](../assets/pdf/practice.pdf),[annotated in class](../assets/pdf/practice-annotated.pdf)) |  Ch. 5 (pp. 104-110), Ch. 6 (pp. 145-147)
 6       | Feb.  9       | Molecular evolution; sexual selection                              |  Ch. 4 (figs. 4.2, 4.3), Ch. 10 (pp. 247-260)
         | Feb. 11       | **EXAM 1**  (covers Lectures 1-6)                                  |  
 7       | Feb. 16       | Inclusive fitness, multilevel selection                            |  TBA
