@@ -25,9 +25,13 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
 
+**Hammerschmidt et al. 2014.** [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) Nature 515:75-79.
+
 **Hill et al. 2005.** [Genetic algorithm for large-scale maximum parsimony phylogenetic analysis of proteins.](https://doi.org/10.1016/j.bbagen.2005.04.027) Biochimica et Biophysica Acta (BBA) - General Subjects. 
 
 **Huang et al. 2020.** [Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19.](https://doi.org/10.1038/s41401-020-0485-4) Acta Pharmacologica Sinica 41:1141-1149.
+
+**Krakauer 2005.** [Kin selection and cooperative courtship in wild turkeys](https://doi.org/10.1038/nature03325) Nature 434:69-72.
 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
 
@@ -52,6 +56,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
 **van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
+
+**Wade 1977.** [An experimental study of group selection.](https://www.jstor.org/stable/2407552) Evolution 31:134-153.
 
 **Zwickl 2006.** [Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion.](https://repositories.lib.utexas.edu/handle/2152/2666) Ph.D. dissertation, The University of Texas at Austin.
 
@@ -90,6 +96,10 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **JBS Haldane. 1924.** A mathematical theory of natural and artificial selection. I. Trans. Cambridge Philos. Soc. 23:19-41. (No DOI available, but it can be downloaded from [the Blackwell Publisher website](http://www.blackwellpublishing.com/ridley/classictexts/haldane1.pdf)) _(This paper represents the first time anyone estimated a selection coefficient for the case of peppered moths in the 1800s. See p. 26 but note that peppered moths were in the genus _Amphidasys_ rather than _Biston_ at that time.)_
 
 {% include examfour.html %} **E Lane. 1994.** Florida's geological history and water resources. Special publication no. 35. Florida Geological Survey. [link to PDF](https://s3.amazonaws.com/defendersofcrookedlake/documents/FloridaGeologicalHistory.pdf) _(Used figure 16 of Pleisocene shoreline of Florida on p. 22 in handout April 25. See also Carson 1955.)_
+
+**Hamilton 1964a.** [The genetical evolution of social behaviour. I.](https://doi.org/10.1016/0022-5193(64)90038-4) Journal of Theoretical Biology 7:1-16.
+
+**Hamilton 1964b.** [The genetical evolution of social behaviour. II.](https://doi.org/10.1016/0022-5193(64)90039-6) Journal of Theoretical Biology 7:17-52.
 
 {% include examfour.html %} **PO Lewis and DJ Crawford. 1995.** Pleistocene refugium endemics exhibit greater allozymic diversity than widespread congeners in the genus Polygonella (Polygonaceae). American Journal of Botany 82:141-149. [DOI: 10.1002/j.1537-2197.1995.tb11483.x](https://doi.org/10.1002/j.1537-2197.1995.tb11483.x) _(Phylogeny and distributions of taxa used to illustrate allopatry of sister species in handout referenced April 25.)_
 
