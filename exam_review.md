@@ -10,7 +10,7 @@ Your 2245 TAs will be offering an optional review session prior to each exam. Yo
 Review session times will be announced in lecture and posted on this page as they are scheduled.
 
 #### Exam 1
-Review session: Tuesday February 9th 5PM on HuskyCT Collaborate
+Review session: Tuesday February 9th 5PM on HuskyCT Collaborate - The video recording of this review session is now posted!
 
 #### Exam 2
 
