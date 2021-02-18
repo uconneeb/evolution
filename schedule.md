@@ -18,7 +18,7 @@ Lecture |      Date     |                           Topic                       
 6       | Feb.  9       | Molecular evolution; sexual selection                              |  Ch. 4 (figs. 4.2, 4.3), Ch. 10 (pp. 247-260)
         | Feb. 11       | **EXAM 1**  (covers Lectures 1-6)                                  |  
 7       | Feb. 16       | Inclusive fitness, multilevel selection                            |  Ch. 3 (pp. 62-65; Fig. 3.10), Ch. 12 (pp. 308-310, 313-315) 
-8       | Feb. 18       | Hardy-Weinberg equilibrium, nonrandom mating, migration            |  TBA
+8       | Feb. 18       | Hardy-Weinberg equilibrium, nonrandom mating, mutation, migration  |  Ch. 4 (pp. 83-85), Ch. 10 (pp. 269-270)
 9       | Feb. 23       | Genetic drift and population structure                             |  TBA
 10      | Feb. 25       | Adaptive landscapes and shifting balance                           |  TBA
 11      | Mar.  2       | Speciation                                                         |  TBA

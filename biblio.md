@@ -29,6 +29,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Hill et al. 2005.** [Genetic algorithm for large-scale maximum parsimony phylogenetic analysis of proteins.](https://doi.org/10.1016/j.bbagen.2005.04.027) Biochimica et Biophysica Acta (BBA) - General Subjects. 
 
+**Holden and Bond 1960.** [Studies on the breeding system of the field bean, _Vicia faba_ L.: 1. natural cross breeding in _V. faba_.](http://dx.doi.org/10.1038/hdy.1960.74) Heredity 15:175-192.
+
 **Huang et al. 2020.** [Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19.](https://doi.org/10.1038/s41401-020-0485-4) Acta Pharmacologica Sinica 41:1141-1149.
 
 **Krakauer 2005.** [Kin selection and cooperative courtship in wild turkeys](https://doi.org/10.1038/nature03325) Nature 434:69-72.
@@ -39,9 +41,13 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Lürling 2003.** [Phenotypic plasticity in the green algae Desmodesmus and Scenedesmus with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
 
+**Mead et al. 2008.** [Genetic susceptibility, evolution and the kuru epidemic.](https://doi.org/10.1098/rstb.2008.0087) Philosophical Transactions of the Royal Society B 363:3741-3746.
+
 **Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-􏲪1662.
+
+**Nosil 2009.** [Adaptive population divergence in cryptic color-pattern following a reduction in gene flow.](https://doi.org/10.1111/j.1558-5646.2009.00671.x) Evolution 63:1902-1912.
 
 **Price 1972.** [Extension of covariance selection mathematics.](http:/doi.org/10.1111/j.1469-1809.1957.tb01874.x) Annals of Human Genetics 35: 485-490.
 
@@ -118,4 +124,5 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **AE van't Hof, P Campagne, DJ Rigden, CJ Yung, J Lingley, MA Quail, N Hall, AC Darby, and IJ Saccheri. 2016.** The industrial melanism mutation in British peppered moths is a transposable element. Nature 534:102-107. [DOI: 10.1038/nature17951](https://doi.org/10.1038/nature17951) _(This paper describes the genetic basis of the dark (melanic) form of the peppered moth. It was mentioned after Dr. McClintock's visit because the mutation results from a transposable element.)_
 
 **J Wang, J Ding, T Biyue, KM Robinson, IH Michelson, A Johannson, B Nystedt, DG Scofield, O Nilsson, S Jansson, NR Street, and PK Ingvarsson. 2018.** A major locus controls local adaptation and adaptive life history variation in a perennial plant. _Genome Biology_ 19:72. [DOI: 10.1186/s13059-018-1444-y](https://doi.org/10.1186/s13059-018-1444-y) _(Figure 3 of this paper provided a couple of figures used in lecture when describing the selective sweep of the early-bud-formation-mutation in population of aspen in northern Sweden.)_
+
 {% endcomment %}
