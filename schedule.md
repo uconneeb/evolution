@@ -7,7 +7,7 @@ permalink: /lecture-schedule/
 
 Lectures (Jan. 19 - Mar. 2 at least) are two-parted: (1) video on HuskyCT (watch from 9:30-10:00, or preferably earlier); (2) online discussion from 10:00-10:45 (using Collaborate within HuskyCT). This schedule is subject to change without notice (except for exam dates). Check regularly for updates!
 
-Lecture |      Date     |                           Topic                                    |      Reading*
+Lecture |      Date     |                           Topic                                    |      Reading
 :-----: | :-----------: | :----------------------------------------------------------------  | :-----------------
 1       | Jan. 19       | Why evolution is important ([answers to your 1st day questions](../first-day-questions))     |  Ch. 1 (pp. 3-9)
 2       | Jan. 21       | Natural selection                                                  |  Ch. 3 (pp. 57-62,66-67)
@@ -17,9 +17,9 @@ Lecture |      Date     |                           Topic                       
 5       | Feb.  4       | Heritability; modeling natural selection at one locus ([practice problems handout](../assets/pdf/practice.pdf),[annotated in class](../assets/pdf/practice-annotated.pdf)) |  Ch. 5 (pp. 104-110), Ch. 6 (pp. 145-147)
 6       | Feb.  9       | Molecular evolution; sexual selection                              |  Ch. 4 (figs. 4.2, 4.3), Ch. 10 (pp. 247-260)
         | Feb. 11       | **EXAM 1**  (covers Lectures 1-6)                                  |  
-7       | Feb. 16       | Inclusive fitness, multilevel selection                            |  Ch. 3 (pp. 62-65; Fig. 3.10), Ch. 12 (pp. 308-310, 313-315) 
-8       | Feb. 18       | Hardy-Weinberg equilibrium, nonrandom mating, mutation, migration  |  Ch. 4 (pp. 83-85), Ch. 10 (pp. 269-270)
-9       | Feb. 23       | Genetic drift and population structure                             |  TBA
+7       | Feb. 16       | Inclusive fitness, multilevel selection                            |  Ch. 3 (pp. 62-65; Fig. 3.10), Ch. 12 (pp. 308-310, 313-315)[*](#asterisk) 
+8       | Feb. 18       | Hardy-Weinberg equilibrium, nonrandom mating, mutation, migration  |  Ch. 4 (pp. 83-85), Ch. 10 (pp. 269-270)[*](#asterisk)
+9       | Feb. 23       | Genetic drift and population structure                             |  Ch. 7 (pp. 166-173, 177-179, 186-187)[*](#asterisk)
 10      | Feb. 25       | Adaptive landscapes and shifting balance                           |  TBA
 11      | Mar.  2       | Speciation                                                         |  TBA
         | Mar.  4       | **EXAM 2** (covers Lectures 7-11)                                  |  
@@ -29,7 +29,7 @@ Lecture |      Date     |                           Topic                       
 16      | Mar. 18       | Life in the Mesozoic                                               |  Ch. 17 (pp. 440–452)
 17      | Mar. 23       | Life in the Cenozoic                                               |  Ch. 17 (pp. 459–465)
 18      | Mar. 25       | Evolution of primates                                              |  Ch. 21 (pp. 547–559)
-        | Mar. 30       | **EXAM 3** (covers Lectures 13-18)                                   |
+        | Mar. 30       | **EXAM 3** (covers Lectures 13-18)                                 |
 19      | Apr.  1       | Evolution of biodiversity & extinction                             |  Ch. 19
 20      | Apr.  6       | Characters, homology & homoplasy                                   |  Ch. 16
 21      | Apr.  8       | Systematics & reconstructing evolutionary history                  |  Ch. 15
@@ -38,7 +38,38 @@ Lecture |      Date     |                           Topic                       
 22      | Apr. 20       | Evolution and development                                          |  Ch. 16
 23      | Apr. 22       | Major distribution patterns                                        |  Ch. 18
 24      | Apr. 27       | Continental drift & historical biogeography                        |  Ch. 18
-        | FINALS WEEK   | **EXAM 4** (covers Lectures 19-24)                                  |
+        | FINALS WEEK   | **EXAM 4** (covers Lectures 19-24)                                 |
 {:#lecturestable}
 
+{% comment %}
 *A note about textbook readings: **for a particular page range** specified in the lecture schedule, start reading at the first section heading on the first page of the range and stop just before the first section heading on the last page of the range. **For tables and figures** listed, study the figure itself, the caption, and the paragraphs in the main text that reference the figure or table.
+{% endcomment %}
+
+<a name="asterisk">
+### * Section titles for those using older editions of the textbook ###
+
+Section titles in the current edition of the textbook are given here to make it easier to locate comparable sections in older editions in which the page numbers are different.
+
+#### Chapter 3 ####
+
+* pp. 62-65: Levels of Selection. Selfish genes and unselfish behaviors. Selection of organisms and groups.
+* Fig. 3.10: Conflict between group and individual selection.
+
+#### Chapter 4 ####
+* pp. 83-85: Gene mixing by segregation.
+
+#### Chapter 7 ####
+
+* pp. 166-173: What is Random Genetic Drift? The Genealogy of Genes. How Strong is Genetic Drift?
+* pp. 177-179: Genetic Drift and Natural Selection.
+* pp. 186-187: Divergence among populations
+
+#### Chapter 10 ####
+
+* pp. 269-270: Selfing and Outcrossing.
+
+#### Chapter 12 ####
+
+* pp. 308-310: Eusocial animals: The ultimate families.
+* pp. 313-315: Group selection.
+
