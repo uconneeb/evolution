@@ -13,6 +13,10 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Bell et al. 2003.** [Twelve years of contemporary armor evolution in a threespine stickleback population.](https://doi.org/10.1111/j.0014-3820.2004.tb00414.x) Evolution 58:814–824.
 
+**Bonin et al. 2006.** [Explorative genome scan to detect candidate loci for adaptation along a gradient of altitude in the common frog (_Rana temporaria_).](https://doi.org/10.1093/molbev/msj087) Molecular Biology and Evolution 23:773-783.
+
+**Cann et al. 1987.** [Mitochondrial DNA and human evolution.](https://doi.org/10.1038/325031a0) Nature 325:31-36.
+
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
 **Cresko et al. 2004.** [Parallel genetic basis for repeated evolution of armor loss in Alaskan threespine stickleback populations.](https://doi.org/10.1073/pnas.0308479101) Proceedings of the National Academy of Science USA 101:6050-6055.
@@ -60,6 +64,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
+
+**Storz 2005.** [Using genome scans of DNA polymorphism to infer adaptive population divergence.](https://doi.org/10.1111/j.1365-294X.2005.02437.x) Molecular Ecology 14:671-688.
 
 **van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
 

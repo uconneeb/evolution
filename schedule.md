@@ -22,7 +22,7 @@ Lecture |      Date     |                           Topic                       
 9       | Feb. 23       | Genetic drift and population structure                             |  TBA
 10      | Feb. 25       | Adaptive landscapes and shifting balance                           |  TBA
 11      | Mar.  2       | Speciation                                                         |  TBA
-        | Mar.  4       | **EXAM 2** (covers Lectures 6-11)                                  |  
+        | Mar.  4       | **EXAM 2** (covers Lectures 7-11)                                  |  
 13      | Mar.  9       | Introduction to the geological time scale; the fossil record       |  Ch. 17 (pp. 430–438)
 14      | Mar. 11       | Life in the Precambrian; evolution of the Metazoa                  |  Ch. 17 (pp. 438–440)
 15      | Mar. 16       | Cambrian explosion & life in the Paleozoic                         |  Ch. 17 (pp. 440–452)

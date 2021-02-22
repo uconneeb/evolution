@@ -100,7 +100,7 @@ Scroll down for more details.
 
     // Initialize frequency of A allele in all subpopulations
     var Ho = 0.0;
-    var He = 0.0;
+    var He = 0.5;
     var heterozygosity = [];
     var freqA = [];
     var pbar = 0.0;
@@ -108,7 +108,7 @@ Scroll down for more details.
         for (let j = 0; j < popcols; j++) {
             let tmp = {"i":i, "j":j, "freq":0.5};
             freqA.push(tmp);
-            heterozygosity.push({"i":i, "j":j, "heterozygosity":0.0});
+            heterozygosity.push({"i":i, "j":j, "heterozygosity":0.5});
         }
     }
     
@@ -251,6 +251,14 @@ Scroll down for more details.
         }
         let mean = sum/n;
         let variance = (sumsq - n*mean*mean)/n;
+        
+        // X = 1 with probability p
+        // X = 0 with probability 1-p
+        // E[X] = (0)(1-p) + (1)(p) = p
+        // Var(X) = E[X^2] - (E[X])^2
+        //        = (0^2)(1-p) + (1^2)(p) - p^2
+        //        = p - p^2
+        //        = p(1-p)
         let maxvar = mean*(1-mean);
         Fst = variance/maxvar;
     }

@@ -4,9 +4,9 @@ title: Applets
 permalink: /applets/
 ---
 
-## [Ball Drop]({{ "applets/ball-drop/" | relative_url }})
+## [Fst]({{ "applets/fst/" | relative_url }})
 
-Random mutation and natural selection have already found a good solution to this ball packing problem. Can you find a better solution? Your goal is to drop balls into the pit in an order that maximizes the fraction of the pit area occupied by balls. After you play, the app will tell you how well you did compared to the best solution found by 50 generations of natural selection in a population of 50 haploid individuals.
+This app shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding).
 
 ## [Peppered Moth in the 1800s]({{ "applets/biston-early/" | relative_url }})
 
@@ -15,6 +15,10 @@ This applet lets you explore the effect of assuming different values for the sel
 ## [Peppered Moth in the 1900s]({{ "applets/biston-late/" | relative_url }})
 
 This applet lets you explore the effect of assuming different values for the selection coefficient in a model designed to predict the decline of the melanic (dark) form of the peppered moth (_Biston betularia_) in Britain after the air became clean again in the late 1900s.
+
+## [Ball Drop]({{ "applets/ball-drop/" | relative_url }})
+
+Random mutation and natural selection have already found a good solution to this ball packing problem. Can you find a better solution? Your goal is to drop balls into the pit in an order that maximizes the fraction of the pit area occupied by balls. After you play, the app will tell you how well you did compared to the best solution found by 50 generations of natural selection in a population of 50 haploid individuals.
 
 {% comment %}
 
@@ -38,9 +42,5 @@ This app was created by Dr. Kent Holsinger for a different course (note that you
 
 This app was created by [Dr. Bob Sheehy](https://www.radford.edu/~rsheehy/) at Radford University, Radford, Virginia. I used this app to show how migration among populations
 slows down drift and delays fixation/loss of alleles.
-
-## [Fst]({{ "applets/fst/" | relative_url }})
-
-This app shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding, but see if you can spot the difference).
 
 {% endcomment %}
