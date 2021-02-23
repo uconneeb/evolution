@@ -6,7 +6,14 @@ permalink: /applets/drift/
 
 ## Genetic drift 
 
-Simulates genetic drift in 5 populations for 500 generations. You can repeat the simulation by pressing the **S** key, and can use the **Shift-Up-Arrow** and **Shift-Down-Arrow** keys to change the effective population size.
+Simulates genetic drift in 5 populations for 500 generations. The horizontal (x) axis is the relative frequency of the focal allele: 0.0 at far left, 1.0 at far right. 
+
+Keys that can be used:
+* **S** repeats the simulation (result will be different each time)
+* **Shift-Up-Arrow** increases effective population size (Ne)
+* **Shift-Down-Arrow** decreases effective population size (Ne)
+* **Right-Arrow** increases the starting allele frequency (p)
+* **Left-Arrow** decreases the starting allele frequency (p)
 
 <div id="arbitrary"></div>
 <script type="text/javascript">
@@ -119,11 +126,14 @@ Simulates genetic drift in 5 populations for 500 generations. You can repeat the
         else if (Ne < 10000) {
             Ne = Ne + 1000;
         }
-        else {
+        else if (Ne < 100000) {
             Ne = Ne + 10000;
         }
-        if (Ne > 100000)
-            Ne = 100000;
+        else {
+            Ne = Ne + 100000;
+        }
+        if (Ne > 1000000)
+            Ne = 1000000;
     }
 
     function decreasePopulationSize() {
@@ -136,8 +146,11 @@ Simulates genetic drift in 5 populations for 500 generations. You can repeat the
         else if (Ne <= 10000) {
             Ne = Ne - 1000;
         }
-        else {
+        else if (Ne <= 100000) {
             Ne = Ne - 10000;
+        }
+        else {
+            Ne = Ne - 100000;
         }
         if (Ne <= 10)
             Ne = 10;
@@ -278,17 +291,13 @@ Simulates genetic drift in 5 populations for 500 generations. You can repeat the
                 steps[i].push({'x0':p.x, 'x':xnew, 'y0':p.y, 'y':ynew, 'pop':i, 'genes':newgenes});
             }
             else {
-                // mean number of alleles equals m = 2*Ne*p.x
-                // variance in number of alleles equals v = 2*Ne*p.x*(1 - p.x)
-                // sd = sqrt(v)
-                // xsum drawn from normal distribution with mean m and std. dev. sd
+                // draw new allele frequency using normal deviate with appropriate mean and standard deviation
                 if (p.x == 0.0 || p.x == 1.0)
                     steps[i].push({'x0':p.x, 'x':p.x, 'y0':p.y, 'y':ynew, 'pop':i});
                 else {
-                    let mu = 2*Ne*p.x;
-                    let sd = Math.sqrt(2*Ne*p.x*(1.0 - p.x));
-                    let xsum = lot.normal(mu, sd);
-                    let xnew = xsum/(2.0*Ne);
+                    let mu = p.x;
+                    let sd = Math.sqrt(p.x*(1.0 - p.x)/(2*Ne));
+                    let xnew = lot.normal(mu, sd);
                     if (xnew <= 0.0)
                         xnew = 0.0;
                     else if (xnew >= 1.0)
