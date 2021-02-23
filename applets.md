@@ -6,7 +6,11 @@ permalink: /applets/
 
 ## [Fst]({{ "applets/fst/" | relative_url }})
 
-This app shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding).
+This applet shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding).
+
+## [Genetic Drift]({{ "applets/drift/" | relative_url }})
+
+This applet simulates genetic drift in 5 populations for 500 generations, allowing you to modify the effective population size.
 
 ## [Peppered Moth in the 1800s]({{ "applets/biston-early/" | relative_url }})
 
