@@ -20,7 +20,7 @@ Lecture |      Date     |                           Topic                       
 7       | Feb. 16       | Inclusive fitness, multilevel selection                            |  Ch. 3 (pp. 62-65; Fig. 3.10), Ch. 12 (pp. 308-310, 313-315)[*](#asterisk) 
 8       | Feb. 18       | Hardy-Weinberg equilibrium, nonrandom mating, mutation, migration  |  Ch. 4 (pp. 83-85), Ch. 10 (pp. 269-270)[*](#asterisk)
 9       | Feb. 23       | Genetic drift and population structure                             |  Ch. 7 (pp. 166-173, 177-179, 186-187)[*](#asterisk)
-10      | Feb. 25       | Adaptive landscapes and shifting balance                           |  TBA
+10      | Feb. 25       | Bottlenecks, founder effect, shifting balance, reproductive isolation |  Ch. 7 (pp. 165-166, 173-174), Ch. 5 (Figs. 5.23, 5.25), Ch. 9 (pp. 215-218, 220-225)
 11      | Mar.  2       | Speciation                                                         |  TBA
         | Mar.  4       | **EXAM 2** (covers Lectures 7-11)                                  |  
 13      | Mar.  9       | Introduction to the geological time scale; the fossil record       |  Ch. 17 (pp. 430–438)
@@ -58,11 +58,22 @@ Section titles in the current edition of the textbook are given here to make it 
 #### Chapter 4 ####
 * pp. 83-85: Gene mixing by segregation.
 
+#### Chapter 5 ####
+* p. 125: Figure 5.23: Comparing the chromosomes of sunflower species reveals chromosome translocations.
+* p. 128: Figure 5.25: Wright's adaptive landscape under positive, overdominant, and underdominant selection.
+
 #### Chapter 7 ####
 
+* pp. 165-166: Genetic Drift: Evolution at Random
 * pp. 166-173: What is Random Genetic Drift? The Genealogy of Genes. How Strong is Genetic Drift?
+* pp. 173-174: Populations that change in size
 * pp. 177-179: Genetic Drift and Natural Selection.
 * pp. 186-187: Divergence among populations
+
+#### Chapter 9 ####
+
+* pp. 215-218: What are species?
+* pp. 220-225: Reproductive islation (Prezygotic barriers, Postzygotic barriers)
 
 #### Chapter 10 ####
 

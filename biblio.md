@@ -43,7 +43,11 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Lin and Liu 2007.** [Genetic algorithms for portfolio selection problems with minimum transaction lots.](https://doi.org/10.1016/j.ejor.2006.12.024) European Journal of Operational Research 185:393-404.
 
+**Lowrey and Crawford 1985.** [Allozyme divergence and evolution in _Tetramalopium_ (Compositae: Asteraceae) on the Hawaiian Islands](https://doi.org/10.2307/2418435) Systematic Botany 10:64-72.
+
 **Lürling 2003.** [Phenotypic plasticity in the green algae Desmodesmus and Scenedesmus with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
+
+**Mayr 1942.** Systematics and the origin of species. Columbia University Press, New York.
 
 **Mead et al. 2008.** [Genetic susceptibility, evolution and the kuru epidemic.](https://doi.org/10.1098/rstb.2008.0087) Philosophical Transactions of the Royal Society B 363:3741-3746.
 
@@ -56,6 +60,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Price 1972.** [Extension of covariance selection mathematics.](http:/doi.org/10.1111/j.1469-1809.1957.tb01874.x) Annals of Human Genetics 35: 485-490.
 
 **Rambaut et al. 2020.** [Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations.](https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563/1) COVID-19 Genomics Consortium UK Dec. 2020.
+
+**Richmond et al. 2011.** [Mechanical reproductive isolation facilitates parallel speciation in western North American scincid lizards.](https://doi.org/10.1086/661240) The American Naturalist 178:320-332.
 
 **Rivera et al. 2020.** [Toughening mechanisms of the elytra of the diabolical ironclad beetle.](https://doi.org/10.1038/s41586-020-2813-8) Nature 586, 543–548.
 
