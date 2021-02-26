@@ -11,6 +11,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Barrett et al. 2008.** [Natural selection on a major armor gene in threespine stickleback.](https://doi.org/10.1126/science.1159978) Science 322:255-257.
 
+**Baym et al. 2016.** [Spatiotemporal microbial evolution on antibiotic landscapes.](https://doi.org/10.1126/science.aag0822) Science 6304:1147-1151. [YouTube video](https://youtu.be/yybsSqcB7mE)
+
 **Bell et al. 2003.** [Twelve years of contemporary armor evolution in a threespine stickleback population.](https://doi.org/10.1111/j.0014-3820.2004.tb00414.x) Evolution 58:814–824.
 
 **Bonin et al. 2006.** [Explorative genome scan to detect candidate loci for adaptation along a gradient of altitude in the common frog (_Rana temporaria_).](https://doi.org/10.1093/molbev/msj087) Molecular Biology and Evolution 23:773-783.
