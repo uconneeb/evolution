@@ -14,7 +14,7 @@ Review session: Tuesday February 9th 5PM on HuskyCT Collaborate - The video reco
 
 #### Exam 2
 
-Review session: 
+Review session: Poll for review session here [https://whenisgood.net/knhcykb] 
 
 #### Exam 3
 
