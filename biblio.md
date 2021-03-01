@@ -7,6 +7,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Andersson 1982.** [Female choice selects for extreme tail length in a widowbird.](https://doi.org/10.1038/299818a0) Nature 299:818-820.
 
+**Avise 2000.** [Phylogeography: the history and formation of species.](https://www.hup.harvard.edu/catalog.php?isbn=9780674666382) Harvard University Press, Cambridge, MA.
+
 **Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
 
 **Barrett et al. 2008.** [Natural selection on a major armor gene in threespine stickleback.](https://doi.org/10.1126/science.1159978) Science 322:255-257.
@@ -15,9 +17,13 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Bell et al. 2003.** [Twelve years of contemporary armor evolution in a threespine stickleback population.](https://doi.org/10.1111/j.0014-3820.2004.tb00414.x) Evolution 58:814–824.
 
+**Bernardi et al. 2008.** [Molecular ecology, speciation, and evolution of the reef fish genus _Anisotremus_](https://doi.org/10.1016/j.ympev.2008.05.011) Molecular Phylogenetics and Evolution 48:929-935.
+
 **Bonin et al. 2006.** [Explorative genome scan to detect candidate loci for adaptation along a gradient of altitude in the common frog (_Rana temporaria_).](https://doi.org/10.1093/molbev/msj087) Molecular Biology and Evolution 23:773-783.
 
 **Cann et al. 1987.** [Mitochondrial DNA and human evolution.](https://doi.org/10.1038/325031a0) Nature 325:31-36.
+
+**Carson. 1955.** The edge of the sea. Mariner Books, reprint edition. (Oct. 15, 1998). 304 pages. [Preview on Amazon.com](https://read.amazon.com/kp/embed?asin=B004IPPW6K&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Pd7VCbZWMMCRY) 
 
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
@@ -31,7 +37,11 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
 
+**Hall & Harvey 2002.** [The phylogeography of Amazonia revisited: new evidence from riodinid butterflies.](https://doi.org/10.1111/j.0014-3820.2002.tb01460.x) Evolution 56:1489-1497.
+
 **Hammerschmidt et al. 2014.** [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) Nature 515:75-79.
+
+**Hazzi et al. 2018.** [Biogeographic regions and events of isolation and diversification of the endemic biota of the Tropical Andes.](https://doi.org/10.1073/pnas.1803908115) Proceedings of the National Academy of Sciences USA 115:7985-7990.
 
 **Hill et al. 2005.** [Genetic algorithm for large-scale maximum parsimony phylogenetic analysis of proteins.](https://doi.org/10.1016/j.bbagen.2005.04.027) Biochimica et Biophysica Acta (BBA) - General Subjects. 
 
@@ -40,6 +50,10 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Huang et al. 2020.** [Structural and functional properties of SARS-CoV-2 spike protein: potential antivirus drug development for COVID-19.](https://doi.org/10.1038/s41401-020-0485-4) Acta Pharmacologica Sinica 41:1141-1149.
 
 **Krakauer 2005.** [Kin selection and cooperative courtship in wild turkeys](https://doi.org/10.1038/nature03325) Nature 434:69-72.
+
+**Lane 1994.** Florida's geological history and water resources. Special publication no. 35. Florida Geological Survey. [link to PDF](https://s3.amazonaws.com/defendersofcrookedlake/documents/FloridaGeologicalHistory.pdf)
+
+**Lewis & Crawford 1995.** [Pleistocene refugium endemics exhibit greater allozymic diversity than widespread congeners in the genus _Polygonella_ (Polygonella).](https://doi.org/10.2307/2445522) American Journal of Botany 82:141-149. (Note: this paper discusses the genus _Polygonella_, whereas Paul's lectures referred to these species as being in the genus _Polygonum_. That's because these species have been taxonomically transferred to the genus _Polygonum_ since Paul carried out his study.)
 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
 
@@ -72,6 +86,10 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
+
+**Soltis 1984.** [Autopolyploidy in _Tolmiea menziesii_ (Saxifragaceae).](https://www.jstor.org/stable/2443640) American Journal of Botany 71:1171-1174.
+
+**Spencer & Porter 1997.** [Evolutionary diversification and adaptation to novel environments in _Navarretia_ (Polemoniaceae).](https://www.jstor.org/stable/2419433) Systematic Botany 22:649-668.
 
 **Storz 2005.** [Using genome scans of DNA polymorphism to infer adaptive population divergence.](https://doi.org/10.1111/j.1365-294X.2005.02437.x) Molecular Ecology 14:671-688.
 

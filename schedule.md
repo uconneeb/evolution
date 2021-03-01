@@ -21,7 +21,7 @@ Lecture |      Date     |                           Topic                       
 8       | Feb. 18       | Hardy-Weinberg equilibrium, nonrandom mating, mutation, migration  |  Ch. 4 (pp. 83-85), Ch. 10 (pp. 269-270)[*](#asterisk)
 9       | Feb. 23       | Genetic drift and population structure                             |  Ch. 7 (pp. 166-173, 177-179, 186-187)[*](#asterisk)
 10      | Feb. 25       | Bottlenecks, founder effect, shifting balance, reproductive isolation |  Ch. 7 (pp. 165-166, 173-174), Ch. 5 (Figs. 5.23, 5.25), Ch. 9 (pp. 215-218, 220-225)
-11      | Mar.  2       | Speciation                                                         |  TBA
+11      | Mar.  2       | Speciation                                                         |  Ch. 9 (pp. 227-228, 232-233, 235-242)
         | Mar.  4       | **EXAM 2** (covers Lectures 7-11)                                  |  
 13      | Mar.  9       | Introduction to the geological time scale; the fossil record       |  Ch. 17 (pp. 430–438)
 14      | Mar. 11       | Life in the Precambrian; evolution of the Metazoa                  |  Ch. 17 (pp. 438–440)
@@ -74,6 +74,9 @@ Section titles in the current edition of the textbook are given here to make it 
 
 * pp. 215-218: What are species?
 * pp. 220-225: Reproductive islation (Prezygotic barriers, Postzygotic barriers)
+* pp. 227-228: The causes of speciation (Ecological speciation)
+* pp. 232-233: Speciation by polyploidy
+* pp. 235-242: The geography of speciation (Allopatric speciation, Sympatric speciation, Parapatric speciation)
 
 #### Chapter 10 ####
 
