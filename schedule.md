@@ -23,21 +23,21 @@ Lecture |      Date     |                           Topic                       
 10      | Feb. 25       | Bottlenecks, founder effect, shifting balance, reproductive isolation |  Ch. 7 (pp. 165-166, 173-174), Ch. 5 (Figs. 5.23, 5.25), Ch. 9 (pp. 215-218, 220-225)
 11      | Mar.  2       | Speciation                                                         |  Ch. 9 (pp. 227-228, 232-233, 235-242)
         | Mar.  4       | **EXAM 2** (covers Lectures 7-11)                                  |  
-13      | Mar.  9       | Introduction to the geological time scale; the fossil record       |  Ch. 17 (pp. 430–438)
-14      | Mar. 11       | Life in the Precambrian; evolution of the Metazoa                  |  Ch. 17 (pp. 438–440)
-15      | Mar. 16       | Cambrian explosion & life in the Paleozoic                         |  Ch. 17 (pp. 440–452)
-16      | Mar. 18       | Life in the Mesozoic                                               |  Ch. 17 (pp. 440–452)
-17      | Mar. 23       | Life in the Cenozoic                                               |  Ch. 17 (pp. 459–465)
-18      | Mar. 25       | Evolution of primates                                              |  Ch. 21 (pp. 547–559)
+13      | Mar.  9       | Fossils and the Fossil Record; Geological Time Scale, Major groups Organisms; Taxonomic ranks       |  Ch. 17 (Ch 4 3rd ed.)
+14      | Mar. 11       | Life in the Precambrian; evolution of the Metazoa                  |  Ch. 17 (Ch. 5 3rd ed.)
+15      | Mar. 16       | Life in the Paleozoic continued                                    |  Ch. 17 (Ch. 5 3rd ed.)
+16      | Mar. 18       | Life in the Mesozoic                                               |  Ch. 17 (Ch. 5 3rd ed.)
+17      | Mar. 23       | Life in the Cenozoic                                               |  Ch. 17 (Ch. 5 3rd ed.)
+18      | Mar. 25       | Evolution of primates & Anthropocene                               |  Ch. 21 (Ch. 4 3rd ed. but coverage is poor)
         | Mar. 30       | **EXAM 3** (covers Lectures 13-18)                                 |
-19      | Apr.  1       | Evolution of biodiversity & extinction                             |  Ch. 19
-20      | Apr.  6       | Characters, homology & homoplasy                                   |  Ch. 16
-21      | Apr.  8       | Systematics & reconstructing evolutionary history                  |  Ch. 15
+19      | Apr.  1       | Evolution of biodiversity & extinction                             |  Ch. 19 (Ch. 7 3rd ed.)
+20      | Apr.  6       | Biogeography and major patterns of distribution                    |  Ch. 18 (Ch. 6 3rd ed.)
+21      | Apr.  8       | Continental drift; historical biogeography                         |  Ch. 18 (Ch. 6 3rd ed.)
         | Apr. 13       | SPRING RECESS                                                      |  
         | Apr. 15       | SPRING RECESS                                                      |  
-22      | Apr. 20       | Evolution and development                                          |  Ch. 16
-23      | Apr. 22       | Major distribution patterns                                        |  Ch. 18
-24      | Apr. 27       | Continental drift & historical biogeography                        |  Ch. 18
+22      | Apr. 20       | Characters, character states, homology & homoplasy                 |  Ch. 16 (Ch. 3 3rd ed.)
+23      | Apr. 22       | Phylogenetics and reconstructing evolutionary history (terminology)|  Ch. 16 (Ch. 2 3rd ed.)
+24      | Apr. 27       | Phylogenetics and reconstructing evolutionary history (concepts)   |  Ch. 16 (Ch. 2 3rd ed.)
         | FINALS WEEK   | **EXAM 4** (covers Lectures 19-24)                                 |
 {:#lecturestable}
 
@@ -87,3 +87,6 @@ Section titles in the current edition of the textbook are given here to make it 
 * pp. 308-310: Eusocial animals: The ultimate families.
 * pp. 313-315: Group selection.
 
+#### Lecture 13 - 24 ####
+
+* Chapters as listed by their 4th ed numbering. 3rd ed. numbering is listed in the parentheses. 
