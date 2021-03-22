@@ -7,7 +7,7 @@ permalink: /grading/
 ## EEB 2245
 ![From Darwin's 1837 "B" notebook]({{ "/assets/img/533px-Darwin_Tree_1837.png" | relative_url }}){:.rightsideimage width="200px"}
 
-The course will offer four 100 point exams. Of these, we will drop the lowest score of one exam; retaining three exam scores. If you miss an exam, that exam will be your dropped score. There will be three bonus exercises offered in the course for a total of 10 possible bonus points. The bonus points you earn will be added to your best three exam scores. A sample grade calculation follows: if you received 78, 95, 85, 99 as exam scores and **9** bonus points your score would be 96% or (95+85+99+**9**)=288 points out of 300. Grades will be posted in the _My Grades_ section of [HuskyCT](https://huskyct.uconn.edu/).
+The course will offer four 100 point exams. Of these, we will drop the lowest score of one exam; retaining three exam scores. If you miss an exam, that exam will be your dropped score. There will be three bonus exercises offered in the course for a total of 10 possible bonus points. The bonus points you earn will be added to your best three exam scores. A sample grade calculation follows: if you received 78, 95, 85, 99 as exam scores and **9 bonus points** your score would be 96% or (95+85+99+**9**)=288 points out of 300. Grades will be posted in the _My Grades_ section of [HuskyCT](https://huskyct.uconn.edu/).
 
 ## EEB 2245W
 
