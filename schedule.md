@@ -29,7 +29,7 @@ Lecture |      Date     |                           Topic                       
 15      | Mar. 18       | Life in the Mesozoic                                               |  Ch. 17 (Ch. 5 3rd ed.)
 16      | Mar. 23       | Life in the Cenozoic                                               |  Ch. 17 (Ch. 5 3rd ed.)
 17      | Mar. 25       | Evolution of primates & Anthropocene                               |  Ch. 21 (Ch. 4 3rd ed. but coverage is poor)
-        | Mar. 30       | **EXAM 3** (covers Lectures 13-18)                                 |
+        | Mar. 30       | **EXAM 3** (covers Lectures 12-17)                                 |
 18      | Apr.  1       | Evolution of biodiversity & extinction                             |  Ch. 19 (Ch. 7 3rd ed.)
 19      | Apr.  6       | Biogeography and major patterns of distribution                    |  Ch. 18 (Ch. 6 3rd ed.)
 20      | Apr.  8       | Continental drift; historical biogeography                         |  Ch. 18 (Ch. 6 3rd ed.)
@@ -38,7 +38,7 @@ Lecture |      Date     |                           Topic                       
 21      | Apr. 20       | Characters, character states, homology & homoplasy                 |  Ch. 16 (Ch. 3 3rd ed.)
 22      | Apr. 22       | Phylogenetics and reconstructing evolutionary history (terminology)|  Ch. 16 (Ch. 2 3rd ed.)
 23      | Apr. 27       | Phylogenetics and reconstructing evolutionary history (concepts)   |  Ch. 16 (Ch. 2 3rd ed.)
-        | FINALS WEEK   | **EXAM 4** (covers Lectures 19-24)                                 |
+        | FINALS WEEK   | **EXAM 4** (covers Lectures 18-23)                                 |
 {:#lecturestable}
 
 {% comment %}
