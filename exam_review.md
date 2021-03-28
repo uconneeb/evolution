@@ -18,7 +18,7 @@ Review session: Tuesday March 2nd 5PM on HuskyCT Collaborate - The video recordi
 
 #### Exam 3
 
-Review Session: Sunday March 28th 5PM on HuskyCT Collaborate.
+Review Session: Sunday March 28th 5PM on HuskyCT Collaborate - The video recording of this review session is now posted!
 
 #### Exam 4
 
