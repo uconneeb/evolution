@@ -31,6 +31,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Carson. 1955.** The edge of the sea. Mariner Books, reprint edition. (Oct. 15, 1998). 304 pages. [Preview on Amazon.com](https://read.amazon.com/kp/embed?asin=B004IPPW6K&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Pd7VCbZWMMCRY) 
 
+**Ceballos et al. 2015.** [Accelerated modern human-induced species losses: entering the sixth mass extinction.](https://doi.org/10.1126/sciadv.1400253) Science Advances 1:e1400253. 
+
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
 **Condemi and Savatier. 2019.** [A pocket history of human evolution: How we became sapiens.](https://www.workman.com/products/a-pocket-history-of-human-evolution) The Experiment. 153 pp.
@@ -42,6 +44,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.
 
 **Delwiche. 1999.** [Tracing the thread of plastid diversity through the tapestry of life.](https://doi.org/10.1086/303291) American Naturalist. 154:164–5177.
+
+**Engel 2015.** [Insect Evolution.](https://doi.org/10.1016/j.cub.2015.07.059) Current Biology. 25:R868-R872.
 
 **Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm.](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
 
@@ -132,6 +136,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
 
 **Slon et al. 2018.** [The genome of the offspring of a Neanderthal mother and a Denisovan father.](https://doi.org/10.1038/s41586-018-0455-x) Nature 561:113–116.
+
+**Schmieder and Kring 2020.** [Earth's impact events through geologic time: a list of recommended ages for terrestrial impact structures and deposits.](https://doi.org/10.1089/ast.2019.2085) Astrobiology 20:91-141.
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
