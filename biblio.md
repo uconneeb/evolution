@@ -153,6 +153,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Tang et al. 2020.** [A one-billion-year-old multicellular chlorophyte.](https://doi.org/10.1038/s41559-020-1122-9) Nature Ecology & Evolution 4: 543–549.
 
+**Thomson et al. 2021.** [A global phylogeny of turtles reveals a burst of climate-associated diversification on continental margins.](https://doi.org/10.1073/pnas.2012215118) Proceedings of the National Academy of Science USA 118:e2012215118.
+
 **van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
 
 **Vernot et al. 2016.** [Excavating Neanderthal and Denisovan DNA from the genomes of Melanesian individuals.](https://doi.org/10.1126/science.aad9416) Science 352:235–239.
