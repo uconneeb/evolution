@@ -11,6 +11,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
 
+**Barker et al. 2007.** [Molecular dating of ‘Gondwanian plant family Proteaceae is only partially congruent with the timing of the break-up of Gondwana.](https://doi.org/10.1111/j.1365-2699.2007.01749.x) Journal of Biogeography 34:2012–2027.
+
 **Barrett et al. 2008.** [Natural selection on a major armor gene in threespine stickleback.](https://doi.org/10.1126/science.1159978) Science 322:255-257.
 
 **Baym et al. 2016.** [Spatiotemporal microbial evolution on antibiotic landscapes.](https://doi.org/10.1126/science.aag0822) Science 6304:1147-1151. [YouTube video](https://youtu.be/yybsSqcB7mE)
@@ -138,6 +140,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Slon et al. 2018.** [The genome of the offspring of a Neanderthal mother and a Denisovan father.](https://doi.org/10.1038/s41586-018-0455-x) Nature 561:113–116.
 
 **Schmieder and Kring 2020.** [Earth's impact events through geologic time: a list of recommended ages for terrestrial impact structures and deposits.](https://doi.org/10.1089/ast.2019.2085) Astrobiology 20:91-141.
+
+**Schweizer and Yang 2018.** [Avian diversity and distributions and their evolution through space and time.](https://doi.org/10.1007/978-3-319-91689-7_8) In Tietze D. (ed). Bird species. Fascinating Life Sciences. Zoological Monographs 129–145. Springer.
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
