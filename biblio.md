@@ -141,7 +141,7 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Schmieder and Kring 2020.** [Earth's impact events through geologic time: a list of recommended ages for terrestrial impact structures and deposits.](https://doi.org/10.1089/ast.2019.2085) Astrobiology 20:91-141.
 
-**Schweizer and Yang 2018.** [Avian diversity and distributions and their evolution through space and time.](https://doi.org/10.1007/978-3-319-91689-7_8) In Tietze D. (ed). Bird species. Fascinating Life Sciences. Zoological Monographs 129–145. Springer.
+**Schweizer and Liu 2018.** [Avian diversity and distributions and their evolution through space and time.](https://doi.org/10.1007/978-3-319-91689-7_8) In Tietze D. (ed). Bird species. Fascinating Life Sciences. Zoological Monographs 129–145. Springer.
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
