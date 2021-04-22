@@ -38,7 +38,7 @@ Lecture |      Date     |                           Topic                       
 21      | Apr. 20       | Characters, character states, homology & homoplasy                 |  Ch. 16 (Ch. 3 3rd ed.)
 22      | Apr. 22       | Phylogenetics and reconstructing evolutionary history (terminology)|  Ch. 16 (Ch. 2 3rd ed.)
 23      | Apr. 27       | Phylogenetics and reconstructing evolutionary history (concepts)   |  Ch. 16 (Ch. 2 3rd ed.)
-        | May 4 8AM  | **EXAM 4** (covers Lectures 18-23)                                 | you will have 75 minutes to complete this exam
+        | Tuesday May 4 8AM  | **EXAM 4** (covers Lectures 18-23)                                 | 
 {:#lecturestable}
 
 {% comment %}
