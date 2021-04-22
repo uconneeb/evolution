@@ -22,7 +22,7 @@ Review Session: Sunday March 28th 5PM on HuskyCT Collaborate - The video recordi
 
 #### Exam 4
 
-Review Session: 
+Review Session: Fill out the [poll](https://whenisgood.net/32xjxse) for exam 4 review session
 
 
 
