@@ -31,6 +31,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Cann et al. 1987.** [Mitochondrial DNA and human evolution.](https://doi.org/10.1038/325031a0) Nature 325:31-36.
 
+**Carillo et al. 2020.** [Disproportionate extinction of South American mammals drove the asymmetry of the Great American Biotic Interchange.](https://doi.org/10.1073/pnas.2009397117) Proceedings of the National Academy of Science USA 117:26281-26287.
+
 **Carson. 1955.** The edge of the sea. Mariner Books, reprint edition. (Oct. 15, 1998). 304 pages. [Preview on Amazon.com](https://read.amazon.com/kp/embed?asin=B004IPPW6K&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Pd7VCbZWMMCRY) 
 
 **Ceballos et al. 2015.** [Accelerated modern human-induced species losses: entering the sixth mass extinction.](https://doi.org/10.1126/sciadv.1400253) Science Advances 1:e1400253. 
@@ -88,6 +90,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Lewis & Crawford 1995.** [Pleistocene refugium endemics exhibit greater allozymic diversity than widespread congeners in the genus _Polygonella_ (Polygonella).](https://doi.org/10.2307/2445522) American Journal of Botany 82:141-149. (Note: this paper discusses the genus _Polygonella_, whereas Paul's lectures referred to these species as being in the genus _Polygonum_. That's because these species have been taxonomically transferred to the genus _Polygonum_ since Paul carried out his study.)
 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
+
+**Levson and Mort. 2009.** 
 
 **Li et al. 2019.** [Origin of angiosperms and the puzzle of the Jurassic gap.](https://doi.org/10.1038/s41477-019-0421-0) Nature Plants 5:461–470. Note: listed on lecture 16 slides as Hong-Tao et al. 2019]
 
