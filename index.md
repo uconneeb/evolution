@@ -20,6 +20,10 @@ The course meets every Tuesday and Thursday 9:30 to 10:45 am in [GW002](https://
 
 This textbook is available for purchase in the UConn Bookstore.
 
+## Evaluations and Grading
+
+Please see the [Grading](/grading) page for details about how your learning will be assessed this semester.
+
 ## HuskyCT
 
 We will use [HuskyCT](https://huskyct.uconn.edu) for recording grades and for some other activities.

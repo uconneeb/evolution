@@ -7,7 +7,7 @@ permalink: /contact/
 ## Lecture Instructors
 
 **Person:**         | Dr. Paul Lewis                                        | Dr. Edward McAssey
-**Lectures:**       | 1-12                                                  | 13-24
+**Lectures:**       | 1-13                                                  | 14-25
 **E-mail:**         | [paul.lewis@uconn.edu](mailto:paul.lewis@uconn.edu)   | [edward.mcassey@uconn.edu](mailto:edward.mcassey@uconn.edu)
 **Office hours:**   | by arrangement                                        | by arrangement
 {:.persontable}
