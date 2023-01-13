@@ -3,8 +3,8 @@ author: University of Connecticut
 email: evolution@uconn.edu
 description: >- # this means to ignore newlines until "baseurl:"
  Course web site for Spring semester 2021  
-#baseurl: "/"
-baseurl: "/evolution"
+baseurl: "/"
+#baseurl: "/evolution"
 #url: "http://uconneeb.github.io"
 markdown: kramdown
 theme: minima

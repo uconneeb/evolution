@@ -7,7 +7,7 @@ permalink: /lecture-schedule/
 
 Only partial lecture materials will be posted online; you **must attend lectures to do well in this course**.
 
-**Reading assignments** from the textbook are on a [separate page](/reading/).
+**Reading assignments** from the textbook are on a [separate page]({{ "/reading/" | relative_url }}).
 
 Lecture |      Date     |                           Topic                                       
 :-----: | :-----------: | :-------------------------------------------------------------------- 
