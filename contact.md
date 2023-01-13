@@ -17,7 +17,7 @@ permalink: /contact/
 ## Teaching Assistants
 
 **Person:**         | Analisa Milkey                                                    | Vikas Sarathy
-**Students:**       | Last name beginning A-M                                           | Last name beginning N-Z 
+**Students:**       | Last name beginning A-Ma                                          | Last name beginning Mc-Z 
 **E-mail:**         | [analisa.milkey@uconn.edu](mailto:analisa.milkey@uconn.edu)       | [vikas.sarathy@uconn.edu](mailto:vikas.sarathy@uconn.edu)
 **Office hours:**   | TBD                                                               | TBD
 {:.persontable}
