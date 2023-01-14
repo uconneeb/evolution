@@ -5,6 +5,11 @@ permalink: /literature-cited/
 ---
 The papers and books listed on this page have been mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
+**Yates et al. 2002.** [The ecology and evolutionary history of an emergent disease: hantavirus pulmonary syndrome](https://academic.oup.com/bioscience/article/52/11/989/285924) BioScience 52:989-998.
+
+{% comment %}
+These used in 2021
+
 **Andersson 1982.** [Female choice selects for extreme tail length in a widowbird.](https://doi.org/10.1038/299818a0) Nature 299:818-820.
 
 **Avise 2000.** [Phylogeography: the history and formation of species.](https://www.hup.harvard.edu/catalog.php?isbn=9780674666382) Harvard University Press, Cambridge, MA.
@@ -176,11 +181,14 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Zalasiewicz et al. 2017.** [The working group on the Anthropocene: summary of evidence and interim recommendations.](https://doi.org/10.1016/j.ancene.2017.09.001) Anthropocene 19:55–60.
 
 **Zwickl 2006.** [Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion.](https://repositories.lib.utexas.edu/handle/2152/2666) Ph.D. dissertation, The University of Texas at Austin.
+{% endcomment %}
 
 {% comment %}
-**Berra 1990.** Evolution and the myth of creationism. Stanford University Press.
+Below is list of papers that may be useful
 
 **M Andersson. 1982.** Female choice selects for extreme tail length in a widowbird. Nature 299:818-820. [DOI: 10.1038/299818a0](https://doi.org/10.1038/299818a0) _(A version of Figure 1 was drawn by hand in class.)_
+
+**Berra 1990.** Evolution and the myth of creationism. Stanford University Press.
 
 {% include examfour.html %} **M Baym, TD Lieberman, ED Kelsic, R Chait, R Gross, I Yelin, R Kishony.
 2016.** Spatiotemporal microbial evolution on antibiotic landscapes. Science 353:1147-1151. [DOI: 10.1126/science.aag0822](https://doi.org/10.1126/science.aag0822) _(Showed the [YouTube video](https://youtu.be/yybsSqcB7mE) during class on April 25 and talked about some of the main conclusions from this experiment. You may also want to watch the [segment on 60 minutes](https://www.cbsnews.com/news/could-antibiotic-resistant-superbugs-become-a-bigger-killer-than-cancer-60-minutes-2019-04-21/) about this topic.)_
@@ -234,6 +242,5 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **AE van't Hof, P Campagne, DJ Rigden, CJ Yung, J Lingley, MA Quail, N Hall, AC Darby, and IJ Saccheri. 2016.** The industrial melanism mutation in British peppered moths is a transposable element. Nature 534:102-107. [DOI: 10.1038/nature17951](https://doi.org/10.1038/nature17951) _(This paper describes the genetic basis of the dark (melanic) form of the peppered moth. It was mentioned after Dr. McClintock's visit because the mutation results from a transposable element.)_
 
 **J Wang, J Ding, T Biyue, KM Robinson, IH Michelson, A Johannson, B Nystedt, DG Scofield, O Nilsson, S Jansson, NR Street, and PK Ingvarsson. 2018.** A major locus controls local adaptation and adaptive life history variation in a perennial plant. _Genome Biology_ 19:72. [DOI: 10.1186/s13059-018-1444-y](https://doi.org/10.1186/s13059-018-1444-y) _(Figure 3 of this paper provided a couple of figures used in lecture when describing the selective sweep of the early-bud-formation-mutation in population of aspen in northern Sweden.)_
-
 {% endcomment %}
 
