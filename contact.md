@@ -19,7 +19,7 @@ permalink: /contact/
 **Person:**         | Analisa Milkey                                                    | Vikas Sarathy
 **Students:**       | Last name beginning A-Ma                                          | Last name beginning Mc-Z 
 **E-mail:**         | [analisa.milkey@uconn.edu](mailto:analisa.milkey@uconn.edu)       | [vikas.sarathy@uconn.edu](mailto:vikas.sarathy@uconn.edu)
-**Office hours:**   | Tuesday 2-3 PM, GantW420                                          | Wednesday 11-12 AM, PBB323
+**Office hours:**   | Tuesday 2-3 PM, GantW420                                          | Wednesday 11 AM-12 PM, PBB323
 {:.persontable}
 
 ## W Instructor (applicable only if you are enrolled in EEB-2245W)
