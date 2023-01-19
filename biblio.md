@@ -5,11 +5,17 @@ permalink: /literature-cited/
 ---
 The papers and books listed on this page have been mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
+**Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
+
+**Darwin 1859.** [On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life.](http://darwin-online.org.uk/converted/pdf/1859_Origin_F373.pdf) John Murray, London.
+
 **Falco&#769;n et al. 2010.** [Dating the cyanobacterial ancestor of the chloroplast.](https://doi.org/10.1038/ismej.2010.2) ISME Journal 4:777-783.
 
 **Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm.](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
 
 **Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 
+
+**Futuyma and Kirkpatrick. 2017.** [Evolution](https://www.amazon.com/Evolution-Douglas-J-Futuyma/dp/1605356050) 4th ed. Sinauer Associates (Oxford University Press). 594 pp.
 
 **Kang et al. 2011.** [Shared ancestry between a newfound mole-borne hantavirus and hantaviruses harbored by cricetid rodents.](https://doi.org/10.1128/JVI.02450-10) J. Virol. 85:7496-7503.
 
@@ -266,5 +272,12 @@ Below is list of papers that may be useful
 **AE van't Hof, P Campagne, DJ Rigden, CJ Yung, J Lingley, MA Quail, N Hall, AC Darby, and IJ Saccheri. 2016.** The industrial melanism mutation in British peppered moths is a transposable element. Nature 534:102-107. [DOI: 10.1038/nature17951](https://doi.org/10.1038/nature17951) _(This paper describes the genetic basis of the dark (melanic) form of the peppered moth. It was mentioned after Dr. McClintock's visit because the mutation results from a transposable element.)_
 
 **J Wang, J Ding, T Biyue, KM Robinson, IH Michelson, A Johannson, B Nystedt, DG Scofield, O Nilsson, S Jansson, NR Street, and PK Ingvarsson. 2018.** A major locus controls local adaptation and adaptive life history variation in a perennial plant. _Genome Biology_ 19:72. [DOI: 10.1186/s13059-018-1444-y](https://doi.org/10.1186/s13059-018-1444-y) _(Figure 3 of this paper provided a couple of figures used in lecture when describing the selective sweep of the early-bud-formation-mutation in population of aspen in northern Sweden.)_
+
+**Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
+
+**Zuntz 1965.** An inquiry into the transmission of the plays of Euripides. Cambridge University Press. 295 pp.
+
+**Gould 1977.** Ontogeny and phylogeny. Harvard University Press, Cambridge, Massachusetts.
+
 {% endcomment %}
 
