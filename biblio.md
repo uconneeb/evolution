@@ -7,15 +7,21 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
 
+**Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
+
 **Darwin 1859.** [On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life.](http://darwin-online.org.uk/converted/pdf/1859_Origin_F373.pdf) John Murray, London.
 
 **Falco&#769;n et al. 2010.** [Dating the cyanobacterial ancestor of the chloroplast.](https://doi.org/10.1038/ismej.2010.2) ISME Journal 4:777-783.
 
 **Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm.](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
 
+**Farris 1974.** [Formal definitions of paraphyly and polyphyly](https://doi.org/10.2307/2412474) Systematic Zoology 23: 548-554.
+
 **Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 
 
 **Futuyma and Kirkpatrick. 2017.** [Evolution](https://www.amazon.com/Evolution-Douglas-J-Futuyma/dp/1605356050) 4th ed. Sinauer Associates (Oxford University Press). 594 pp.
+
+**Gogarten et al. 1989.** [Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes.](https://doi.org/10.1073/pnas.86.17.6661) PNAS 86:6661-6665.
 
 **Kang et al. 2011.** [Shared ancestry between a newfound mole-borne hantavirus and hantaviruses harbored by cricetid rodents.](https://doi.org/10.1128/JVI.02450-10) J. Virol. 85:7496-7503.
 
