@@ -8,12 +8,13 @@ permalink: /lecture-schedule/
 Only partial lecture materials will be posted online; you **must attend lectures to do well in this course**.
 
 **Reading assignments** from the textbook are on a [separate page]({{ "/reading/" | relative_url }}).
+Sources of images used in lectures are [listed here]({{ "/image-credits/" | relative_url }}).
 
 Lecture |      Date     |                           Topic                                       
 :-----: | :-----------: | :-------------------------------------------------------------------- 
 1       | Tu Jan. 17    | Why study evolution?
 2       | Th Jan. 19    | Phylogenies and tree thinking
-3       | Tu Jan. 24    | How phylogenies are made
+3       | Tu Jan. 24    | Estimating phylogeny
 4       | Th Jan. 26    | Natural selection                                                     
 5       | Tu Jan. 31    | Quantitative trait evolution
 6       | Th Feb.  2    | Selection at a single locus                                          

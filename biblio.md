@@ -5,11 +5,19 @@ permalink: /literature-cited/
 ---
 The papers and books listed on this page have been mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
+**Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
+
+**Blakeslee 1914.** [Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account.](≈) Journal of Heredity 5:511-518. 
+
+**Boag and Grant 1981.** [Intense natural selection in a population of Darwin's finches (Geospizinae) in the Galapagos](https://doi.org/10.1126/science.214.4516.82) Science 214:82-85.
+
 **Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
 
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
 **Darwin 1859.** [On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life.](http://darwin-online.org.uk/converted/pdf/1859_Origin_F373.pdf) John Murray, London.
+
+**Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.
 
 **Falco&#769;n et al. 2010.** [Dating the cyanobacterial ancestor of the chloroplast.](https://doi.org/10.1038/ismej.2010.2) ISME Journal 4:777-783.
 
@@ -23,19 +31,33 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Gogarten et al. 1989.** [Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes.](https://doi.org/10.1073/pnas.86.17.6661) PNAS 86:6661-6665.
 
+**Grant and Grant 1995.** [Predicting microevolutionary responses to directional selection on heritable variation.](https://doi.org/10.1111/j.1558-5646.1995.tb02236.x) Evolution 49:241-251.
+
+**Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
+
 **Kang et al. 2011.** [Shared ancestry between a newfound mole-borne hantavirus and hantaviruses harbored by cricetid rodents.](https://doi.org/10.1128/JVI.02450-10) J. Virol. 85:7496-7503.
 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
 
 **Lin and Liu 2007.** [Genetic algorithms for portfolio selection problems with minimum transaction lots.](https://doi.org/10.1016/j.ejor.2006.12.024) European Journal of Operational Research 185:393-404.
 
+**Lürling 2003.** [Phenotypic plasticity in the green algae _Desmodesmus_ and _Scenedesmus_ with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
+
 **Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-1662.
 
+**Price 1972.** [Extension of covariance selection mathematics.](http:/doi.org/10.1111/j.1469-1809.1957.tb01874.x) Annals of Human Genetics 35: 485-490.
+
 **Sagan 1967.** [On the origin of mitosing cells.](https://doi.org/10.1016/0022-5193(67)90079-3) J. Theoretical Biol. 14:225-274.
 
+**Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
+
+**Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch _Pyrenestes_.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
+
 **Vargas and Zardoya 2014.** The tree of life. Sinaur Associates, Sunderland, Massachusetts. P. Vargas and R Zarkoya, eds. 713 pp.
+
+**Weis and Abrahamson 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the _Solidago_-_Eurosta_ system](https://doi.org/10.1086/284513) American Naturalist 127:681-695.
 
 **Yates et al. 2002.** [The ecology and evolutionary history of an emergent disease: hantavirus pulmonary syndrome.](https://academic.oup.com/bioscience/article/52/11/989/285924) BioScience 52:989-998.
 
@@ -228,8 +250,6 @@ Below is list of papers that may be useful
 
 {% include examfour.html %} **M Baym, TD Lieberman, ED Kelsic, R Chait, R Gross, I Yelin, R Kishony.
 2016.** Spatiotemporal microbial evolution on antibiotic landscapes. Science 353:1147-1151. [DOI: 10.1126/science.aag0822](https://doi.org/10.1126/science.aag0822) _(Showed the [YouTube video](https://youtu.be/yybsSqcB7mE) during class on April 25 and talked about some of the main conclusions from this experiment. You may also want to watch the [segment on 60 minutes](https://www.cbsnews.com/news/could-antibiotic-resistant-superbugs-become-a-bigger-killer-than-cancer-60-minutes-2019-04-21/) about this topic.)_
-
-**AF Blakeslee. 1914.** Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account. Journal of Heredity 5:511-518. [DOI: 10.1093/oxfordjournals.jhered.a107785](https://doi.org/10.1093/oxfordjournals.jhered.a107785) _(This is the source of the famous 1914 photo showing a normal distribution of human heights taken at UConn.)_
 
 **DI Bolnick and P. Nosil. 2007.** Natural selection in populations subject to a migration load. Evolution 2229-2243. [DOI: 10.1111/j.1558-5646.2007.00179.x](https://doi.org/10.1111/j.1558-5646.2007.00179.x) _(Discussed in lecture April 23 as an example of both the effects of migration as well as migration-selection balance.)_
 
