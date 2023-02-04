@@ -10,7 +10,7 @@ Your 2245 TAs will be offering an optional review session prior to each exam. Yo
 
 Review session times will be announced in lecture and posted on this page as they are scheduled.
 
-#### Exam 1
+#### Exam 1: Tuesday, Feb. 7, 5 PM, GantW002 + livestream
 
 #### Exam 2
 
