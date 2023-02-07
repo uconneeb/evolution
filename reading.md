@@ -49,28 +49,30 @@ Note: you do **not** need to read Computing consequences 4.1 and 4.2
 (90-80)+(347-342)+(353-347)+(360-355) = 26 pages
 {% endcomment %}
 
-* Section 3.4 (The evolution of beak shape in Galapagos finches), pp. 81-90
 * Section 9.3 (Measuring heritable variation), pp. 343-347
 * Section 9.4 (Measuring differences in survival and reproductive success), pp. 348-353
 * Section 9.6 (Modes of selection and the maintenance of genetic variation), pp. 356-360
 
-### Lecture 6 (Selection at a single locus)
+### Lecture 6 (Quantitative trait evolution)
 
 {% comment %}
 (389-386)+(606-600)+(191-179) = 21 pages
 {% endcomment %}
 
+* Section 3.4 (The evolution of beak shape in Galapagos finches), pp. 81-90
 * Section 10.5 (Phenotypic plasticity), pp. 387-389
-* Section 15.5 (The locus of adaptation in natural populations), pp. 601-606
-* Section 6.1 (Mendelian genetics in populations: Hardy-Weinberg equilibrium), pp. 180-191
 
-### Lecture 7 (Modeling evolution)
+### Lecture 7 (Selection at a single locus)
 
 {% comment %}
 (201-190)+(214-200) = 25 pages
 {% endcomment %}
 
+* Section 15.5 (The locus of adaptation in natural populations), pp. 601-606
+
+### Lecture 8 (after first exam)
+
+* Section 6.1 (Mendelian genetics in populations: Hardy-Weinberg equilibrium), pp. 180-191
 * Section 6.2 (Selection), pp. 191-201
 * Section 6.3 (Patterns of selection: testing predictions of population genetics theory), pp. 201-214
-
 

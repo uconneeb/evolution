@@ -31,11 +31,11 @@ permalink: /image-credits/
 * Fake human face: [http://faceresearch.org/](http://faceresearch.org/)
 * Turtle: [https://en.wikipedia.org/wiki/Turtle]((https://en.wikipedia.org/wiki/Turtle)
 * Penguin: [https://en.wikipedia.org/wiki/Penguin](https://en.wikipedia.org/wiki/Penguin)
-* Unrooted tree of life: Vargas & Zardoya 2014 (p. 12)
+* Unrooted tree of life: Vargas and Zardoya 2014 (p. 12)
 
 ### Lecture 3 (Jan. 24; How phylogenies are made)
 
-* Amniote tree: Fig. 17.24 in Futuyma & Kirkpatrick 2017
+* Amniote tree: Fig. 17.24 in Futuyma and Kirkpatrick 2017
 * Cactus: Paul Lewis, Joshua Tree National Park
 * Euphorbia (_Euphorbia ingens_): [https://succulentalley.com/euphorbia-ingens-cowboy-cactus-plant/](https://succulentalley.com/euphorbia-ingens-cowboy-cactus-plant/)
 * Ghost Pipes (_Monotropa uniflora_): Paul Lewis, Willington, CT
@@ -74,4 +74,12 @@ permalink: /image-credits/
 * UConn normal distribution 1994: [http://wi.mit.edu/news/archive/2019/genetic-study-takes-sex-differences-research-new-heights](http://wi.mit.edu/news/archive/2019/genetic-study-takes-sex-differences-research-new-heights). Also see [http://advance.uconn.edu/1999/990201/020199hs.htm](http://advance.uconn.edu/1999/990201/020199hs.htm)
 
 ### Lecture 7 (Feb. 7; Modeling evolution)
+
+* _Gasterosteus aculeates_: [https://www.thejump.net/id/unarmored-threespine-stickleback.htm](https://www.thejump.net/id/unarmored-threespine-stickleback.htm)
+* Barbara McClintock: [https://en.wikipedia.org/wiki/Barbara_McClintock](https://en.wikipedia.org/wiki/Barbara_McClintock)
+* _Biston betularia_ on light background: Fig. 5.1 in Futuyma and Kirkpatrick 2017
+* _Biston betularia_ on dark background: Fig. 5.1 in Futuyma and Kirkpatrick 2017
+* Society for the Study of Evolution logo: [https://www.evolutionsociety.org](https://www.evolutionsociety.org)
+
+
 

@@ -7,6 +7,10 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
 
+**Barrett et al. 2008.** [Natural selection on a major armor gene in threespine stickleback.](https://doi.org/10.1126/science.1159978) Science 322:255-257.
+
+**Bell et al. 2003.** [Twelve years of contemporary armor evolution in a threespine stickleback population.](https://doi.org/10.1111/j.0014-3820.2004.tb00414.x) Evolution 58:814–824.
+
 **Blakeslee 1914.** [Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account.](≈) Journal of Heredity 5:511-518. 
 
 **Boag and Grant 1981.** [Intense natural selection in a population of Darwin's finches (Geospizinae) in the Galapagos](https://doi.org/10.1126/science.214.4516.82) Science 214:82-85.
@@ -47,13 +51,19 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-1662.
 
+**Piel et al. 2010.** [Global distribution of the sickle cell gene and geographical confirmation of the malaria hypothesis](https://doi.org/10.1038/ncomms1104) Nature Communications 1:104
+
 **Price 1972.** [Extension of covariance selection mathematics.](http:/doi.org/10.1111/j.1469-1809.1957.tb01874.x) Annals of Human Genetics 35: 485-490.
 
 **Sagan 1967.** [On the origin of mitosing cells.](https://doi.org/10.1016/0022-5193(67)90079-3) J. Theoretical Biol. 14:225-274.
 
+**Savolainen et al. 2013.** [Ecological genomics of local adaptation.](https://doi.org/10.1038/nrg3522) Nature Reviews Genetics 14:807-820.
+
 **Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch _Pyrenestes_.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
+
+**van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
 
 **Vargas and Zardoya 2014.** The tree of life. Sinaur Associates, Sunderland, Massachusetts. P. Vargas and R Zarkoya, eds. 713 pp.
 
@@ -73,8 +83,6 @@ These used in 2021
 **Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
 
 **Barker et al. 2007.** [Molecular dating of ‘Gondwanian plant family Proteaceae is only partially congruent with the timing of the break-up of Gondwana.](https://doi.org/10.1111/j.1365-2699.2007.01749.x) Journal of Biogeography 34:2012–2027.
-
-**Barrett et al. 2008.** [Natural selection on a major armor gene in threespine stickleback.](https://doi.org/10.1126/science.1159978) Science 322:255-257.
 
 **Baym et al. 2016.** [Spatiotemporal microbial evolution on antibiotic landscapes.](https://doi.org/10.1126/science.aag0822) Science 6304:1147-1151. [YouTube video](https://youtu.be/yybsSqcB7mE)
 
