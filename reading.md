@@ -70,7 +70,12 @@ Note: you do **not** need to read Computing consequences 4.1 and 4.2
 
 * Section 15.5 (The locus of adaptation in natural populations), pp. 601-606
 
-### Lecture 8 (after first exam)
+### Lecture 8 (Modeling natural selection)
+
+This is a lot of reading! You need not read all of this. Treat this as suggestions for 
+sections in the textbook that can provide alternative (and more in-depth) explanations
+of what I mention in lecture. That is, if what is presented in lecture is perfectly clear, 
+you may not need to look at these readings. 
 
 * Section 6.1 (Mendelian genetics in populations: Hardy-Weinberg equilibrium), pp. 180-191
 * Section 6.2 (Selection), pp. 191-201

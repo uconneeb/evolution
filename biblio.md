@@ -19,6 +19,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
+**Cook 2003.** [The rise and fall of the _carbonaria_ form of the peppered moth.](https://doi.org/10.1086/378925) Quarterly Review of Biology 78:399-417.
+
 **Darwin 1859.** [On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life.](http://darwin-online.org.uk/converted/pdf/1859_Origin_F373.pdf) John Murray, London.
 
 **Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.

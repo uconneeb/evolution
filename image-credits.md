@@ -73,7 +73,7 @@ permalink: /image-credits/
 * UConn normal distribution 1914: [Blakeslee 1914](http://doi.org/10.1016/j.cub.2011.06.006)
 * UConn normal distribution 1994: [http://wi.mit.edu/news/archive/2019/genetic-study-takes-sex-differences-research-new-heights](http://wi.mit.edu/news/archive/2019/genetic-study-takes-sex-differences-research-new-heights). Also see [http://advance.uconn.edu/1999/990201/020199hs.htm](http://advance.uconn.edu/1999/990201/020199hs.htm)
 
-### Lecture 7 (Feb. 7; Modeling evolution)
+### Lecture 7 (Feb. 7; Selection at a single locus)
 
 * _Gasterosteus aculeates_: [https://www.thejump.net/id/unarmored-threespine-stickleback.htm](https://www.thejump.net/id/unarmored-threespine-stickleback.htm)
 * Barbara McClintock: [https://en.wikipedia.org/wiki/Barbara_McClintock](https://en.wikipedia.org/wiki/Barbara_McClintock)
@@ -81,5 +81,14 @@ permalink: /image-credits/
 * _Biston betularia_ on dark background: Fig. 5.1 in Futuyma and Kirkpatrick 2017
 * Society for the Study of Evolution logo: [https://www.evolutionsociety.org](https://www.evolutionsociety.org)
 
+### Lecture 8 (Feb. 7; Modeling evolution; molecular evolution)
 
+* Boston metro map: [https://cdn.mbta.com/sites/default/files/2022-12/2022-12-12-subway-map-v37f.pdf](https://cdn.mbta.com/sites/default/files/2022-12/2022-12-12-subway-map-v37f.pdf)
+* Boston satellite view: [https://www.google.com/maps](https://www.google.com/maps)
+* snapdragon red flowers: [http://www.jardin-mundani.com/galeriafotosAB.htm](http://www.jardin-mundani.com/galeriafotosAB.htm)
+* snapdragon pink flowers: [http://www.mytho-fleurs.com/images/vivaces/antirrhinum%20majus.JPG](http://www.mytho-fleurs.com/images/vivaces/antirrhinum%20majus.JPG)
+* snapdragon white flowers: [http://www.garden.org/subchannels/flowers/perennials?q=show&id=191&page=3](http://www.garden.org/subchannels/flowers/perennials?q=show&id=191&page=3)
+* _Biston betularia_ icons modified from the log of the Society for the Study of Evolution: [https://www.evolutionsociety.org](https://www.evolutionsociety.org)
+* albino corn: [https://my.chicagobotanic.org/horticulture/how-to/science-activity-albino-plants/attachment/albino-corn/](https://my.chicagobotanic.org/horticulture/how-to/science-activity-albino-plants/attachment/albino-corn/)
+* _Biston betularia_ on dark background: Fig. 5.1 in Futuyma and Kirkpatrick 2017
 

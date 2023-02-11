@@ -8,6 +8,14 @@ permalink: /applets/
 
 Random mutation and natural selection have already found a good solution to this ball packing problem. Can you find a better solution? Your goal is to drop balls into the pit in an order that maximizes the fraction of the pit area occupied by balls. After you play, the app will tell you how well you did compared to the best solution found by 50 generations of natural selection in a population of 50 haploid individuals.
 
+## [Peppered Moth in the 1800s]({{ "applets/biston-early/" | relative_url }})
+
+This applet lets you explore the effect of assuming different values for the selection coefficient in Haldane's (1924) model for the decline of the light-colored form of the peppered moth (_Biston betularia_) in Britain at the height of the industrial revolution.
+
+## [Peppered Moth in the 1900s]({{ "applets/biston-late/" | relative_url }})
+
+This applet lets you explore the effect of assuming different values for the selection coefficient in a model designed to predict the decline of the melanic (dark) form of the peppered moth (_Biston betularia_) in Britain after the air became clean again in the late 1900s.
+
 {% comment %}
 
 ## [Fst]({{ "applets/fst/" | relative_url }})
@@ -17,14 +25,6 @@ This applet shows that the effect of genetic drift in small subpopulations is ra
 ## [Genetic Drift]({{ "applets/drift/" | relative_url }})
 
 This applet simulates genetic drift in 5 populations for 500 generations, allowing you to modify the effective population size.
-
-## [Peppered Moth in the 1800s]({{ "applets/biston-early/" | relative_url }})
-
-This applet lets you explore the effect of assuming different values for the selection coefficient in Haldane's (1924) model for the decline of the light-colored form of the peppered moth (_Biston betularia_) in Britain at the height of the industrial revolution.
-
-## [Peppered Moth in the 1900s]({{ "applets/biston-late/" | relative_url }})
-
-This applet lets you explore the effect of assuming different values for the selection coefficient in a model designed to predict the decline of the melanic (dark) form of the peppered moth (_Biston betularia_) in Britain after the air became clean again in the late 1900s.
 
 ## [Covariance]({{ "applets/covariance/" | relative_url }})
 
