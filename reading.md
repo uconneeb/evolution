@@ -72,7 +72,7 @@ Note: you do **not** need to read Computing consequences 4.1 and 4.2
 
 ### Lecture 8 (Modeling natural selection)
 
-This is a lot of reading! You need not read all of this. Treat this as suggestions for 
+This (below) represents a lot of reading! You need not read all of this. Treat this as suggestions for 
 sections in the textbook that can provide alternative (and more in-depth) explanations
 of what I mention in lecture. That is, if what is presented in lecture is perfectly clear, 
 you may not need to look at these readings. 
@@ -81,3 +81,12 @@ you may not need to look at these readings.
 * Section 6.2 (Selection), pp. 191-201
 * Section 6.3 (Patterns of selection: testing predictions of population genetics theory), pp. 201-214
 
+### Lecture 9 (Molecular evolution, sexual selection)
+
+As always, use the following reading to enhance your understanding of the subjects discussed in lecture. 
+Questions on exams will not come from reading if the topic is not also discussed in lecture.
+
+* Section 5.2 (Where new alleles come from: How mutations alter protein function), pp. 159-161.
+* Chapter 11 is on sexual selection, but the following sections are most relevant
+* Section 11.2 (Sexual selection on males: competition), pp. 417-423
+* Section 11.3 (Sexual selection on males: female choice), pp. 423-441

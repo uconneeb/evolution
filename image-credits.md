@@ -81,7 +81,7 @@ permalink: /image-credits/
 * _Biston betularia_ on dark background: Fig. 5.1 in Futuyma and Kirkpatrick 2017
 * Society for the Study of Evolution logo: [https://www.evolutionsociety.org](https://www.evolutionsociety.org)
 
-### Lecture 8 (Feb. 7; Modeling evolution; molecular evolution)
+### Lecture 8 (Feb. 14; Modeling evolution; molecular evolution)
 
 * Boston metro map: [https://cdn.mbta.com/sites/default/files/2022-12/2022-12-12-subway-map-v37f.pdf](https://cdn.mbta.com/sites/default/files/2022-12/2022-12-12-subway-map-v37f.pdf)
 * Boston satellite view: [https://www.google.com/maps](https://www.google.com/maps)
@@ -89,6 +89,18 @@ permalink: /image-credits/
 * snapdragon pink flowers: [http://www.mytho-fleurs.com/images/vivaces/antirrhinum%20majus.JPG](http://www.mytho-fleurs.com/images/vivaces/antirrhinum%20majus.JPG)
 * snapdragon white flowers: [http://www.garden.org/subchannels/flowers/perennials?q=show&id=191&page=3](http://www.garden.org/subchannels/flowers/perennials?q=show&id=191&page=3)
 * _Biston betularia_ icons modified from the log of the Society for the Study of Evolution: [https://www.evolutionsociety.org](https://www.evolutionsociety.org)
-* albino corn: [https://my.chicagobotanic.org/horticulture/how-to/science-activity-albino-plants/attachment/albino-corn/](https://my.chicagobotanic.org/horticulture/how-to/science-activity-albino-plants/attachment/albino-corn/)
+* albino corn: [https://www.carolina.com/plant-genetics/genetic-corn-seed-green-albino/177130.pr](https://www.carolina.com/plant-genetics/genetic-corn-seed-green-albino/177130.pr)
 * _Biston betularia_ on dark background: Fig. 5.1 in Futuyma and Kirkpatrick 2017
+
+### Lecture 9 (Feb. 16; Molecular evolution, sexual selection)
+
+* Electron micrograph showing ribosomes: Fig. 5.18a in Graham, Graham, and Wilcox. 2006. Plant Biology 2nd ed. Pearson. 
+* COVID spike protein: [https://github.com/emmahodcroft/covariants#sn501](https://github.com/emmahodcroft/covariants#sn501)
+* COVID spike protein (see also): [https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines/](https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines/)
+* peacock: photo by the Toronto Zoo
+* Northern elephant seals: [https://en.wikipedia.org/wiki/Northern_elephant_seal](https://en.wikipedia.org/wiki/Northern_elephant_seal)
+* isopod alpha male guarding females: Fig. 10.10 in in Futuyma and Kirkpatrick 2017
+* Red deer [https://www.thesuffolkcoast.co.uk/articles/red-deer-are-ready-to-rut](https://www.thesuffolkcoast.co.uk/articles/red-deer-are-ready-to-rut)
+* Stag beetles [https://animalsandearth.com/featured/1-stag-beetle-fighting-switzerland-thomas-marent.html](https://animalsandearth.com/featured/1-stag-beetle-fighting-switzerland-thomas-marent.html)
+* sphragis ("chastity belt"): [https://www.floridamuseum.ufl.edu/science/male-butterflies-deploy-chastity-belts/](https://www.floridamuseum.ufl.edu/science/male-butterflies-deploy-chastity-belts/)
 

@@ -20,8 +20,8 @@ Lecture |      Date     |                           Topic
 6       | Th Feb.  2    | Quantitative trait evolution
 7       | Tu Feb.  7    | Selection at a single locus                                          
         | Th Feb.  9    | **EXAM 1**  (covers Lectures 1-7)                                     
-8       | Tu Feb. 14    | Modeling evolution; molecular evolution
-9       | Th Feb. 16    | Sexual selection                                        
+8       | Tu Feb. 14    | Modeling evolution
+9       | Th Feb. 16    | Molecular evolution; sexual selection                                        
 10      | Tu Feb. 21    | Inclusive fitness, multilevel selection   
 11      | Th Feb. 23    | Hardy-Weinberg equilibrium, nonrandom mating, mutation, migration     
 12      | Tu Feb. 28    | Genetic drift and population structure                                                                                                      
