@@ -97,10 +97,13 @@ permalink: /image-credits/
 * Electron micrograph showing ribosomes: Fig. 5.18a in Graham, Graham, and Wilcox. 2006. Plant Biology 2nd ed. Pearson. 
 * COVID spike protein: [https://github.com/emmahodcroft/covariants#sn501](https://github.com/emmahodcroft/covariants#sn501)
 * COVID spike protein (see also): [https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines/](https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines/)
-* peacock: photo by the Toronto Zoo
 * Northern elephant seals: [https://en.wikipedia.org/wiki/Northern_elephant_seal](https://en.wikipedia.org/wiki/Northern_elephant_seal)
-* isopod alpha male guarding females: Fig. 10.10 in in Futuyma and Kirkpatrick 2017
+* Isopod alpha male guarding females: Fig. 10.10 in in Futuyma and Kirkpatrick 2017
 * Red deer [https://www.thesuffolkcoast.co.uk/articles/red-deer-are-ready-to-rut](https://www.thesuffolkcoast.co.uk/articles/red-deer-are-ready-to-rut)
 * Stag beetles [https://animalsandearth.com/featured/1-stag-beetle-fighting-switzerland-thomas-marent.html](https://animalsandearth.com/featured/1-stag-beetle-fighting-switzerland-thomas-marent.html)
 * sphragis ("chastity belt"): [https://www.floridamuseum.ufl.edu/science/male-butterflies-deploy-chastity-belts/](https://www.floridamuseum.ufl.edu/science/male-butterflies-deploy-chastity-belts/)
-
+* Damselfly barbed penis: Figure 10.11 in Futuyma and Kirkpatrick 2017
+* Redback spider [https://en.wikipedia.org/wiki/Redback_spider](https://en.wikipedia.org/wiki/Redback_spider)
+* Stickleback tapeworm resistance vs. redness: Fig. 10.16 in Futuyma and Kirkpatrick 2017
+* Peacock: [https://commons.wikimedia.org/wiki/File:Peacock_a_lovely_bird.jpg](https://commons.wikimedia.org/wiki/File:Peacock_a_lovely_bird.jpg)
+* Stalk eyed fly: [https://www.flickr.com/photos/30186714@N07/3229192078](https://www.flickr.com/photos/30186714@N07/3229192078)
