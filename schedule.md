@@ -34,7 +34,7 @@ Lecture |      Date     |                           Topic
 16      | Th Mar. 23    | Fossil evidence                                                       
 17      | Tu Mar. 28    | Fossil evidence                                                       
 18      | Th Mar. 30    | Origin of life                                                        
-        | Tu Apr.  4    | **EXAM 3** (covers Lectures 13-18)                                    
+        | Tu Apr.  4    | **EXAM 3** (covers Lectures 14-18)                                    
 19      | Th Apr.  6    | Precambrian evolution                                                 
 20      | Tu Apr. 11    | Cambrian                                                              
 21      | Th Apr. 13    | Cambrian and beyond                                                   
