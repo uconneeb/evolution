@@ -31,18 +31,18 @@ Lecture |      Date     |                           Topic
         | Tu Mar. 14    | SPRING RECESS                                                         
         | Th Mar. 16    | SPRING RECESS                                                         
 15      | Tu Mar. 21    | Speciation                                                            
-16      | Th Mar. 23    | Fossil evidence                                                       
-17      | Tu Mar. 28    | Fossil evidence                                                       
-18      | Th Mar. 30    | Origin of life                                                        
+16      | Th Mar. 23    | Origin of Life                                                       
+17      | Tu Mar. 28    | Origin of Life                                                       
+18      | Th Mar. 30    | Fossils / Pre-Cambrian                                                        
         | Tu Apr.  4    | **EXAM 3** (covers Lectures 14-18)                                    
-19      | Th Apr.  6    | Precambrian evolution                                                 
-20      | Tu Apr. 11    | Cambrian                                                              
-21      | Th Apr. 13    | Cambrian and beyond                                                   
+19      | Th Apr.  6    | Fossils / Cambrian                                                 
+20      | Tu Apr. 11    | Fossils / Cambrian                                                              
+21      | Th Apr. 13    | Biogeography                                                   
 22      | Tu Apr. 18    | Evo/Devo                                                              
-23      | Th Apr. 20    | Biogeography                                                          
+23      | Th Apr. 20    | Evo/Devo                                                          
 24      | Tu Apr. 25    | Human evolution                                                       
 25      | Th Apr. 27    | Human evolution                                                       
-        | FINALS WEEK   | **EXAM 4** (covers Lectures 18-23)                                    
+        | FINALS WEEK   | **EXAM 4** (covers Lectures 19-25)                                    
 {:#lecturestable}
 
 {% comment %}
