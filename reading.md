@@ -90,3 +90,11 @@ Questions on exams will not come from reading if the topic is not also discussed
 * Chapter 11 is on sexual selection, but the following sections are most relevant
 * Section 11.2 (Sexual selection on males: competition), pp. 417-423
 * Section 11.3 (Sexual selection on males: female choice), pp. 423-441
+
+### Lecture 10 (Multilevel selection, inclusive fitness)
+
+These are the most relevant sections for the material covered in lecture. 
+You are welcome to read more, however. You might find the section on "Kin Selection and Human Behavior" quite interesting!
+* pp. 320-321 (in particular Muller's ratchet and the discussion of fig. 8.28)
+* pp. 471-473 (Multilevel selection and Cooperation)
+* pp. 460-461 (Inclusive Fitness section)

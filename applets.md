@@ -16,6 +16,10 @@ This applet lets you explore the effect of assuming different values for the sel
 
 This applet lets you explore the effect of assuming different values for the selection coefficient in a model designed to predict the decline of the melanic (dark) form of the peppered moth (_Biston betularia_) in Britain after the air became clean again in the late 1900s.
 
+## [Selective Sweep]({{ "applets/sweep/" | relative_url }})
+
+This applet starts off with a new beneficial mutation in the center of one chromosome in a population of 25 diploid individuals. Red shading denotes chromosome segments that are identical to the chromosome on which the mutation arose. Each generation, crossing over breaks up the red parts, but the new mutation quickly becomes fixed due to its high fitness. A small region around the mutation is also fixed (hitchhiking) and is shown in dark purple once fixation of the selected gene occurs. Refresh your browser to start again.
+
 {% comment %}
 
 ## [Fst]({{ "applets/fst/" | relative_url }})
@@ -29,10 +33,6 @@ This applet simulates genetic drift in 5 populations for 500 generations, allowi
 ## [Covariance]({{ "applets/covariance/" | relative_url }})
 
 This app illustrates the relationships among variance, covariance, and correlation.
-
-## [Selective Sweep]({{ "applets/sweep/" | relative_url }})
-
-This applet starts off with a new beneficial mutation in the center of one chromosome in a population of 25 diploid individuals. Red shading denotes chromosome segments that are identical to the chromosome on which the mutation arose. Each generation, crossing over breaks up the red parts, but the new mutation quickly becomes fixed due to its high fitness. A small region around the mutation is also fixed (hitchhiking) and is shown in dark purple once fixation of the selected gene occurs. Refresh your browser to start again.
 
 ## [Selfing]({{ "applets/selfing/" | relative_url }})
 

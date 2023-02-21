@@ -101,9 +101,22 @@ permalink: /image-credits/
 * Isopod alpha male guarding females: Fig. 10.10 in in Futuyma and Kirkpatrick 2017
 * Red deer [https://www.thesuffolkcoast.co.uk/articles/red-deer-are-ready-to-rut](https://www.thesuffolkcoast.co.uk/articles/red-deer-are-ready-to-rut)
 * Stag beetles [https://animalsandearth.com/featured/1-stag-beetle-fighting-switzerland-thomas-marent.html](https://animalsandearth.com/featured/1-stag-beetle-fighting-switzerland-thomas-marent.html)
-* sphragis ("chastity belt"): [https://www.floridamuseum.ufl.edu/science/male-butterflies-deploy-chastity-belts/](https://www.floridamuseum.ufl.edu/science/male-butterflies-deploy-chastity-belts/)
+* sphragis ("chastity plug"): [https://www.floridamuseum.ufl.edu/science/male-butterflies-deploy-chastity-belts/](https://www.floridamuseum.ufl.edu/science/male-butterflies-deploy-chastity-belts/)
 * Damselfly barbed penis: Figure 10.11 in Futuyma and Kirkpatrick 2017
 * Redback spider [https://en.wikipedia.org/wiki/Redback_spider](https://en.wikipedia.org/wiki/Redback_spider)
 * Stickleback tapeworm resistance vs. redness: Fig. 10.16 in Futuyma and Kirkpatrick 2017
 * Peacock: [https://commons.wikimedia.org/wiki/File:Peacock_a_lovely_bird.jpg](https://commons.wikimedia.org/wiki/File:Peacock_a_lovely_bird.jpg)
 * Stalk eyed fly: [https://www.flickr.com/photos/30186714@N07/3229192078](https://www.flickr.com/photos/30186714@N07/3229192078)
+
+### Lecture 10 (Feb. 21; Multilevel selection and inclusive fitness)
+
+* _Chlamydomonas_ [https://www.youtube.com/watch?v=EMNFZnDt75c](https://www.youtube.com/watch?v=EMNFZnDt75c)
+* _Volvox_ [https://youtu.be/iza3RHaSZOg](https://youtu.be/iza3RHaSZOg)
+* Elephant [https://upload.wikimedia.org/wikipedia/commons/1/1a/Elephant_Diversity.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1a/Elephant_Diversity.jpg)
+* Brown alga (_Fucus_): photo by Paul O. Lewis, Red Point Beach, Gairloch, Scotland, May 2013
+* Green plant (_Cercis_): photo by Paul O. Lewis, North Carolina, April 2006
+* Fungus (_Clavulinopsis_): photo by Paul O. Lewis, Goodwin State Forest, Hampton CT, September 2006
+* Figure 3.10 in Futuyma and Kirkpatrick 2017 
+* _Tribolium castaneum_ [https://en.wikipedia.org/wiki/Red_flour_beetle](https://en.wikipedia.org/wiki/Red_flour_beetle)
+* _Populus_tremula_ [https://en.wikipedia.org/wiki/Populus_tremula](https://en.wikipedia.org/wiki/Populus_tremula)
+* bee [https://www.scientificamerican.com/article/beekeepers-seek-resistance-to-the-honeybees-most-fearsome-enemy/](https://www.scientificamerican.com/article/beekeepers-seek-resistance-to-the-honeybees-most-fearsome-enemy/)

@@ -43,6 +43,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
 
+**Hammerschmidt et al. 2014.** [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) Nature 515:75-79.
+
 **Kang et al. 2011.** [Shared ancestry between a newfound mole-borne hantavirus and hantaviruses harbored by cricetid rodents.](https://doi.org/10.1128/JVI.02450-10) J. Virol. 85:7496-7503.
 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
@@ -70,6 +72,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
 
 **Vargas and Zardoya 2014.** The tree of life. Sinaur Associates, Sunderland, Massachusetts. P. Vargas and R Zarkoya, eds. 713 pp.
+
+**Wade 1977.** [An experimental study of group selection.](https://www.jstor.org/stable/2407552) Evolution 31:134-153.
 
 **Weis and Abrahamson 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the _Solidago_-_Eurosta_ system](https://doi.org/10.1086/284513) American Naturalist 127:681-695.
 

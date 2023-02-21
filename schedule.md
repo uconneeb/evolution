@@ -22,7 +22,7 @@ Lecture |      Date     |                           Topic
         | Th Feb.  9    | **EXAM 1**  (covers Lectures 1-7)                                     
 8       | Tu Feb. 14    | Modeling evolution
 9       | Th Feb. 16    | Molecular evolution; sexual selection                                        
-10      | Tu Feb. 21    | Inclusive fitness, multilevel selection   
+10      | Tu Feb. 21    | Multilevel selection, Inclusive fitness
 11      | Th Feb. 23    | Hardy-Weinberg equilibrium, nonrandom mating, mutation, migration     
 12      | Tu Feb. 28    | Genetic drift and population structure                                                                                                      
 13      | Th Mar.  2    | Bottlenecks, founder effect, shifting balance, reproductive isolation                                                                      
