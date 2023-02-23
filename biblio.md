@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Literature Cited
+title: Citations
 permalink: /literature-cited/
 ---
 The papers and books listed on this page have been mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
@@ -33,7 +33,7 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Farris 1974.** [Formal definitions of paraphyly and polyphyly](https://doi.org/10.2307/2412474) Systematic Zoology 23: 548-554.
 
-**Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 
+**Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 20:237–241.
 
 **Futuyma and Kirkpatrick. 2017.** [Evolution](https://www.amazon.com/Evolution-Douglas-J-Futuyma/dp/1605356050) 4th ed. Sinauer Associates (Oxford University Press). 594 pp.
 
@@ -45,13 +45,19 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Hammerschmidt et al. 2014.** [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) Nature 515:75-79.
 
+**Holden and Bond 1960.** [Studies on the breeding system of the field bean, _Vicia faba_ L.: 1. natural cross breeding in _V. faba_.](http://dx.doi.org/10.1038/hdy.1960.74) Heredity 15:175-192.
+
 **Kang et al. 2011.** [Shared ancestry between a newfound mole-borne hantavirus and hantaviruses harbored by cricetid rodents.](https://doi.org/10.1128/JVI.02450-10) J. Virol. 85:7496-7503.
+
+**Krakauer 2005.** [Kin selection and cooperative courtship in wild turkeys](https://doi.org/10.1038/nature03325) Nature 434:69-72.
 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
 
 **Lin and Liu 2007.** [Genetic algorithms for portfolio selection problems with minimum transaction lots.](https://doi.org/10.1016/j.ejor.2006.12.024) European Journal of Operational Research 185:393-404.
 
 **Lürling 2003.** [Phenotypic plasticity in the green algae _Desmodesmus_ and _Scenedesmus_ with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
+
+**Mead et al. 2008.** [Genetic susceptibility, evolution and the kuru epidemic.](https://doi.org/10.1098/rstb.2008.0087) Philosophical Transactions of the Royal Society B 363:3741-3746.
 
 **Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
 
@@ -320,6 +326,8 @@ Below is list of papers that may be useful
 **Zuntz 1965.** An inquiry into the transmission of the plays of Euripides. Cambridge University Press. 295 pp.
 
 **Gould 1977.** Ontogeny and phylogeny. Harvard University Press, Cambridge, Massachusetts.
+
+**Queller and Strassmann 2002.** [The many selves of social insects](https://doi.org/10.1126/science.1070671) Science 296:311-313.
 
 {% endcomment %}
 

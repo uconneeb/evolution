@@ -119,4 +119,6 @@ permalink: /image-credits/
 * Figure 3.10 in Futuyma and Kirkpatrick 2017 
 * _Tribolium castaneum_ [https://en.wikipedia.org/wiki/Red_flour_beetle](https://en.wikipedia.org/wiki/Red_flour_beetle)
 * _Populus_tremula_ [https://en.wikipedia.org/wiki/Populus_tremula](https://en.wikipedia.org/wiki/Populus_tremula)
+
+### Lecture 11 (Feb. 23; Inclusive fitness, relatedness, and Hardy-Weinberg equilibrium)
 * bee [https://www.scientificamerican.com/article/beekeepers-seek-resistance-to-the-honeybees-most-fearsome-enemy/](https://www.scientificamerican.com/article/beekeepers-seek-resistance-to-the-honeybees-most-fearsome-enemy/)

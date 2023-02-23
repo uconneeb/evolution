@@ -97,4 +97,8 @@ These are the most relevant sections for the material covered in lecture.
 You are welcome to read more, however. You might find the section on "Kin Selection and Human Behavior" quite interesting!
 * pp. 320-321 (in particular Muller's ratchet and the discussion of fig. 8.28)
 * pp. 471-473 (Multilevel selection and Cooperation)
+
+### Lecture 11 (Inclusive fitness, haplodiploidy in bees, and Hardy-Weinberg equilibrium)
 * pp. 460-461 (Inclusive Fitness section)
+* pp. 483-486 (The evolution of eusociality)
+

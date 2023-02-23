@@ -22,6 +22,7 @@ exclude: [
     ]
 header_pages:
   - schedule.md
+  - bonus.md
   - grading.md
   - applets.md
   - exam_review.md
