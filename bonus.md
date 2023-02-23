@@ -21,4 +21,15 @@ This bonus exercise is worth up to 5 points. You must complete it by 11:59pm Fri
 Below is a list of DOIs that have already been claimed by other students. Please check this list before you put a lot of work into a particular example because you will not get any bonus points if you use the same DOI as someone who turned in the assignment before you.
 
     10.1038/s41563-020-0798-1
-
+    10.1016/j.nantod.2011.02.002
+    10.1038/ncomms1019
+    10.1016/j.heliyon.2022.e12355
+    10.1080/08956308.2017.1373052   
+    10.1073/pnas.1423242112         
+    10.1098/rsif.2019.0125          
+    10.1093/icb/icr016              
+    10.1016/j2011.11.005            
+    10.1088/1748-3190/ac45e6        
+    10.1021/acsami.1c16323          
+    10.1088/1757-899X/1024/1/012041
+    
