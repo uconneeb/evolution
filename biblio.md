@@ -43,7 +43,13 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
 
+**Hamilton 1964a.** [The genetical evolution of social behaviour. I.](https://doi.org/10.1016/0022-5193(64)90038-4) Journal of Theoretical Biology 7:1-16.
+
+**Hamilton 1964b.** [The genetical evolution of social behaviour. II.](https://doi.org/10.1016/0022-5193(64)90039-6) Journal of Theoretical Biology 7:17-52.
+
 **Hammerschmidt et al. 2014.** [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) Nature 515:75-79.
+
+**Hardy 1908.** Mendelian proportions in a mixed population. Science 28:49-50.
 
 **Holden and Bond 1960.** [Studies on the breeding system of the field bean, _Vicia faba_ L.: 1. natural cross breeding in _V. faba_.](http://dx.doi.org/10.1038/hdy.1960.74) Heredity 15:175-192.
 
@@ -80,6 +86,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Vargas and Zardoya 2014.** The tree of life. Sinaur Associates, Sunderland, Massachusetts. P. Vargas and R Zarkoya, eds. 713 pp.
 
 **Wade 1977.** [An experimental study of group selection.](https://www.jstor.org/stable/2407552) Evolution 31:134-153.
+
+**Weinberg 1908.** Ueber den nachweis der vererbung beim menschen. Jahresheftgedes Vereins für Vaterländische Naturkunde in Württemburg 64:368-382. English translation in Boyer, S. H 1963. Papers on Human Genetics. Englewood Cliffs, NJ. Prentice Hall.
 
 **Weis and Abrahamson 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the _Solidago_-_Eurosta_ system](https://doi.org/10.1086/284513) American Naturalist 127:681-695.
 
