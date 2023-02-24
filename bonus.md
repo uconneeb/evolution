@@ -37,7 +37,6 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1088/1755-1315/1111/1/012057
     10.1016/j.cscm.2022.e00977
     10.1038/nature24670
-    10.1088/1755-1315/1111/1/012057
     10.3390%2Fbiomimetics5030040
     10.1371/journal.pone.0232035
     10.1088/1748-3182/3/4/046001
