@@ -45,4 +45,5 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1002/smll.201403036
     10.1126/science.148.3678.1739
     10.1088/1748-3182/8/4/046012
-    
+    10.1016/j.cirp.2011.06.001
+    10.1126/sciadv.aat8520
