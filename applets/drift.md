@@ -158,8 +158,8 @@ Keys that can be used:
         else {
             Ne = Ne - 100000;
         }
-        if (Ne <= 10)
-            Ne = 10;
+        if (Ne <= 1)
+            Ne = 1;
     }
 
     function increaseStartingFrequency() {
