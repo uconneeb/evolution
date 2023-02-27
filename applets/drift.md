@@ -6,7 +6,7 @@ permalink: /applets/drift/
 
 ## Genetic drift 
 
-Simulates genetic drift in 5 populations for 500 generations. The horizontal (x) axis is the relative frequency of the focal allele: 0.0 at far left, 1.0 at far right. 
+Simulates genetic drift in 5 populations for 100 generations (corresponding to Fig. 7.15a-c, p. 247, in Herron and Freeman textbook). The horizontal (x) axis is the relative frequency of the focal allele: 0.0 at far left, 1.0 at far right. 
 
 Keys that can be used:
 * **S** repeats the simulation (result will be different each time)
@@ -51,11 +51,11 @@ Keys that can be used:
     let slow_way = false;
 
     let tick      = 0;
-    let ngen      = 500;
+    let ngen      = 100;
     let debugstop = null;
     let yincr     = 1/ngen;   // amount traveled in y-axis over one time unit
 
-    let npops = 5;
+    let npops = 8;
     let Ne     = 10000; 
     let p0     = 0.5;
 
