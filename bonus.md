@@ -49,4 +49,8 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1126/sciadv.aat8520
     10.1088/1748-3190/aa5c6e
     10.1111/brv.12467
+    10.1088/1748-3190/ab5a34
+    10.1016/j.jcis.2010.08.047
+    10.1073/pnas.0712117105
+    10.1162/DESI_a_00339
     
