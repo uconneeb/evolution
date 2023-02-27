@@ -117,7 +117,10 @@ Keys that can be used:
         }
 
     function increasePopulationSize() {
-        if (Ne < 100) {
+        if (Ne < 10) {
+            Ne = Ne + 1;
+        }
+        else if (Ne < 100) {
             Ne = Ne + 10;
         }
         else if (Ne < 1000) {
@@ -137,7 +140,10 @@ Keys that can be used:
     }
 
     function decreasePopulationSize() {
-        if (Ne <= 100) {
+        if (Ne <= 10) {
+            Ne = Ne - 1;
+        }
+        else if (Ne <= 100) {
             Ne = Ne - 10;
         }
         else if (Ne <= 1000) {
