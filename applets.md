@@ -20,11 +20,15 @@ This applet lets you explore the effect of assuming different values for the sel
 
 This applet starts off with a new beneficial mutation in the center of one chromosome in a population of 25 diploid individuals. Red shading denotes chromosome segments that are identical to the chromosome on which the mutation arose. Each generation, crossing over breaks up the red parts, but the new mutation quickly becomes fixed due to its high fitness. A small region around the mutation is also fixed (hitchhiking) and is shown in dark purple once fixation of the selected gene occurs. Refresh your browser to start again.
 
-{% comment %}
+## [Genetic Drift]({{ "applets/drift/" | relative_url }})
+
+This applet simulates genetic drift in 5 populations for 500 generations, allowing you to modify the effective population size.
 
 ## [Fst]({{ "applets/fst/" | relative_url }})
 
 This applet shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding).
+
+{% comment %}
 
 ## [Genetic Drift]({{ "applets/drift/" | relative_url }})
 

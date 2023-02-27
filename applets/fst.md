@@ -209,37 +209,6 @@ Scroll down for more details.
         return freqplot_h + fstbar_h + hcell*(poprow*indivrows + indivrow + 0.5);
     }       
 
-    // Data for individuals is stored as list of objects containing information about each individual
-    function initializePops() {
-        ngens = 0;
-        indiv_data = [];
-        Ho = 0.0;
-        pbar = 0.0;
-        resetFreqPlotData();
-        for (let i = 0; i < poprows; i++) {
-            for (let j = 0; j < popcols; j++) {
-                let n = indivrows*indivcols;
-                let v = drawNGenotypes(i, j, n, true);
-                Ho += heterozygosity[i*popcols + j].heterozygosity;
-                pbar += freqA[i*popcols + j].freq;
-                for (let k = 0; k < indivrows; k++) {
-                    for (let m = 0; m < indivcols; m++) {
-                        let x = getCellX(j, m);
-                        let y = getCellY(i, k);
-                        indiv_data.push({"i":i, "j":j, "k":k, "m":m, "x":x, "y":y, "genotype":v[k*indivcols + m]});
-                    }
-                }
-            }
-        }
-        Ho /= (poprows*popcols);
-        pbar /= (poprows*popcols);
-    }
-    initializePops();
-
-    function getStatusText() {
-        return "g = " + ngens + ", pmean = " + pbar.toFixed(3) + ", Ho = " + Ho.toFixed(3) + ", He = " + He.toFixed(3) + ", Fst = " + Fst.toFixed(3);
-    }
-
     function recalcFst() {
         let sumsq = 0.0;
         let sum = 0.0;
@@ -262,6 +231,69 @@ Scroll down for more details.
         let maxvar = mean*(1-mean);
         Fst = variance/maxvar;
     }
+
+    function getStatusText() {
+        return "g = " + ngens + ", pmean = " + pbar.toFixed(3) + ", Ho = " + Ho.toFixed(3) + ", He = " + He.toFixed(3) + ", Fst = " + Fst.toFixed(3);
+    }
+
+    // Data for individuals is stored as list of objects containing information about each individual
+    function initializePops(start = false) {
+        ngens = 0;
+        indiv_data = [];
+        Ho = 0.0;
+        pbar = 0.0;
+        resetFreqPlotData();
+        for (let i = 0; i < poprows; i++) {
+            for (let j = 0; j < popcols; j++) {
+                let n = indivrows*indivcols;
+                let v = drawNGenotypes(i, j, n, true);
+                Ho += heterozygosity[i*popcols + j].heterozygosity;
+                pbar += freqA[i*popcols + j].freq;
+                for (let k = 0; k < indivrows; k++) {
+                    for (let m = 0; m < indivcols; m++) {
+                        let x = getCellX(j, m);
+                        let y = getCellY(i, k);
+                        indiv_data.push({"i":i, "j":j, "k":k, "m":m, "x":x, "y":y, "genotype":v[k*indivcols + m]});
+                    }
+                }
+            }
+        }
+        Ho /= (poprows*popcols);
+        pbar /= (poprows*popcols);
+        He = 2.0*pbar*(1.0 - pbar);
+        recalcFst();
+        
+        if (!start) {
+            // update gold colored Fst bar
+            d3.select("rect#fst")
+                .attr("width", grid_w*Fst)
+                .attr("fill", fstbar_color);  
+                  
+            // update blue frequency histogram
+            d3.selectAll("rect.hist")
+                .attr("x", function(d) {return d.bin*grid_w/freqplot_bars;})
+                .attr("y", function(d) {return freqplot_h - d.freq*freqplot_h/npops;})
+                .attr("height", function(d) {return d.freq*freqplot_h/npops;})
+                .attr("fill", freqplot_color);
+
+            // reset circles representing individuals
+            plot_svg.selectAll("circle.indiv")
+                .data(indiv_data)
+                .enter()
+                .append("circle")
+                .attr("class", "indiv")
+                .attr("cx", function(d) {return d.x;})
+                .attr("cy", function(d) {return d.y;})
+                .attr("r", rindiv)
+                .attr("fill", function(d) {return genotype_color[d.genotype];})
+                .attr("stroke", genotype_stroke);
+                
+            // refresh status bar text
+            d3.select("text#status")
+                .text(getStatusText())
+        }
+    }
+    initializePops(true);
 
     function nextGeneration() {
         ngens++;
@@ -288,6 +320,8 @@ Scroll down for more details.
         pbar /= (poprows*popcols);
         He = 2.0*pbar*(1.0 - pbar);
         recalcFst();
+
+        // update plot
         d3.select("rect#fst")
             .attr("width", grid_w*Fst)
             .attr("fill", fstbar_color);
@@ -371,16 +405,6 @@ Scroll down for more details.
             
             d3.selectAll("circle.indiv").remove();
             initializePops();
-            plot_svg.selectAll("circle.indiv")
-                .data(indiv_data)
-                .enter()
-                .append("circle")
-                .attr("class", "indiv")
-                .attr("cx", function(d) {return d.x;})
-                .attr("cy", function(d) {return d.y;})
-                .attr("r", rindiv)
-                .attr("fill", function(d) {return genotype_color[d.genotype];})
-                .attr("stroke", genotype_stroke);
         }
     }
     d3.select("body")

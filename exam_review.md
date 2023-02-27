@@ -12,7 +12,7 @@ Review session times will be announced in lecture and posted on this page as the
 
 #### Exam 1: Tuesday, Feb. 7, 5 PM, GantW002 + livestream ([link](http://www.kaltura.com/tiny/ov4ig))
 
-#### Exam 2
+#### Exam 2 Sunday, Mar. 5, 5 PM, GantW002 + livestream ([link](http://www.kaltura.com/tiny/ov4ig))
 
 #### Exam 3
 

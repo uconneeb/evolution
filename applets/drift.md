@@ -295,6 +295,11 @@ Keys that can be used:
                 if (p.x == 0.0 || p.x == 1.0)
                     steps[i].push({'x0':p.x, 'x':p.x, 'y0':p.y, 'y':ynew, 'pop':i});
                 else {
+                    // If K is binomial with parameter p and sample size n,
+                    // Var(K) = n p (1-p)
+                    // Relative frequency = K/n, so
+                    // Var(K/n) = (1/n^2) Var(K) = n p (1-p) / n^2 = p(1-p)/n
+                    // In our case, n = 2 Ne, so variance = p(1-p)/(2 Ne)
                     let mu = p.x;
                     let sd = Math.sqrt(p.x*(1.0 - p.x)/(2*Ne));
                     let xnew = lot.normal(mu, sd);
@@ -303,6 +308,9 @@ Keys that can be used:
                     else if (xnew >= 1.0)
                         xnew = 1.0;
                     steps[i].push({'x0':p.x, 'x':xnew, 'y0':p.y, 'y':ynew, 'pop':i});
+                    //if (i == 0) {
+                    //    console.log('i = ' + i + ' | y = ' + ynew);
+                    //}
                 }
             }
         
