@@ -102,3 +102,7 @@ You are welcome to read more, however. You might find the section on "Kin Select
 * pp. 460-461 (Inclusive Fitness section)
 * pp. 483-486 (The evolution of eusociality)
 
+### Lecture 12 (Out of equilibrium: non-random mating, mutation, migration, selection, drift; gene trees and coalescence)
+* pp. 240-251 (genetic drift, note figures 7.15 and 7.16)
+* pp. 272-274 (coalescence)
+
