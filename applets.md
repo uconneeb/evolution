@@ -28,6 +28,10 @@ This applet simulates genetic drift in 5 populations for 500 generations, allowi
 
 This applet shows that the effect of genetic drift in small subpopulations is random fixation of alleles, leading eventually to a total lack of heterozygotes (similar to the effects of inbreeding).
 
+## [Coalescence]({{ "applets/coalescence/" | relative_url }})
+
+This applet simulates random mating for up to 40 generations in a population comprising 5, 10, or 15 diploid individuals. A gene tree for a sample of 5 genes is traced. Play with this app to convince yourself that the MRCA of the 5 sampled genes tends to be deeper if Ne is larger.
+
 {% comment %}
 
 ## [Genetic Drift]({{ "applets/drift/" | relative_url }})
