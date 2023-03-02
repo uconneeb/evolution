@@ -17,6 +17,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Boag and Grant 1981.** [Intense natural selection in a population of Darwin's finches (Geospizinae) in the Galapagos](https://doi.org/10.1126/science.214.4516.82) Science 214:82-85.
 
+**Bonin et al. 2006.** [Explorative genome scan to detect candidate loci for adaptation along a gradient of altitude in the common frog (_Rana temporaria_).](https://doi.org/10.1093/molbev/msj087) Molecular Biology and Evolution 23:773-783.
+
 **Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
 
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
@@ -69,6 +71,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-1662.
 
+**Nosil 2009.** [Adaptive population divergence in cryptic color-pattern following a reduction in gene flow.](https://doi.org/10.1111/j.1558-5646.2009.00671.x) Evolution 63:1902-1912.
+
 **Piel et al. 2010.** [Global distribution of the sickle cell gene and geographical confirmation of the malaria hypothesis](https://doi.org/10.1038/ncomms1104) Nature Communications 1:104
 
 **Price 1972.** [Extension of covariance selection mathematics.](http:/doi.org/10.1111/j.1469-1809.1957.tb01874.x) Annals of Human Genetics 35: 485-490.
@@ -81,6 +85,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch _Pyrenestes_.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
+**Storz 2005.** [Using genome scans of DNA polymorphism to infer adaptive population divergence.](https://doi.org/10.1111/j.1365-294X.2005.02437.x) Molecular Ecology 14:671-688.
+
 **van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
 
 **Vargas and Zardoya 2014.** The tree of life. Sinaur Associates, Sunderland, Massachusetts. P. Vargas and R Zarkoya, eds. 713 pp.
@@ -92,6 +98,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Weis and Abrahamson 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the _Solidago_-_Eurosta_ system](https://doi.org/10.1086/284513) American Naturalist 127:681-695.
 
 **Yates et al. 2002.** [The ecology and evolutionary history of an emergent disease: hantavirus pulmonary syndrome.](https://academic.oup.com/bioscience/article/52/11/989/285924) BioScience 52:989-998.
+
+**Yi et al. 2010.** Sequencing of 50 human exomes reveals adaptation to high altitudee. Science 329:75-78.
 
 **Zwickl 2006.** [Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion.](https://repositories.lib.utexas.edu/handle/2152/2666) Ph.D. dissertation, The University of Texas at Austin.
 

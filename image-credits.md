@@ -122,3 +122,15 @@ permalink: /image-credits/
 
 ### Lecture 11 (Feb. 23; Inclusive fitness, relatedness, and Hardy-Weinberg equilibrium)
 * bee [https://www.scientificamerican.com/article/beekeepers-seek-resistance-to-the-honeybees-most-fearsome-enemy/](https://www.scientificamerican.com/article/beekeepers-seek-resistance-to-the-honeybees-most-fearsome-enemy/)
+
+### Lecture 13 (Mar. 2; Using Fst, and migration-selection balance)
+* coalescent plots created using this software: [http://people.sc.fsu.edu/~pbeerli/popvizard.tar.gz](http://people.sc.fsu.edu/~pbeerli/popvizard.tar.gz) ([but this applet does something similar]({{ "/applets/coalescence/" | relative_url }}))
+* Selection vs. drift simulations: Figure 7.13 in Futuyma and Kirkpatrick 2017s
+* unstriped _Timema cristinae_ walking stick insect on _Ceanothus_ shrub: [https://www.flickr.com/photos/treebeard/32878492873](https://www.flickr.com/photos/treebeard/32878492873)
+* striped _Timema cristinae_ walking stick insect on _Adenostoma_ shrub: [https://www.eurekalert.org/multimedia/pub/73348.php](https://www.eurekalert.org/multimedia/pub/73348.php)
+* _Timema cristinae_ walking stick next to ruler: [https://en.wikipedia.org/wiki/Timema_cristinae](https://en.wikipedia.org/wiki/Timema_cristinae)
+* selection as sieve analogy: Figure 3.14 in Futuyma and Kirkpatric 2017
+
+{% comment %}
+* Helena Bonham Carter as the Red Queen: [https://villains.fandom.com/wiki/Red_Queen_(Disney)](https://villains.fandom.com/wiki/Red_Queen_(Disney)) (from the 2010 film _Alice in Wonderland_ and the 2016 sequel _Alice Through the Looking Glass_)
+{% endcomment %}

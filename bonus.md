@@ -61,3 +61,14 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1016/j.energy.2021.122186
     10.1002/adma.202007301
     10.1109/ICRA.2019.8794165
+    10.1016/j.advengsoft.2014.09.006
+    10.1152/physrev.00005.2010
+    10.1039/B808839J0    
+    10.1002/marc.202200012
+    10.1007/978-3-030-58362-0_5
+    10.1016/j.jcomc.2021.100205
+    10.1109/ACCESS.2020.2968739    
+    10.3390/biomimetics8010085
+    10.1039/C2NR32554C
+    10.1021/la063039b
+    

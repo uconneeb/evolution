@@ -106,3 +106,7 @@ You are welcome to read more, however. You might find the section on "Kin Select
 * pp. 240-251 (genetic drift, note figures 7.15 and 7.16)
 * pp. 272-274 (coalescence)
 
+### Lecture 13 (Using Fst, migration-selection balance)
+* pp. 237-239 (Empirical research on migration versus selection)
+* pp. 257-259 (Genetic drift versus natural selection)
+

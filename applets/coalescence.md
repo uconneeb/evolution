@@ -23,7 +23,7 @@ Some experiments to try:
 <script type="text/javascript">
     // The MIT License (MIT)
     // 
-    // Copyright (c) 2017 Paul O. Lewis
+    // Copyright (c) 2023 Paul O. Lewis
     // 
     // Permission is hereby granted, free of charge, to any person obtaining a copy
     // of this software and associated documentation files (the “Software”), to deal
@@ -43,7 +43,7 @@ Some experiments to try:
     // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     // SOFTWARE.
     
-    // written by Paul O. Lewis Jan. 20, 2023
+    // written by Paul O. Lewis Jan. 20, 2023, revised Mar. 1, 2023
     var rnseed = Math.floor(10000*Math.random())
     var lot = new Random(rnseed);
     
