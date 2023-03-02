@@ -71,4 +71,4 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.3390/biomimetics8010085
     10.1039/C2NR32554C
     10.1021/la063039b
-    
+    10.1016/j.xcrp.2022.101241
