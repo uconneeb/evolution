@@ -59,3 +59,5 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1557/mrs.2013.19
     10.1103/PhysRevFluids.1.060502
     10.1016/j.energy.2021.122186
+    10.1002/adma.202007301
+    10.1109/ICRA.2019.8794165
