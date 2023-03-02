@@ -72,3 +72,9 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1039/C2NR32554C
     10.1021/la063039b
     10.1016/j.xcrp.2022.101241
+    10.1080/19942060.2021.1940287
+    10.1111/jav.01294
+    10.1002/sd.1535
+    10.1038/srep10794
+    10.1126/scirobotics.aah3690
+    10.1007/s00114-002-0401-4
