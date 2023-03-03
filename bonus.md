@@ -87,5 +87,7 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1098/rsfs.2015.0107
     10.1098/rsif.2017.0395
     10.1109/ICUS48101.2019.8995966
-    
+    10.1088/1748-3182/6/4/045001 
+    10.1136/bjsports-2018-099594
+    10.1016/j.actbio.2020.12.003
     
