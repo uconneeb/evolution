@@ -93,3 +93,16 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1115/1.4028168
     10.1073/pnas.2001802117
     10.1016/j.paerosci.2016.03.002
+    10.1126/science.aar5191
+    10.1063/5.0117089
+    10.1093/icb/icr038
+    10.1038/s41467-019-09589-w    
+    10.2147/IJN.S83642
+    10.1039/C2LC40089H
+    10.1126/scirobotics.abe2922
+    10.17226/25702
+    10.1016/j.xcrp.2020.100240
+    10.1038/s41598-020-68596-w
+    10.1016/j.proeng.2015.05.007
+    10.1038/s41928-022-00803-0
+    
