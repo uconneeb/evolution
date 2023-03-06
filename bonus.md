@@ -105,4 +105,14 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1038/s41598-020-68596-w
     10.1016/j.proeng.2015.05.007
     10.1038/s41928-022-00803-0
-    
+    10.1021/acsnano.6b07182
+    10.3390/biomimetics7040223
+    10.1002/adfm.202003380
+    10.1016/j.jtherbio.2017.03.013
+    10.1016/j.cja.2016.02.007
+    10.1002/adfm.201904446
+    10.1186/s40694-021-00124-5
+    10.3390/biomimetics7010014
+    10.1016/j.apsusc.2013.08.017
+    10.1098/rsif.2010.0487
+    10.1016/j.aej.2015.03.012
