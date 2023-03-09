@@ -116,3 +116,8 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1016/j.apsusc.2013.08.017
     10.1098/rsif.2010.0487
     10.1016/j.aej.2015.03.012
+    10.3389/fbioe.2022.870445
+    10.1177/0014485104049399
+    10.1007/bf02428250
+    10.1016/j.oceaneng.2018.10.010
+    
