@@ -110,3 +110,11 @@ You are welcome to read more, however. You might find the section on "Kin Select
 * pp. 237-239 (Empirical research on migration versus selection)
 * pp. 257-259 (Genetic drift versus natural selection)
 
+### Lecture 14 (Introduction to speciation, species concepts, isolation)
+* pp. 609-616 (Species concepts)
+* pp. 616-620 (Beginning of isolation)
+
+### Lecture 15 (Isolation, divergence, hybridization)
+* pp. 620-623 (Isolation continued)
+* pp. 623-629 (Divergence)
+* pp. 629-637 (Hybridization)
