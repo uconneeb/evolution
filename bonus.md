@@ -120,4 +120,6 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1177/0014485104049399
     10.1007/bf02428250
     10.1016/j.oceaneng.2018.10.010
+    10.15252/embr.201439632
+    10.1098/rsta.2006.1962
     
