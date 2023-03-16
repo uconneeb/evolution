@@ -122,4 +122,12 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1016/j.oceaneng.2018.10.010
     10.15252/embr.201439632
     10.1098/rsta.2006.1962
-    
+    10.1111/mve.12619
+    10.1051/matecconf/201713500019
+    10.1126/science.1153479
+    10.3390/infrastructures7040046
+    10.1016/S0960-9822(98)70156-3
+    10.1006/anbo.1997.0400
+    10.1002/adma.201200521
+    10.1126/sciadv.aaw3963
+    10.1007/s10846-010-9415-x
