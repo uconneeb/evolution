@@ -114,7 +114,10 @@ You are welcome to read more, however. You might find the section on "Kin Select
 * pp. 609-616 (Species concepts)
 * pp. 616-620 (Beginning of isolation)
 
-### Lecture 15 (Isolation, divergence, hybridization)
+### Lecture 15 (Isolation, divergence)
 * pp. 620-623 (Isolation continued)
 * pp. 623-629 (Divergence)
+
+### Lecture 16 (hybridization, diversification)
 * pp. 629-637 (Hybridization)
+* pp. 637-641 (Diversification)
