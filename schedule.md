@@ -31,7 +31,7 @@ Lecture |      Date     |                           Topic
         | Tu Mar. 14    | SPRING RECESS                                                         
         | Th Mar. 16    | SPRING RECESS                                                         
 15      | Tu Mar. 21    | Speciation                                                            
-16      | Th Mar. 23    | Origin of Life                                                       
+16      | Th Mar. 23    | Speciation / Origin of Life                                                       
 17      | Tu Mar. 28    | Origin of Life                                                       
 18      | Th Mar. 30    | Fossils / Pre-Cambrian                                                        
         | Tu Apr.  4    | **EXAM 3** (covers Lectures 14-18)                                    
