@@ -121,3 +121,6 @@ You are welcome to read more, however. You might find the section on "Kin Select
 ### Lecture 16 (hybridization, diversification)
 * pp. 629-637 (Hybridization)
 * pp. 637-641 (Diversification)
+
+### Lecture 17 (Origin of life)
+* pp. 645-675 (please use the lecture slides to guide your reading)
