@@ -124,3 +124,7 @@ You are welcome to read more, however. You might find the section on "Kin Select
 
 ### Lecture 17 (Origin of life)
 * pp. 645-675 (please use the lecture slides to guide your reading)
+
+### Lecture 18 (Origin of life, fossils)
+* pp. 675-683 (Origin of life)
+* pp. 691-697 (Intro to fossils)
