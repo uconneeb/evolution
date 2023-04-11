@@ -128,3 +128,10 @@ You are welcome to read more, however. You might find the section on "Kin Select
 ### Lecture 18 (Origin of life, fossils)
 * pp. 675-683 (Origin of life)
 * pp. 691-697 (Intro to fossils)
+
+### Lecture 19 (Fossils continued)
+* pp. 701-704 (Fossils)
+
+### Lecture 20 (Fossils, extinction)
+* pp. 704-705 (Fossils)
+* pp. 707-731 (Extinction)
