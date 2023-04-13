@@ -12,15 +12,18 @@ There are several sources of points that you can earn in this course:
 * **Participation** A total of 40 points will be derived from participating in activities during lecture. Not every lecture will have associated participation points, and the points will come from a variety of activities. There will probably be more than 40 points offered during the semester, but 40 is the maximum you can earn.
 * **Bonus** There will be 2-3 bonus exercises offered during the course for a total of 10 possible bonus points. The bonus points you earn can be used to make up for lost points on exams. 
 
-A sample grade calculation follows: if you received 78, 95, 85, 99 as exam scores, 8 bonus points, and 40 participation points, your overall percentage would be calculated as follows: 
+We have decided to allow the lowest of the four exam grades to be dropped. If you miss an exam for any reason other than a documented illness, that will be the exam you must drop.
+{:.noticethis} 
 
-92.0 = 100*(78 + 95 + 85 + 99 + 8 + 40)/440
+A sample grade calculation follows: if you received 78, 83, 86, 99 as exam scores, 8 bonus points, and 40 participation points, your overall percentage would be calculated as follows (78 is the exam score dropped): 
 
-(Note that the bonus points add to the numerator but not the denominator.) Looking up 92.0 in the grading scale posted below, you would receive a letter grade of A- for the course because 92.0 is greater than or equal to 90 but less than 93.
+92.9 = 100*(83 + 86 + 99 + 8 + 40)/340
+
+(Note that the bonus points add to the numerator but not the denominator.) Looking up 92.9 in the grading scale posted below, you would receive a letter grade of A- for the course because 92.9 is greater than or equal to 90 but less than 93. (Note that we will not play games with rounding.)
 
 Grades will be posted in the _My Grades_ section of [HuskyCT](https://huskyct.uconn.edu/).
 
-We do not anticipate "curving" grades at the end of the semester, and no bonus points other than the 10 discussed above will be offered.
+Given the fact that we are dropping the lowest exam, we do not anticipate "curving" grades at the end of the semester, and no bonus points other than the 10 discussed above will be offered.
 
 ## For those enrolled in EEB 2245W
 
