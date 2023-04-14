@@ -42,8 +42,10 @@ Lecture |      Date     |                           Topic
 23      | Th Apr. 20    | Evo/Devo                                                          
 24      | Tu Apr. 25    | Human evolution                                                       
 25      | Th Apr. 27    | Human evolution                                                       
-        | FINALS WEEK   | **EXAM 4** (covers Lectures 19-25)                                    
+        | **Tu May 2 (8-10am)**| **EXAM 4** (covers Lectures 19-25)                                    
 {:#lecturestable}
+
+The **Final Exam** will be held in the same room as the lectures (GW 002) but **note that it is not at the usual time**. Instead, it will be held from **8-10am on Tuesday May 2**. See the [Final Exam Information](https://registrar.uconn.edu/exams/) page on the Registrar's web site for more details.
 
 {% comment %}
 {% endcomment %}
