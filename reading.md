@@ -135,3 +135,9 @@ You are welcome to read more, however. You might find the section on "Kin Select
 ### Lecture 20 (Fossils, extinction)
 * pp. 704-705 (Fossils)
 * pp. 707-731 (Extinction)
+
+### Lecture 21 (Biogeography)
+* see optional scientific article posted on HuskyCT
+
+### Lecture 21 (Evo-Devo)
+* pp. 735-756 (Evolution of development, Hox genes)
