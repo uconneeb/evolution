@@ -139,5 +139,5 @@ You are welcome to read more, however. You might find the section on "Kin Select
 ### Lecture 21 (Biogeography)
 * see optional scientific article posted on HuskyCT
 
-### Lecture 21 (Evo-Devo)
+### Lecture 22 (Evo-Devo)
 * pp. 735-756 (Evolution of development, Hox genes)
