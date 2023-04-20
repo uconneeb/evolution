@@ -141,3 +141,6 @@ You are welcome to read more, however. You might find the section on "Kin Select
 
 ### Lecture 22 (Evo-Devo)
 * pp. 735-756 (Evolution of development, Hox genes)
+
+### Lecture 23 (Evo-Devo)
+* pp. 756-765 (Evolutionary leaps, constraint)
