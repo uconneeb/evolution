@@ -144,3 +144,6 @@ You are welcome to read more, however. You might find the section on "Kin Select
 
 ### Lecture 23 (Evo-Devo)
 * pp. 756-765 (Evolutionary leaps, constraint)
+
+### Lecture 24 (Human Evolution)
+* pp. 769-779 (Incremental understanding of the human evolution)
