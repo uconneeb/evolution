@@ -14,9 +14,9 @@ Review session times will be announced in lecture and posted on this page as the
 
 #### Exam 2 Sunday, Mar. 5, 5 PM, GantW002 + livestream ([link](http://www.kaltura.com/tiny/ov4ig))
 
-#### Exam 3
+#### Exam 3 Sunday, Apr. 2, 5 PM, GantW002 + livestream ([link](http://www.kaltura.com/tiny/ov4ig))
 
-#### Exam 4
+#### Exam 4 Friday, Apr. 28, 3:30 PM, TLS 154 + livestream ([link](http://www.kaltura.com/tiny/iry5o))
 
 
 
