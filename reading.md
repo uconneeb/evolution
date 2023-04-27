@@ -147,3 +147,6 @@ You are welcome to read more, however. You might find the section on "Kin Select
 
 ### Lecture 24 (Human Evolution)
 * pp. 769-779 (Incremental understanding of the human evolution)
+
+### Lecture 25 (Human Evolution)
+* pp. 790-801 (Origin of Homo sapiens, contemporary genetic diversity)
