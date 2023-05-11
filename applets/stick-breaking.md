@@ -6,8 +6,18 @@ permalink: /applets/stickbreaking/
 
 ## Stick Breaking Process and Dirichlet Process Priors
 
-Before the stick has been broken the first time, the remainder has length 1 (i.e. all of the stick).
-Each subsequent break affects the remainder only. Larger values of alpha lead to more, smaller sticks.
+The stick-breaking process illustrated here provides a prior distribution known as the Dirichlet
+Process Prior (DPP). The lavender rectangle below represents an unbroken stick. Press the "b"
+key to break the stick at a random point. Pressing "b" again breaks the stick randomly again, but only 
+in the rightmost section. This process could technically continue forever, as there will always 
+be some interval representing the rightmost section, but once you have no detectable remainder,
+press the "t" key to throw darts at the stick. This represents one draw from the DPP. 
+The expected number of occupied segments is shown below as "E" and the observed number of occupied
+segments is shown as "O". 
+
+As a phylogenetic example, the darts might represent sites and the segments substitution
+rate categories. The expected number of categories is determined by the parameter alpha (the
+value of which you can change; see the key at the bottom of the page): higher alpha means more categories.
 
 <div id="canvas"></div>
 <script type="text/javascript">
@@ -319,7 +329,6 @@ Each subsequent break affects the remainder only. Larger values of alpha lead to
 </script>
 
 Notes:
-* This applet was written for the graduate course EEB-5349 (Phylogenetics), not EEB-2245 (Evolution), so don't panic if you are an EEB2245 student and have encountered this by accident!
 * b key breaks off fraction from the remainder (lavender) using a draw from Beta(1,alpha)
 * p key mimics pressing the b key until the remainder is tiny (0.001)
 * r key resets everything
@@ -328,5 +337,3 @@ Notes:
 * shift-right/shift-left arrow keys increase/decrease the number of darts (within the range 10-100)
 * E is the expected number of colored rectangles hit by at least one of the n darts
 * O is the observed number of colored rectangles hit by at least one dart
-
-This process provides a prior distribution known as the Dirichlet Process Prior (DPP). Imagine that the darts are sites and the colors of the rectangles represent different relative substitution rates. The stick breaking process illustrated in this applet shows what typical draws from a Dirichlet Process Prior look like for different values of alpha and different numbers of sites (darts). Used in a Bayesian MCMC analysis, a DPP would allow you to learn something about how many rate categories are present and which sites fall into which category. Normally, a hierarchical model would be used in which alpha is a hyperparameter and its hyperprior would be vague but nevertheless discourage alpha from getting too large.

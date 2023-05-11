@@ -13,10 +13,10 @@ to 20% of their original height. A delta value of 0.2 raises the height of every
 to the power 0.2. Section 6.2 of [Luke Harmon's book](https://lukejharmon.github.io/pcm/) 
 provides a good explanation of these transformations in the context of comparative methods.
 
-Use the left/right arrow keys to cycle among the three parameters and the up/down arrow keys to 
+Use the **left/right arrow keys** to cycle among the three parameters and the **up/down arrow keys** to 
 increase/decrease the current parameter value. Note that the left/right arrow keys reset
 the parameter value to 1.0, which is the unmodified tree. Hold down Shift when using
-the arrow keys to avoid scrolling while changing parameter values. The Simulate button simulates 
+the arrow keys to avoid scrolling while changing parameter values. The **Simulate button** simulates 
 a new tree using a pure birth model scaled to have total height 100.
 
 <div id="details"></div>
@@ -454,11 +454,12 @@ a new tree using a pure birth model scaled to have total height 100.
         }
 
         tscale.domain([t.total_height, 0]);
+        console.log(t.makeNewick(5))
         t.addTreeToSVG(tree_svg, "bdtree", tscale, traits);
     }
 
     function kappaChanged() {
-        // Multiply all edge lengths by pagels_kappa
+        // Raise all edge lengths by a power equal to pagels_kappa
         if (!tree)
             return;
             

@@ -7,9 +7,17 @@ permalink: /applets/fst/
 ## Fst and genetic drift in small populations
 
 Key to genotype colors:
+* AA (yellow)
+* Aa (orange)
+* aa (red)
+
+{% comment %}
+no longer works
+Key to genotype colors:
 * ![](https://via.placeholder.com/20.png/FEFF0B/000000?text=+) AA (yellow)
 * ![](https://via.placeholder.com/20.png/F08D08/000000?text=+) Aa (orange)
 * ![](https://via.placeholder.com/20.png/FF0000/FFFFFF?text=+) aa (red)
+{% endcomment %}
 
 The frequency of allele **A** used at the start is _p_ = 0.5 for all populations. Refresh your browser to start over.
 Scroll down for more details.

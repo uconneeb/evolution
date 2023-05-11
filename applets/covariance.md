@@ -31,8 +31,6 @@ permalink: /applets/covariance/
     // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     // SOFTWARE.
     // written by Paul O. Lewis 20-Feb-2018
-    // See https://developer.mozilla.org/en-US/docs/Web/SVG/Element
-    // See https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute
 
     // pseudo-random number generator
     var lot = new Random(12345);

@@ -6,9 +6,9 @@ permalink: /applets/ou/
 
 ## Ornstein-Uhlenbeck vs. Brownian motion model
 
-This applet shows 5 independent Brownian motion (BM) or Ornstein-Uhlenbeck (OU) simulations. 
-Press S to simulate again, T to toggle between OU and BM, up/down arrow to change variance,
-left/right arrow to change OU strength, and [ or ] to change offset of OU mean from the starting point.
+This applet shows 5 independent Brownian motion (BM) or Ornstein-Uhlenbeck (OU) simulations. A trait evolving by BM performs a random walk independently for each of the two lineages that descend from the starting point. The variance (i.e. uncertainty) of the difference between the two trait values increases linearly with time. A trait evolving by OU tends to not stray far from the optimum (vertical dashed line). Theta determines the strength of this attraction.
+
+Press S to simulate again, T to toggle between OU and BM, up/down arrow to change variance (hold down Shift key to prevent scrolling), left/right arrow to change OU strength, and [ or ] to change offset of OU mean from the starting point.
 
 <div id="arbitrary"></div>
 <script type="text/javascript">
