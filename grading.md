@@ -5,7 +5,7 @@ permalink: /grading/
 ---
 
 ## For everyone enrolled
-![From Darwin's 1837 "B" notebook]({{ "/assets/img/533px-Darwin_Tree_1837.png" | relative_url }}){:.rightsideimage width="200px"}
+![From Darwin's 1837 "B" notebook]({{ "/assets/img/533px-Darwin_Tree_1837.png" | relative_url }}){:width="300px"}
 
 There are several sources of points that you can earn in this course:
 * **Exams** The course will offer four 100 point exams. Please take note of the dates of these exams on the [Schedule]({{ "/schedule" | relative }}) page and plan to be present to take all four exams. 
