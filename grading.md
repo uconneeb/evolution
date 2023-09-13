@@ -11,7 +11,7 @@ permalink: /grading/
 .rightsideimage
 {% endcomment %} 
 
-There are several sources of points that you can earn in this coursse:
+There are several sources of points that you can earn in this course:
 * **Exams** The course will offer four 100 point exams. Please take note of the dates of these exams on the [Schedule]({{ "/schedule" | relative }}) page and plan to be present to take all four exams. 
 * **Participation** A total of 40 points will be derived from participating in activities during lecture. Not every lecture will have associated participation points, and the points will come from a variety of activities. There will probably be more than 40 points offered during the semester, but 40 is the maximum you can earn.
 * **Bonus** There will be 2-3 bonus exercises offered during the course for a total of 10 possible bonus points. The bonus points you earn can be used to make up for lost points on exams. 
