@@ -4,15 +4,15 @@ layout: home
 ![Photo of Cactus Garden, Joshua Tree National Park](assets/img/cylindropuntia.jpg)
 _Teddybear Cholla cacti, Cactus Garden, Joshua Tree National Park, California. These plants are well adapted for life in an environment in which water is a very scarce resource._
 
-# EEB 2245/2245W (Evolutionary Biology)<br/>Spring 2023
+# EEB 2245 (Evolutionary Biology)<br/>Spring 2025
 
-EEB 2245/W is a course in the [Department of Ecology and Evolutionary Biology](https://www.eeb.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). The primary goal of the course is to teach the basic principles of evolutionary biology and the history of life on earth. 
+EEB 2245 is a course in the [Department of Ecology and Evolutionary Biology](https://www.eeb.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). The primary goal of the course is to teach the basic principles of evolutionary biology and the history of life on earth. 
 
 Below you will find basic information about the course. Visit the menu items at the top for more information.
 
 ## Meeting time
 
-The course meets every Tuesday and Thursday 9:30 to 10:45 am in [GW002](https://classrooms.uconn.edu/classroom/gw-002/), which is located in the [Gant West Building](https://goo.gl/maps/TqN3PAHhUCvvLv5z5). Few lecture materials will be posted online, so it is important to attend lecture in person. Some activities with associated participation points require you to be physically present in the lecture room.
+The course meets every Tuesday and Thursday 2:00 to 3:15pm in [TLS-154](https://classrooms.uconn.edu/classroom/tls-154/), which is located in the [Torrey Life Science](https://maps.app.goo.gl/SYVC9qmnU5e7KasJ6). Few lecture materials will be posted online, so it is important to attend lecture in person. Some activities with associated participation points require you to be physically present in the lecture room.
 
 ## Textbook
 
@@ -31,14 +31,6 @@ We will use [HuskyCT](https://huskyct.uconn.edu) for recording grades and for so
 ## Assigned readings and activities
 
 Indicated on the [lecture schedule](lecture-schedule).
-
-## If you are enrolled in EEB-2245...
-
-Even though you are not enrolled in the W version of the course, you will nevertheless see rows in the HuskyCT _My Grades_ section that pertain only to W students. If you are not in the W version of the course, you need not worry that you have no grade in grade book rows clearly labeled as part of the W course.
-
-## If you are enrolled in EEB-2245W...
-
-This web site contains information for the _lecture_ component of the course only. Please see [Grading](grading) for information related to the W portion of the course.
 
 ## Important Information ##
 
