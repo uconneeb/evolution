@@ -16,17 +16,8 @@ permalink: /contact/
 
 ## Teaching Assistants
 
-**Person:**         | Analisa Milkey                                                    | Vikas Sarathy
-**Students:**       | Last name beginning A-Ma                                          | Last name beginning Mc-Z 
-**E-mail:**         | [analisa.milkey@uconn.edu](mailto:analisa.milkey@uconn.edu)       | [vikas.sarathy@uconn.edu](mailto:vikas.sarathy@uconn.edu)
-**Office hours:**   | Tuesday 2-3 PM, GantW420                                          | Wednesday 11 AM-12 PM, PBB323
+**Person:**         | Weijun Liang                                             | Ellie Mendelson
+**Students:**       | Last name beginning A-H                                  | Last name beginning J-Z 
+**E-mail:**         | [weijun.liang@uconn.edu](mailto:weijun.liang@uconn.edu)  | [emendelson@uconn.edu](mailto:emendelson@uconn.edu)
+**Office hours:**   | TBA                                                      | TBA
 {:.persontable}
-
-## W Instructor (applicable only if you are enrolled in EEB-2245W)
-
-**Person:**         | Dr. David Wagner
-**E-mail:**         | [david.wagner@uconn.edu](mailto:david.wagner@uconn.edu)
-**Office hours:**   | by arrangement 
-{:.persontable}
-
-Dr. Wagner will be your instructor for the W component of the course, but be aware that you are still responsible for the lecture component (Drs. Lewis and McAssey) and <strong>failing either the lecture or W component results in a failing grade for the entire course</strong> (even if you are doing well in the other component).
