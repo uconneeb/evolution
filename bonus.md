@@ -4,9 +4,12 @@ title: Bonus
 permalink: /bonus/
 ---
 
+Details coming soon...
+
+{% comment %}
 ## Biologically-inspired design
 
-This bonus exercise is worth up to 5 points. You must complete it by 11:59pm Friday March 3 to get credit. Although it is set up as a "test" in HuskyCT, that is only to make it easier for us to grade it and to centralize everything in HuskyCT; there is no penalty for skipping this.
+This bonus exercise is worth up to 5 points. You must complete it by 11:59pm Friday February 28 to get credit. Although it is set up as a "test" in HuskyCT, that is only to make it easier for us to grade it and to centralize everything in HuskyCT; there is no penalty for skipping this.
 
 ### Find an example of biologically-inspired design
 #### Rules
@@ -131,3 +134,4 @@ Below is a list of DOIs that have already been claimed by other students. Please
     10.1002/adma.201200521
     10.1126/sciadv.aaw3963
     10.1007/s10846-010-9415-x
+{% endcomment %}
