@@ -19,5 +19,5 @@ permalink: /contact/
 **Person:**         | Weijun Liang                                             | Ellie Mendelson
 **Students:**       | Last name beginning A-H                                  | Last name beginning J-Z 
 **E-mail:**         | [weijun.liang@uconn.edu](mailto:weijun.liang@uconn.edu)  | [emendelson@uconn.edu](mailto:emendelson@uconn.edu)
-**Office hours:**   | Tuesdays 10am-12pm; Reading space next to room ABC in Pharmacy/Biology Builing 3rd floor   | Tuesdays 3:30-4:30pm and Thursdays 12:45-1:45pm; BPB atrium
+**Office hours:**   | Tuesdays 10am-12pm; Reading space next to room ABC in Pharmacy/Biology Building 3rd floor   | Tuesdays 3:30-4:30pm and Thursdays 12:45-1:45pm; BPB atrium
 {:.persontable}
