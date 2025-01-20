@@ -5,106 +5,32 @@ permalink: /literature-cited/
 ---
 The papers and books listed on this page have been mentioned in lecture and the information is provided here so that you can look up figures shown in lecture and read about the studies in depth. _You are, however, **not expected** to read these papers!_ You **are expected** to understand the aspects of these studies presented in lecture.
 
-**Andersson 1982.** [Female choice selects for extreme tail length in a widowbird.](https://doi.org/10.1038/299818a0) Nature 299:818-820.
-
-**Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
-
-**Barrett et al. 2008.** [Natural selection on a major armor gene in threespine stickleback.](https://doi.org/10.1126/science.1159978) Science 322:255-257.
-
-**Bell et al. 2003.** [Twelve years of contemporary armor evolution in a threespine stickleback population.](https://doi.org/10.1111/j.0014-3820.2004.tb00414.x) Evolution 58:814–824.
-
-**Blakeslee 1914.** [Corn and men: the interacting influence of heredity and environment—movements for betterment of men, or corn, or any other living thing, one-sided unless they take both factors into account.](≈) Journal of Heredity 5:511-518. 
-
-**Boag and Grant 1981.** [Intense natural selection in a population of Darwin's finches (Geospizinae) in the Galapagos](https://doi.org/10.1126/science.214.4516.82) Science 214:82-85.
-
-**Bonin et al. 2006.** [Explorative genome scan to detect candidate loci for adaptation along a gradient of altitude in the common frog (_Rana temporaria_).](https://doi.org/10.1093/molbev/msj087) Molecular Biology and Evolution 23:773-783.
-
-**Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
-
-**Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
-
-**Cook 2003.** [The rise and fall of the _carbonaria_ form of the peppered moth.](https://doi.org/10.1086/378925) Quarterly Review of Biology 78:399-417.
-
-**Darwin 1859.** [On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life.](http://darwin-online.org.uk/converted/pdf/1859_Origin_F373.pdf) John Murray, London.
-
-**Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.
-
 **Falco&#769;n et al. 2010.** [Dating the cyanobacterial ancestor of the chloroplast.](https://doi.org/10.1038/ismej.2010.2) ISME Journal 4:777-783.
 
 **Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm.](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
 
-**Farris 1974.** [Formal definitions of paraphyly and polyphyly](https://doi.org/10.2307/2412474) Systematic Zoology 23: 548-554.
-
 **Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 20:237–241.
 
-**Futuyma and Kirkpatrick. 2017.** [Evolution](https://www.amazon.com/Evolution-Douglas-J-Futuyma/dp/1605356050) 4th ed. Sinauer Associates (Oxford University Press). 594 pp.
-
-**Gogarten et al. 1989.** [Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes.](https://doi.org/10.1073/pnas.86.17.6661) PNAS 86:6661-6665.
-
-**Grant and Grant 1995.** [Predicting microevolutionary responses to directional selection on heritable variation.](https://doi.org/10.1111/j.1558-5646.1995.tb02236.x) Evolution 49:241-251.
-
-**Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
-
-**Hamilton 1964a.** [The genetical evolution of social behaviour. I.](https://doi.org/10.1016/0022-5193(64)90038-4) Journal of Theoretical Biology 7:1-16.
-
-**Hamilton 1964b.** [The genetical evolution of social behaviour. II.](https://doi.org/10.1016/0022-5193(64)90039-6) Journal of Theoretical Biology 7:17-52.
-
-**Hammerschmidt et al. 2014.** [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) Nature 515:75-79.
-
-**Hardy 1908.** Mendelian proportions in a mixed population. Science 28:49-50.
-
-**Holden and Bond 1960.** [Studies on the breeding system of the field bean, _Vicia faba_ L.: 1. natural cross breeding in _V. faba_.](http://dx.doi.org/10.1038/hdy.1960.74) Heredity 15:175-192.
-
 **Kang et al. 2011.** [Shared ancestry between a newfound mole-borne hantavirus and hantaviruses harbored by cricetid rodents.](https://doi.org/10.1128/JVI.02450-10) J. Virol. 85:7496-7503.
-
-**Krakauer 2005.** [Kin selection and cooperative courtship in wild turkeys](https://doi.org/10.1038/nature03325) Nature 434:69-72.
 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
 
 **Lin and Liu 2007.** [Genetic algorithms for portfolio selection problems with minimum transaction lots.](https://doi.org/10.1016/j.ejor.2006.12.024) European Journal of Operational Research 185:393-404.
 
-**Lürling 2003.** [Phenotypic plasticity in the green algae _Desmodesmus_ and _Scenedesmus_ with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
-
-**Mead et al. 2008.** [Genetic susceptibility, evolution and the kuru epidemic.](https://doi.org/10.1098/rstb.2008.0087) Philosophical Transactions of the Royal Society B 363:3741-3746.
-
 **Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-1662.
 
-**Nosil 2009.** [Adaptive population divergence in cryptic color-pattern following a reduction in gene flow.](https://doi.org/10.1111/j.1558-5646.2009.00671.x) Evolution 63:1902-1912.
-
-**Piel et al. 2010.** [Global distribution of the sickle cell gene and geographical confirmation of the malaria hypothesis](https://doi.org/10.1038/ncomms1104) Nature Communications 1:104
-
-**Price 1972.** [Extension of covariance selection mathematics.](http:/doi.org/10.1111/j.1469-1809.1957.tb01874.x) Annals of Human Genetics 35: 485-490.
+**Rivera et al. 2020.** [Toughening mechanisms of the elytra of the diabolical ironclad beetle.](https://doi.org/10.1038/s41586-020-2813-8) Nature 586, 543–548.
 
 **Sagan 1967.** [On the origin of mitosing cells.](https://doi.org/10.1016/0022-5193(67)90079-3) J. Theoretical Biol. 14:225-274.
 
-**Savolainen et al. 2013.** [Ecological genomics of local adaptation.](https://doi.org/10.1038/nrg3522) Nature Reviews Genetics 14:807-820.
-
-**Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
-
-**Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch _Pyrenestes_.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
-
-**Storz 2005.** [Using genome scans of DNA polymorphism to infer adaptive population divergence.](https://doi.org/10.1111/j.1365-294X.2005.02437.x) Molecular Ecology 14:671-688.
-
-**van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
-
-**Vargas and Zardoya 2014.** The tree of life. Sinaur Associates, Sunderland, Massachusetts. P. Vargas and R Zarkoya, eds. 713 pp.
-
-**Wade 1977.** [An experimental study of group selection.](https://www.jstor.org/stable/2407552) Evolution 31:134-153.
-
-**Weinberg 1908.** Ueber den nachweis der vererbung beim menschen. Jahresheftgedes Vereins für Vaterländische Naturkunde in Württemburg 64:368-382. English translation in Boyer, S. H 1963. Papers on Human Genetics. Englewood Cliffs, NJ. Prentice Hall.
-
-**Weis and Abrahamson 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the _Solidago_-_Eurosta_ system](https://doi.org/10.1086/284513) American Naturalist 127:681-695.
-
 **Yates et al. 2002.** [The ecology and evolutionary history of an emergent disease: hantavirus pulmonary syndrome.](https://academic.oup.com/bioscience/article/52/11/989/285924) BioScience 52:989-998.
-
-**Yi et al. 2010.** Sequencing of 50 human exomes reveals adaptation to high altitudee. Science 329:75-78.
 
 **Zwickl 2006.** [Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion.](https://repositories.lib.utexas.edu/handle/2152/2666) Ph.D. dissertation, The University of Texas at Austin.
 
 {% comment %}
-These used in 2021
+Papers cited previously
 
 **Andersson 1982.** [Female choice selects for extreme tail length in a widowbird.](https://doi.org/10.1038/299818a0) Nature 299:818-820.
 
