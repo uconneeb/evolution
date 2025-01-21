@@ -8,6 +8,7 @@ permalink: /applets/
 
 Random mutation and natural selection have already found a good solution to this ball packing problem. Can you find a better solution? Your goal is to drop balls into the pit in an order that maximizes the fraction of the pit area occupied by balls. After you play, the app will tell you how well you did compared to the best solution found by 50 generations of natural selection in a population of 50 haploid individuals.
 
+{% comment %}
 ## [Peppered Moth in the 1800s]({{ "applets/biston-early/" | relative_url }})
 
 This applet lets you explore the effect of assuming different values for the selection coefficient in Haldane's (1924) model for the decline of the light-colored form of the peppered moth (_Biston betularia_) in Britain at the height of the industrial revolution.
@@ -31,8 +32,6 @@ This applet shows that the effect of genetic drift in small subpopulations is ra
 ## [Coalescence]({{ "applets/coalescence/" | relative_url }})
 
 This applet simulates random mating for up to 40 generations in a population comprising 5, 10, or 15 diploid individuals. A gene tree for a sample of 5 genes is traced. Play with this app to convince yourself that the MRCA of the 5 sampled genes tends to be deeper if Ne is larger.
-
-{% comment %}
 
 ## [Genetic Drift]({{ "applets/drift/" | relative_url }})
 
