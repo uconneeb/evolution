@@ -13,6 +13,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm.](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
 
+**Farris 1974.** [Formal definitions of paraphyly and polyphyly.](https://www.jstor.org/stable/2412474) Systematic Zoology 23:548-554.
+
 **Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 20:237–241.
 
 **Haeckel 1879.** [The Evolution of Man](https://www.gutenberg.org/cache/epub/8700/pg8700-images.html) Watts & Co., London.
