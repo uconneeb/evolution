@@ -25,6 +25,5 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
 
     10.1038/s41563-020-0798-1
     10.1038/s41586-020-2813-8
-    10.48550/arXiv.2310.18299
     
 {% endcomment %}
