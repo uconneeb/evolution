@@ -7,6 +7,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
 
+**Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
+
 **Darwin 1859.** [On the Origin of Species by Means of Natural Selection](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) John Murray, London.
 
 **Falco&#769;n et al. 2010.** [Dating the cyanobacterial ancestor of the chloroplast.](https://doi.org/10.1038/ismej.2010.2) ISME Journal 4:777-783.
@@ -16,6 +18,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Farris 1974.** [Formal definitions of paraphyly and polyphyly.](https://www.jstor.org/stable/2412474) Systematic Zoology 23:548-554.
 
 **Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 20:237–241.
+
+**Gogarten et al. 1989.** [Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes.](https://doi.org/10.1073/pnas.86.17.6661) PNAS 86:6661-6665.
 
 **Haeckel 1879.** [The Evolution of Man](https://www.gutenberg.org/cache/epub/8700/pg8700-images.html) Watts & Co., London.
 
@@ -69,8 +73,6 @@ Papers cited previously
 **Carson. 1955.** The edge of the sea. Mariner Books, reprint edition. (Oct. 15, 1998). 304 pages. [Preview on Amazon.com](https://read.amazon.com/kp/embed?asin=B004IPPW6K&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Pd7VCbZWMMCRY) 
 
 **Ceballos et al. 2015.** [Accelerated modern human-induced species losses: entering the sixth mass extinction.](https://doi.org/10.1126/sciadv.1400253) Science Advances 1:e1400253. 
-
-**Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
 **Condemi and Savatier. 2019.** [A pocket history of human evolution: How we became sapiens.](https://www.workman.com/products/a-pocket-history-of-human-evolution) The Experiment. 153 pp.
 

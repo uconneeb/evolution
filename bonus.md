@@ -4,9 +4,6 @@ title: Bonus
 permalink: /bonus/
 ---
 
-Details coming soon...
-
-{% comment %}
 ## Biologically-inspired design
 
 This bonus exercise is worth up to 5 points. You must complete it by 11:59pm Friday February 28 to get credit. Although it is set up as a "test" in HuskyCT, that is only to make it easier for us to grade it and to centralize everything in HuskyCT; there is no penalty for skipping this.
@@ -26,4 +23,3 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
     10.1038/s41563-020-0798-1
     10.1038/s41586-020-2813-8
     
-{% endcomment %}
