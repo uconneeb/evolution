@@ -25,3 +25,7 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
     10.1088/1748-3190/10/4/046003
     10.1021/acs.nanolett.5b05183
     10.1098/rsif.2014.0675
+    10.1088/1748-3190/ad5c25
+    10.1242/jeb.063040
+    10.1098/rsif.2017.0828
+    
