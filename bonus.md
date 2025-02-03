@@ -37,6 +37,7 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
     10.1021/acs.nanolett.7b03734.
     10.1021/acsami.4c17004
     10.1038/nature10447
+    10.1111/joim.12982
 
 
 
