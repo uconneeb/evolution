@@ -40,6 +40,7 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
     10.1111/joim.12982
     10.1186/s40712-017-0085-3
     10.1126/scirobotics.aao5619
+    10.1021/la204040p
 
 
 
