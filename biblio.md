@@ -7,9 +7,15 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
 
+**Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
+
+**Boag and Grant. 1981.** [Intense natural selection in a population of Darwin's Finches (Geospizinae) in the Galápagos.](https://www.science.org/doi/abs/10.1126/science.214.4516.82) Science 214:82-85.
+
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
 **Darwin 1859.** [On the Origin of Species by Means of Natural Selection](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) John Murray, London.
+
+**Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.
 
 **Falco&#769;n et al. 2010.** [Dating the cyanobacterial ancestor of the chloroplast.](https://doi.org/10.1038/ismej.2010.2) ISME Journal 4:777-783.
 
@@ -21,6 +27,10 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Gogarten et al. 1989.** [Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes.](https://doi.org/10.1073/pnas.86.17.6661) PNAS 86:6661-6665.
 
+**Grant and Grant. 1995.** [Predicting microevolutionary responses to directional selection on heritable variation.](https://doi.org/10.1111/j.1558-5646.1995.tb02236.x) Evolution 49:241-251. 
+
+**Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
+
 **Haeckel 1879.** [The Evolution of Man](https://www.gutenberg.org/cache/epub/8700/pg8700-images.html) Watts & Co., London.
 
 **Kang et al. 2011.** [Shared ancestry between a newfound mole-borne hantavirus and hantaviruses harbored by cricetid rodents.](https://doi.org/10.1128/JVI.02450-10) J. Virol. 85:7496-7503.
@@ -29,6 +39,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Lin and Liu 2007.** [Genetic algorithms for portfolio selection problems with minimum transaction lots.](https://doi.org/10.1016/j.ejor.2006.12.024) European Journal of Operational Research 185:393-404.
 
+**Lürling 2003.** [Phenotypic plasticity in the green algae Desmodesmus and Scenedesmus with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
+
 **Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-1662.
@@ -36,6 +48,13 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Rivera et al. 2020.** [Toughening mechanisms of the elytra of the diabolical ironclad beetle.](https://doi.org/10.1038/s41586-020-2813-8) Nature 586, 543–548.
 
 **Sagan 1967.** [On the origin of mitosing cells.](https://doi.org/10.1016/0022-5193(67)90079-3) J. Theoretical Biol. 14:225-274.
+
+**Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
+
+**Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
+
+**Weis and Abrahamson. 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the
+_Solidago-Eurosta_ system](https://doi.org/10.1086/284513) The American Naturalist 127:681-695.
 
 **Yates et al. 2002.** [The ecology and evolutionary history of an emergent disease: hantavirus pulmonary syndrome.](https://academic.oup.com/bioscience/article/52/11/989/285924) BioScience 52:989-998.
 
@@ -47,8 +66,6 @@ Papers cited previously
 **Andersson 1982.** [Female choice selects for extreme tail length in a widowbird.](https://doi.org/10.1038/299818a0) Nature 299:818-820.
 
 **Avise 2000.** [Phylogeography: the history and formation of species.](https://www.hup.harvard.edu/catalog.php?isbn=9780674666382) Harvard University Press, Cambridge, MA.
-
-**Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
 
 **Barker et al. 2007.** [Molecular dating of ‘Gondwanian plant family Proteaceae is only partially congruent with the timing of the break-up of Gondwana.](https://doi.org/10.1111/j.1365-2699.2007.01749.x) Journal of Biogeography 34:2012–2027.
 
@@ -80,8 +97,6 @@ Papers cited previously
 
 **Dain et al. 2006.** [Discover Biology.](https://www.amazon.com/Discover-Biology-Third-Michael-Cain/dp/0393925390) 3rd Ed. Norton & Co. 740 pp.
 
-**Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.
-
 **Delwiche. 1999.** [Tracing the thread of plastid diversity through the tapestry of life.](https://doi.org/10.1086/303291) American Naturalist. 154:164–5177.
 
 **Engel 2015.** [Insect Evolution.](https://doi.org/10.1016/j.cub.2015.07.059) Current Biology. 25:R868-R872.
@@ -97,8 +112,6 @@ Papers cited previously
 **Giribet and Edgecomb. 2020.** [The Invertebrate Tree of Life. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691170251/the-invertebrate-tree-of-life) 589 pp.
 
 **Goudemand et al. 2011.** [Synchrotron-aided reconstruction of the conodont feeding apparatus and implications for the mouth of the first vertebrates.](https://doi.org/10.1073/pnas.1101754108) Proceedings of the National Academy of Science USA 108:8720–8724.
-
-**Grant and Grant 2006.** [Evolution of character displacement in Darwin’s Finches](https://doi.org/10.1126/science.1128374) Science 313:224-226.
 
 **Green et al. 2010.** [A draft sequence of the Neandertal genome.](https://doi.org/10.1126/science.1188021) Science 328:710–712.
 
@@ -138,8 +151,6 @@ Papers cited previously
 
 **Lowrey and Crawford 1985.** [Allozyme divergence and evolution in _Tetramalopium_ (Compositae: Asteraceae) on the Hawaiian Islands](https://doi.org/10.2307/2418435) Systematic Botany 10:64-72.
 
-**Lürling 2003.** [Phenotypic plasticity in the green algae Desmodesmus and Scenedesmus with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
-
 **MacPhee. 2019.** [End of the megafauna: the fate of the world's hugest, fiercest, and strangest animals.](https://www.amazon.com/End-Megafauna-Fiercest-Strangest-Animals/dp/0393249298). Norton and Co. 256 pp.
 
 **Maloof et al. 2010.** [Possible animal-body fossils in pre-Marinoan limestones from Australia.](https://doi.org/10.1038/ngeo934) Nature geoscience. 3: 653–659.
@@ -176,15 +187,11 @@ Papers cited previously
 
 **Shen et al. 2019.** [Mercury evidence of intense volcanic effects on land during the Permian-Triassic transition.](https://doi.org/10.1130/G46679.1) Geology 47:1117–1121.
 
-**Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
-
 **Slon et al. 2018.** [The genome of the offspring of a Neanderthal mother and a Denisovan father.](https://doi.org/10.1038/s41586-018-0455-x) Nature 561:113–116.
 
 **Schmieder and Kring 2020.** [Earth's impact events through geologic time: a list of recommended ages for terrestrial impact structures and deposits.](https://doi.org/10.1089/ast.2019.2085) Astrobiology 20:91-141.
 
 **Schweizer and Liu 2018.** [Avian diversity and distributions and their evolution through space and time.](https://doi.org/10.1007/978-3-319-91689-7_8) In Tietze D. (ed). Bird species. Fascinating Life Sciences. Zoological Monographs 129–145. Springer.
-
-**Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
 **Soltis 1984.** [Autopolyploidy in _Tolmiea menziesii_ (Saxifragaceae).](https://www.jstor.org/stable/2443640) American Journal of Botany 71:1171-1174.
 
@@ -245,8 +252,6 @@ Below is list of papers that may be useful
 
 **PR Grant. 1986.** Ecology and Evolution of Darwin's Finches. Princeton University Press. (This is a book, but you can download individual chapters as PDF files from [JSTOR](https://www.jstor.org/stable/j.ctt1m3nz91)) _(Plots from this book were used in discussing examples of selection for quantitative traits such as bill depth in Darwin's finches)_
 
-**PR Grant and BR Grant. 1995.** Predicting microevolutionary responses to directional selection on heritable variation. Evolution 49:241-251. [DOI: 10.1111/j.1558-5646.1995.tb02236.x](https://doi.org/10.1111/j.1558-5646.1995.tb02236.x) _(Figure 1 was shown in class to illustrate that the breeder's equation works for natural selection as well as artificial selection.)_
-
 **JBS Haldane. 1924.** A mathematical theory of natural and artificial selection. I. Trans. Cambridge Philos. Soc. 23:19-41. (No DOI available, but it can be downloaded from [the Blackwell Publisher website](http://www.blackwellpublishing.com/ridley/classictexts/haldane1.pdf)) _(This paper represents the first time anyone estimated a selection coefficient for the case of peppered moths in the 1800s. See p. 26 but note that peppered moths were in the genus _Amphidasys_ rather than _Biston_ at that time.)_
 
 {% include examfour.html %} **E Lane. 1994.** Florida's geological history and water resources. Special publication no. 35. Florida Geological Survey. [link to PDF](https://s3.amazonaws.com/defendersofcrookedlake/documents/FloridaGeologicalHistory.pdf) _(Used figure 16 of Pleisocene shoreline of Florida on p. 22 in handout April 25. See also Carson 1955.)_
@@ -272,6 +277,9 @@ Below is list of papers that may be useful
 **AE van't Hof, P Campagne, DJ Rigden, CJ Yung, J Lingley, MA Quail, N Hall, AC Darby, and IJ Saccheri. 2016.** The industrial melanism mutation in British peppered moths is a transposable element. Nature 534:102-107. [DOI: 10.1038/nature17951](https://doi.org/10.1038/nature17951) _(This paper describes the genetic basis of the dark (melanic) form of the peppered moth. It was mentioned after Dr. McClintock's visit because the mutation results from a transposable element.)_
 
 **J Wang, J Ding, T Biyue, KM Robinson, IH Michelson, A Johannson, B Nystedt, DG Scofield, O Nilsson, S Jansson, NR Street, and PK Ingvarsson. 2018.** A major locus controls local adaptation and adaptive life history variation in a perennial plant. _Genome Biology_ 19:72. [DOI: 10.1186/s13059-018-1444-y](https://doi.org/10.1186/s13059-018-1444-y) _(Figure 3 of this paper provided a couple of figures used in lecture when describing the selective sweep of the early-bud-formation-mutation in population of aspen in northern Sweden.)_
+
+**AE Weis and WG Abrahamson. 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the
+_Solidago-Eurosta_ system](https://doi.org/10.1086/284513) The American Naturalist 127:681-695.
 
 **Zuntz 1965.** An inquiry into the transmission of the plays of Euripides. Cambridge University Press. 295 pp.
 
