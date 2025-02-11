@@ -11,11 +11,13 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Boag and Grant. 1981.** [Intense natural selection in a population of Darwin's Finches (Geospizinae) in the Galápagos.](https://www.science.org/doi/abs/10.1126/science.214.4516.82) Science 214:82-85.
 
+**Boag 1983.** [The heritability of external morphology in Darwin's Ground Finches (Geospiza) on Isla Daphne Major, Galápagos.](https://doi.org/10.2307/2408404) Evolution 37:877-894.
+
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
 **Darwin 1859.** [On the Origin of Species by Means of Natural Selection](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) John Murray, London.
 
-**Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London.
+**Darwin 1889.** [Journal of researches in the the natural history and geology of the countries visited during the voyage of the H.M.S. Beagle around the world.](https://www.google.com/books/edition/_/x0sXAAAAYAAJ?hl=en) Ward, Lock and Co., London. (published posthumously, actually written by Darwin in 1845)
 
 **Falco&#769;n et al. 2010.** [Dating the cyanobacterial ancestor of the chloroplast.](https://doi.org/10.1038/ismej.2010.2) ISME Journal 4:777-783.
 
@@ -24,6 +26,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Farris 1974.** [Formal definitions of paraphyly and polyphyly.](https://www.jstor.org/stable/2412474) Systematic Zoology 23:548-554.
 
 **Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 20:237–241.
+
+**Futuyma and Kirkpatrick. 2017.** [Evolution](https://www.amazon.com/Evolution-Douglas-J-Futuyma/dp/1605356050) 4th ed. Sinauer Associates (Oxford University Press). 594 pp.
 
 **Gogarten et al. 1989.** [Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes.](https://doi.org/10.1073/pnas.86.17.6661) PNAS 86:6661-6665.
 
@@ -106,8 +110,6 @@ Papers cited previously
 **Fantinutto et al. 2005.** [Flight control system design and optimisation with a genetic algorithm.](https://doi.org/10.1016/j.ast.2004.09.003) Aerospace Science and Technology 9:73-80.
 
 **Fernandes et al. 2020.** [Mechanically robust lattices inspired by deep-sea glass sponges.](https://doi.org/10.1038/s41563-020-0798-1) Nature Materials 
-
-**Futuyma and Kirkpatrick. 2017.** [Evolution](https://www.amazon.com/Evolution-Douglas-J-Futuyma/dp/1605356050) 4th ed. Sinauer Associates (Oxford University Press). 594 pp.
 
 **Giribet and Edgecomb. 2020.** [The Invertebrate Tree of Life. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691170251/the-invertebrate-tree-of-life) 589 pp.
 
