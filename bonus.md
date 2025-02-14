@@ -63,26 +63,7 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
     10.1038/ncomms9011
     10.1002/cben.201500011
     10.1098/rsta.2018.0268
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+    10.1073/pnas.1116564108
+    10.1093/icb/icac097
+    10.1002/adma.201605050
+    
