@@ -7,13 +7,21 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Cameron 1987.** The upside-down cladogram: problems in manuscript affiliation. Chapter 12, pp. 227-242, in Hoenigswald, H. M., and L. F. Wiener (eds.), Biological metaphor and cladistic classification: an interdisciplinary approach. University of Pennsylvania, Philadelphia.
 
+**Barrett et al. 2008.** [Natural selection on a major armor gene in threespine stickleback.](https://doi.org/10.1126/science.1159978) Science 322:255-257.
+
 **Baum & Smith 2013.** Tree thinking: an introduction to phylogenetic biology. Roberts and Company Publishers, Greenwood Village, Colorado. (ISBN-13: 978-1936221165, ISBN-10: 1936221160)
+
+**Bell et al. 2004.** [Twelve years of contemporary armor evolution in a threespine stickleback population.](https://doi.org/10.1111/j.0014-3820.2004.tb00414.x) Evolution 58:814–824.
+
+**Blakeslee 1914** [Corn and men.](https://doi.org/10.1093/oxfordjournals.jhered.a107785) J. Heredity 5:511-518.
 
 **Boag and Grant. 1981.** [Intense natural selection in a population of Darwin's Finches (Geospizinae) in the Galápagos.](https://www.science.org/doi/abs/10.1126/science.214.4516.82) Science 214:82-85.
 
 **Boag 1983.** [The heritability of external morphology in Darwin's Ground Finches (Geospiza) on Isla Daphne Major, Galápagos.](https://doi.org/10.2307/2408404) Evolution 37:877-894.
 
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
+
+**Cook 2003** [The rise and fall of the carbonaria form of the peppered moth](https://doi.org/10.1086/378925) Quarterly Review of Biology 78:399-417.
 
 **Darwin 1859.** [On the Origin of Species by Means of Natural Selection](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) John Murray, London.
 
@@ -49,13 +57,19 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-1662.
 
+**Piel et al. 2010.** [Global distribution of the sickle cell gene and geographical confirmation of the malaria hypothesis](https://doi.org/10.1038/ncomms1104) Nature Communications 1:104.
+
 **Rivera et al. 2020.** [Toughening mechanisms of the elytra of the diabolical ironclad beetle.](https://doi.org/10.1038/s41586-020-2813-8) Nature 586, 543–548.
 
 **Sagan 1967.** [On the origin of mitosing cells.](https://doi.org/10.1016/0022-5193(67)90079-3) J. Theoretical Biol. 14:225-274.
 
+**Savolainen et al. 2013.** [Ecological genomics of local adaptation.](https://doi.org/10.1038/nrg3522) Nature Reviews Genetics 14:807-820.
+
 **Simpson et al. 2011.** [Polyphenism in insects.](http://doi.org/10.1016/j.cub.2011.06.006) Current Biology 21:R738-R749.
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
+
+**van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
 
 **Weis and Abrahamson. 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the
 _Solidago-Eurosta_ system](https://doi.org/10.1086/284513) The American Naturalist 127:681-695.
@@ -74,8 +88,6 @@ Papers cited previously
 **Barker et al. 2007.** [Molecular dating of ‘Gondwanian plant family Proteaceae is only partially congruent with the timing of the break-up of Gondwana.](https://doi.org/10.1111/j.1365-2699.2007.01749.x) Journal of Biogeography 34:2012–2027.
 
 **Baym et al. 2016.** [Spatiotemporal microbial evolution on antibiotic landscapes.](https://doi.org/10.1126/science.aag0822) Science 6304:1147-1151. [YouTube video](https://youtu.be/yybsSqcB7mE)
-
-**Bell et al. 2003.** [Twelve years of contemporary armor evolution in a threespine stickleback population.](https://doi.org/10.1111/j.0014-3820.2004.tb00414.x) Evolution 58:814–824.
 
 **Bernardi et al. 2008.** [Molecular ecology, speciation, and evolution of the reef fish genus _Anisotremus_](https://doi.org/10.1016/j.ympev.2008.05.011) Molecular Phylogenetics and Evolution 48:929-935.
 
@@ -208,8 +220,6 @@ Papers cited previously
 **Tang et al. 2020.** [A one-billion-year-old multicellular chlorophyte.](https://doi.org/10.1038/s41559-020-1122-9) Nature Ecology & Evolution 4: 543–549.
 
 **Thomson et al. 2021.** [A global phylogeny of turtles reveals a burst of climate-associated diversification on continental margins.](https://doi.org/10.1073/pnas.2012215118) Proceedings of the National Academy of Science USA 118:e2012215118.
-
-**van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
 
 **Vernot et al. 2016.** [Excavating Neanderthal and Denisovan DNA from the genomes of Melanesian individuals.](https://doi.org/10.1126/science.aad9416) Science 352:235–239.
 
