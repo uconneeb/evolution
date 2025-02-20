@@ -20,10 +20,10 @@ Lecture |      Date     |                           Topic
 6       | Th Feb.  6    | snow day - no class
 7       | Tu Feb. 11    | Quantitative trait evolution (examples)                                      
         | Th Feb. 13    | **EXAM 1**  (covers Lectures 1-5 and 7)                                     
-8       | Tu Feb. 18    | Selection at a single locus, modeling evolution
-9       | Th Feb. 20    | Molecular evolution; sexual selection                                        
-10      | Tu Feb. 25    | Advantages of sex, multilevel selection
-11      | Th Feb. 27    | Inclusive fitness, Hardy-Weinberg equilibrium ([bonus!]({{ "/bonus/" | relative_url }}))
+8       | Tu Feb. 18    | Selection at a single locus
+9       | Th Feb. 20    | Modeling evolution; molecular evolution
+10      | Tu Feb. 25    | Sexual selection; multilevel selection
+11      | Th Feb. 27    | Inclusive fitness, Hardy-Weinberg equilibrium 
 12      | Tu Mar.  4    | Genetic drift and population structure                                                                                                      
 13      | Th Mar.  6    | Bottlenecks, founder effect, shifting balance, reproductive isolation                                                                      
         | Tu Mar. 11    | **EXAM 2** (covers Lectures 8-12)                                     
