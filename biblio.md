@@ -47,13 +47,21 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Haeckel 1879.** [The Evolution of Man](https://www.gutenberg.org/cache/epub/8700/pg8700-images.html) Watts & Co., London.
 
+**Hammerschmidt et al. 2014.** [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) Nature 515:75-79.
+
+**Holden and Bond 1960.** [Studies on the breeding system of the field bean, _Vicia faba_ L.: 1. natural cross breeding in _V. faba_.](http://dx.doi.org/10.1038/hdy.1960.74) Heredity 15:175-192.
+
 **Kang et al. 2011.** [Shared ancestry between a newfound mole-borne hantavirus and hantaviruses harbored by cricetid rodents.](https://doi.org/10.1128/JVI.02450-10) J. Virol. 85:7496-7503.
+
+**Krakauer 2005.** [Kin selection and cooperative courtship in wild turkeys](https://doi.org/10.1038/nature03325) Nature 434:69-72.
 
 **Lewis 1998.** [A genetic algorithm for maximum likelihood phylogeny inference using nucleotide sequence data.](https://doi.org/10.1093/oxfordjournals.molbev.a025924) Molecular Biology and Evolution 15:277-283.
 
 **Lin and Liu 2007.** [Genetic algorithms for portfolio selection problems with minimum transaction lots.](https://doi.org/10.1016/j.ejor.2006.12.024) European Journal of Operational Research 185:393-404.
 
 **Lürling 2003.** [Phenotypic plasticity in the green algae Desmodesmus and Scenedesmus with special reference to the induction of defensive morphology](https://doi.org/10.1051/limn/2003014) Annals of Limnology - International Journal of Limnology 39:85-101.
+
+**Mead et al. 2008.** [Genetic susceptibility, evolution and the kuru epidemic.](https://doi.org/10.1098/rstb.2008.0087) Philosophical Transactions of the Royal Society B 363:3741-3746.
 
 **Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
 
@@ -72,6 +80,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
 **van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
+
+**Wade 1977.** [An experimental study of group selection.](https://www.jstor.org/stable/2407552) Evolution 31:134-153.
 
 **Weis and Abrahamson. 1986.** [Evolution of host-plant manipulation by gall makers: ecological and genetic factors in the
 _Solidago-Eurosta_ system](https://doi.org/10.1086/284513) The American Naturalist 127:681-695.
@@ -131,13 +141,9 @@ Papers cited previously
 
 **Hall & Harvey 2002.** [The phylogeography of Amazonia revisited: new evidence from riodinid butterflies.](https://doi.org/10.1111/j.0014-3820.2002.tb01460.x) Evolution 56:1489-1497.
 
-**Hammerschmidt et al. 2014.** [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) Nature 515:75-79.
-
 **Hazzi et al. 2018.** [Biogeographic regions and events of isolation and diversification of the endemic biota of the Tropical Andes.](https://doi.org/10.1073/pnas.1803908115) Proceedings of the National Academy of Sciences USA 115:7985-7990.
 
 **Hill et al. 2005.** [Genetic algorithm for large-scale maximum parsimony phylogenetic analysis of proteins.](https://doi.org/10.1016/j.bbagen.2005.04.027) Biochimica et Biophysica Acta (BBA) - General Subjects. 
-
-**Holden and Bond 1960.** [Studies on the breeding system of the field bean, _Vicia faba_ L.: 1. natural cross breeding in _V. faba_.](http://dx.doi.org/10.1038/hdy.1960.74) Heredity 15:175-192.
 
 **Hong Tao et al. 2019.** [Origin of angiosperms and the puzzle of the Jurassic gap.](https://doi.org/10.1038/s41477-019-0421-0) Nature Plants 5:461–470. Note: First author's surname is actually Li.]
 
@@ -146,8 +152,6 @@ Papers cited previously
 **Jarvis et al. 2021.** [Whole-genome analyses resolve early branches in the tree of life of modern birds.](https://doi.org/10.1126/science.1253451) Science 346:1320–1332.
 
 **Kodama and Fujishima 2010.** [Secondary symbiosis between _Paramecium_ and _Chlorella_ cells.](https://www.sciencedirect.com/topics/medicine-and-dentistry/endosymbiosis) Chapter 2, pp. 33-72, in KW Jeon (ed.). International Review of Cell and Molecular Biology 1st ed., vol. 279. DOI:10.1016/S1937-6448(10)79002-X.
-
-**Krakauer 2005.** [Kin selection and cooperative courtship in wild turkeys](https://doi.org/10.1038/nature03325) Nature 434:69-72.
 
 **Lane 1994.** Florida's geological history and water resources. Special publication no. 35. Florida Geological Survey. [link to PDF](https://s3.amazonaws.com/defendersofcrookedlake/documents/FloridaGeologicalHistory.pdf)
 
@@ -170,8 +174,6 @@ Papers cited previously
 **Maloof et al. 2010.** [Possible animal-body fossils in pre-Marinoan limestones from Australia.](https://doi.org/10.1038/ngeo934) Nature geoscience. 3: 653–659.
 
 **Mayr 1942.** Systematics and the origin of species. Columbia University Press, New York.
-
-**Mead et al. 2008.** [Genetic susceptibility, evolution and the kuru epidemic.](https://doi.org/10.1098/rstb.2008.0087) Philosophical Transactions of the Royal Society B 363:3741-3746.
 
 **Meyer et al. 2012.** [A high-coverage genome sequence from an archaic Denisovan individual.](https://doi.org/10.1126/science.1224344) Science 338:222–226.
 
@@ -222,8 +224,6 @@ Papers cited previously
 **Thomson et al. 2021.** [A global phylogeny of turtles reveals a burst of climate-associated diversification on continental margins.](https://doi.org/10.1073/pnas.2012215118) Proceedings of the National Academy of Science USA 118:e2012215118.
 
 **Vernot et al. 2016.** [Excavating Neanderthal and Denisovan DNA from the genomes of Melanesian individuals.](https://doi.org/10.1126/science.aad9416) Science 352:235–239.
-
-**Wade 1977.** [An experimental study of group selection.](https://www.jstor.org/stable/2407552) Evolution 31:134-153.
 
 **Wicander and Monroe. 2016** [Historical Geology: Evolution of Earth & Life Through Time.](https://www.cengage.com/c/historical-geology-8e-wicander/9781305119567PF/) Cengage Learning. Boston. 434 pp.
 
