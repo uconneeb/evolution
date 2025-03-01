@@ -88,6 +88,7 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
     10.1098/rsta.2009.0011
     10.1364/OPTICA.4.001263
     10.3390/biomimetics7030123
+    10.1089/soro.2022.0027
 
 
 
