@@ -93,6 +93,8 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
     10.1021/nl060644q
     10.2166/wst.2020.238
     10.1088/1755-1315/1111/1/012057
+    10.1109/ACCESS.2019.2939491
+    
 
 
 
