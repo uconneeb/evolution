@@ -21,6 +21,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Boag 1983.** [The heritability of external morphology in Darwin's Ground Finches (Geospiza) on Isla Daphne Major, Galápagos.](https://doi.org/10.2307/2408404) Evolution 37:877-894.
 
+**Cann et al. 1987.** [Mitochondrial DNA and human evolution.](https://doi.org/10.1038/325031a0) Nature 325:31-36.
+
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
 
 **Cook 2003** [The rise and fall of the carbonaria form of the peppered moth](https://doi.org/10.1086/378925) Quarterly Review of Biology 78:399-417.
@@ -67,6 +69,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-1662.
 
+**Nosil 2009.** [Adaptive population divergence in cryptic color-pattern following a reduction in gene flow.](https://doi.org/10.1111/j.1558-5646.2009.00671.x) Evolution 63:1902-1912.
+
 **Piel et al. 2010.** [Global distribution of the sickle cell gene and geographical confirmation of the malaria hypothesis](https://doi.org/10.1038/ncomms1104) Nature Communications 1:104.
 
 **Rivera et al. 2020.** [Toughening mechanisms of the elytra of the diabolical ironclad beetle.](https://doi.org/10.1038/s41586-020-2813-8) Nature 586, 543–548.
@@ -108,8 +112,6 @@ Papers cited previously
 **Bottjer et al. 2019.** [Comparative taphonomy and phylogenetic signal of phosphatized Weng'an and Kuanchuanpu Biotas.](https://doi.org/10.1016/j.precamres.2019.105408) Precambrian Research 349:1-10.
 
 **Brusatte et al. 2015.** [The extinction of the dinosaurs.](https://doi.org/10.1111/brv.12128) Biological Reviews 90:628-642.
-
-**Cann et al. 1987.** [Mitochondrial DNA and human evolution.](https://doi.org/10.1038/325031a0) Nature 325:31-36.
 
 **Carillo et al. 2020.** [Disproportionate extinction of South American mammals drove the asymmetry of the Great American Biotic Interchange.](https://doi.org/10.1073/pnas.2009397117) Proceedings of the National Academy of Science USA 117:26281-26287.
 
@@ -182,8 +184,6 @@ Papers cited previously
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-􏲪1662.
 
 **Niklas. 2016.** [Plant evolution: An introduction to the history of life.](https://press.uchicago.edu/ucp/books/book/chicago/P/bo24204832.html) University of Chicago Press. 577 pp
-
-**Nosil 2009.** [Adaptive population divergence in cryptic color-pattern following a reduction in gene flow.](https://doi.org/10.1111/j.1558-5646.2009.00671.x) Evolution 63:1902-1912.
 
 **Price 1972.** [Extension of covariance selection mathematics.](http:/doi.org/10.1111/j.1469-1809.1957.tb01874.x) Annals of Human Genetics 35: 485-490.
 

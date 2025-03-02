@@ -16,11 +16,6 @@ This applet lets you explore the effect of assuming different values for the sel
 
 This applet lets you explore the effect of assuming different values for the selection coefficient in a model designed to predict the decline of the melanic (dark) form of the peppered moth (_Biston betularia_) in Britain after the air became clean again in the late 1900s.
 
-{% comment %}
-## [Selective Sweep]({{ "applets/sweep/" | relative_url }})
-
-This applet starts off with a new beneficial mutation in the center of one chromosome in a population of 25 diploid individuals. Red shading denotes chromosome segments that are identical to the chromosome on which the mutation arose. Each generation, crossing over breaks up the red parts, but the new mutation quickly becomes fixed due to its high fitness. A small region around the mutation is also fixed (hitchhiking) and is shown in dark purple once fixation of the selected gene occurs. Refresh your browser to start again.
-
 ## [Genetic Drift]({{ "applets/drift/" | relative_url }})
 
 This applet simulates genetic drift in 5 populations for 500 generations, allowing you to modify the effective population size.
@@ -32,6 +27,11 @@ This applet shows that the effect of genetic drift in small subpopulations is ra
 ## [Coalescence]({{ "applets/coalescence/" | relative_url }})
 
 This applet simulates random mating for up to 40 generations in a population comprising 5, 10, or 15 diploid individuals. A gene tree for a sample of 5 genes is traced. Play with this app to convince yourself that the MRCA of the 5 sampled genes tends to be deeper if Ne is larger.
+
+{% comment %}
+## [Selective Sweep]({{ "applets/sweep/" | relative_url }})
+
+This applet starts off with a new beneficial mutation in the center of one chromosome in a population of 25 diploid individuals. Red shading denotes chromosome segments that are identical to the chromosome on which the mutation arose. Each generation, crossing over breaks up the red parts, but the new mutation quickly becomes fixed due to its high fitness. A small region around the mutation is also fixed (hitchhiking) and is shown in dark purple once fixation of the selected gene occurs. Refresh your browser to start again.
 
 ## [Genetic Drift]({{ "applets/drift/" | relative_url }})
 
