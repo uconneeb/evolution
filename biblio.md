@@ -21,6 +21,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Boag 1983.** [The heritability of external morphology in Darwin's Ground Finches (Geospiza) on Isla Daphne Major, Galápagos.](https://doi.org/10.2307/2408404) Evolution 37:877-894.
 
+**Bonin et al. 2006.** [Explorative genome scan to detect candidate loci for adaptation along a gradient of altitude in the common frog (_Rana temporaria_).](https://doi.org/10.1093/molbev/msj087) Molecular Biology and Evolution 23:773-783.
+
 **Cann et al. 1987.** [Mitochondrial DNA and human evolution.](https://doi.org/10.1038/325031a0) Nature 325:31-36.
 
 **Cody and Overton 1996.** [Short-term evolution of reduced dispersal in island plant populations.](https://doi.org/10.2307/2261699) Journal of Ecology 84:53-61.
@@ -65,6 +67,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Mead et al. 2008.** [Genetic susceptibility, evolution and the kuru epidemic.](https://doi.org/10.1098/rstb.2008.0087) Philosophical Transactions of the Royal Society B 363:3741-3746.
 
+**McKusick 2000** [Ellis-van Creveld syndrome and the Amish](https://doi.org/10.1038/73389) Nature Genetics 24:203-204.
+
 **Moalem et al. 2002.** [Epidemic pathogenic selection: an explanation for hereditary hemochromatosis?](https://doi.org/10.1016/S0306-9877(02)00179-2) Medical Hypotheses 59:325-329.
 
 **Morris et al. 1998.** [Automated docking using a Lamarckian genetic algorithm and an empirical binding free energy function.](https://doi.org/10.1002/(SICI)1096-987X(19981115)19:14%3C1639::AID-JCC10%3E3.0.CO;2-B) Journal of Computational Chemistry 19:1639-1662.
@@ -83,6 +87,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 
 **Smith 1993.** [Disruptive selection and the genetic basis of bill size polymorphism in the African finch Pyrenestes.](https://doi.org/10.1038/363618a0) Nature 363:618–620.
 
+**Storz 2005.** [Using genome scans of DNA polymorphism to infer adaptive population divergence.](https://doi.org/10.1111/j.1365-294X.2005.02437.x) Molecular Ecology 14:671-688.
+
 **van't Hof et al. 2016.** [The industrial melanism mutation in British peppered moths is a transposable element.](https://doi.org/10.1038/nature17951) Nature 534:102–105.
 
 **Wade 1977.** [An experimental study of group selection.](https://www.jstor.org/stable/2407552) Evolution 31:134-153.
@@ -91,6 +97,8 @@ The papers and books listed on this page have been mentioned in lecture and the 
 _Solidago-Eurosta_ system](https://doi.org/10.1086/284513) The American Naturalist 127:681-695.
 
 **Yates et al. 2002.** [The ecology and evolutionary history of an emergent disease: hantavirus pulmonary syndrome.](https://academic.oup.com/bioscience/article/52/11/989/285924) BioScience 52:989-998.
+
+**Yi et al. 2010.** [Sequencing of 50 human exomes reveals adaptation to high altitude](https://doi.org/10.1126/science.1190371) Science 329(5987):75-78.
 
 **Zwickl 2006.** [Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion.](https://repositories.lib.utexas.edu/handle/2152/2666) Ph.D. dissertation, The University of Texas at Austin.
 
@@ -106,8 +114,6 @@ Papers cited previously
 **Bernardi et al. 2008.** [Molecular ecology, speciation, and evolution of the reef fish genus _Anisotremus_](https://doi.org/10.1016/j.ympev.2008.05.011) Molecular Phylogenetics and Evolution 48:929-935.
 
 **Blackburn et al. 2013.** [Zircon U-Pb geochronology links the end-triassic extinction with the Central Atlantic Magmatic Province.](https://doi.org/10.1126/science.1234204) Science 340:941-945.
-
-**Bonin et al. 2006.** [Explorative genome scan to detect candidate loci for adaptation along a gradient of altitude in the common frog (_Rana temporaria_).](https://doi.org/10.1093/molbev/msj087) Molecular Biology and Evolution 23:773-783.
 
 **Bottjer et al. 2019.** [Comparative taphonomy and phylogenetic signal of phosphatized Weng'an and Kuanchuanpu Biotas.](https://doi.org/10.1016/j.precamres.2019.105408) Precambrian Research 349:1-10.
 
@@ -216,8 +222,6 @@ Papers cited previously
 **Spencer & Porter 1997.** [Evolutionary diversification and adaptation to novel environments in _Navarretia_ (Polemoniaceae).](https://www.jstor.org/stable/2419433) Systematic Botany 22:649-668.
 
 **Steiper and Young. 2006.** [Primate molecular divergence dates.](https://doi.org/10.1016/j.ympev.2006.05.021) Molecular phylogenetics and Evolution 41:384–394.
-
-**Storz 2005.** [Using genome scans of DNA polymorphism to infer adaptive population divergence.](https://doi.org/10.1111/j.1365-294X.2005.02437.x) Molecular Ecology 14:671-688.
 
 **Tang et al. 2020.** [A one-billion-year-old multicellular chlorophyte.](https://doi.org/10.1038/s41559-020-1122-9) Nature Ecology & Evolution 4: 543–549.
 

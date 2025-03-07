@@ -26,7 +26,7 @@ Lecture |      Date     |                           Topic
 11      | Th Feb. 27    | Inclusive fitness, Hardy-Weinberg equilibrium 
 12      | Tu Mar.  4    | Genetic drift and population structure                                                                                                      
 13      | Th Mar.  6    | Bottlenecks, founder effect, shifting balance, reproductive isolation                                                                      
-        | Tu Mar. 11    | **EXAM 2** (covers Lectures 8-12)                                     
+        | Tu Mar. 11    | **EXAM 2** (covers Lectures 8-13)                                     
 14      | Th Mar. 13    | Speciation                                                            
         | Tu Mar. 18    | SPRING RECESS                                                         
         | Th Mar. 20    | SPRING RECESS                                                         
