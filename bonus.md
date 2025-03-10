@@ -94,7 +94,19 @@ Below is a list of DOIs that have already been used in lecture or claimed by oth
     10.2166/wst.2020.238
     10.1088/1755-1315/1111/1/012057
     10.1109/ACCESS.2019.2939491
-    
+    10.1016/j.progpolymsci.2009.10.005
+    10.1126/sciadv.adp2809
+    10.1038/s41598-025-90178-x
+    10.1103/PhysRevLett.132.248402
+    10.1002/adma.200903200
+    10.1016/j.snb.2019.03.029
+
+
+
+
+
+
+
 
 
 
