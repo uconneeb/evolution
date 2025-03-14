@@ -42,7 +42,7 @@ Lecture |      Date     |                           Topic
 23      | Th Apr. 24    | Fossils / Cambrian
 24      | Tu Apr. 29    | Human evolution                                                       
 25      | Th May   1    | Human evolution                                                       
-        | **TBA**| **EXAM 4** (covers Lectures 20-25)                                    
+        | Mo May   5    | **EXAM 4** (covers Lectures 20-25) (time: 3:30-5:30 in TLS 154)
 {:#lecturestable}
 
 The **Final Exam** will be held in the same room as the lectures (TLS 154) but **note that it will not be at the usual time**. See the [Final Exam Information](https://registrar.uconn.edu/exams/) page on the Registrar's web site for more details.
