@@ -13,6 +13,12 @@ There are several sources of points that you can earn in this course:
 * **Participation** A total of 40 points will be derived from participating in activities during lecture. Not every lecture will have associated participation points, and the points will come from a variety of activities. There will probably be more than 40 points offered during the semester, but 40 is the maximum you can earn.
 * **Bonus** There will be 2-3 bonus exercises offered during the course for a total of 10 possible bonus points. The bonus points you earn can be used to make up for lost points on exams. 
 
+A sample grade calculation follows: if you received 78, 83, 86, 99 as exam scores, 8 bonus points, and 40 participation points, your overall percentage would be calculated as follows: 
+
+89.5 = 100*(78 + 83 + 86 + 99 + 40 + 8)/(100 + 100 + 100 + 100 + 40)
+
+(Note that the bonus points increase the numerator but do not affect the denominator.) Looking up 89.5 in the grading scale posted below, you would receive a letter grade of B+ for the course because 89.5 is greater than or equal to 87 but less than 90. (Note that 89.5 is **not** rounded to 90.)
+
 {% comment %}
 We have decided to allow the lowest of the four exam grades to be dropped. If you miss an exam for any reason other than a documented illness, that will be the exam you must drop.
 {:.noticethis} 
