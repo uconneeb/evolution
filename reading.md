@@ -123,7 +123,7 @@ You are welcome to read more, however. You might find the section on "Kin Select
 ### Lecture 17 (hybridization, diversification, adaptation)
 * pp. 629-637 (Hybridization)
 * pp. 637-641 (Diversification)
-* pp. ###-### (Adaptation)
+* Beginning of Ch 10 (Adaptation)
 
 {% comment %}
 ### Lecture 17 (Origin of life)
