@@ -114,14 +114,18 @@ You are welcome to read more, however. You might find the section on "Kin Select
 * pp. 609-616 (Species concepts)
 * pp. 616-620 (Beginning of isolation)
 
-### Lecture 15 (Isolation, divergence)
+### Lecture 15 (Isolation)
 * pp. 620-623 (Isolation continued)
+
+### Lecture 16 (divergence)
 * pp. 623-629 (Divergence)
 
-### Lecture 16 (hybridization, diversification)
+### Lecture 17 (hybridization, diversification, adaptation)
 * pp. 629-637 (Hybridization)
 * pp. 637-641 (Diversification)
+* pp. ###-### (Adaptation)
 
+{% comment %}
 ### Lecture 17 (Origin of life)
 * pp. 645-675 (please use the lecture slides to guide your reading)
 
@@ -150,3 +154,5 @@ You are welcome to read more, however. You might find the section on "Kin Select
 
 ### Lecture 25 (Human Evolution)
 * pp. 790-801 (Origin of Homo sapiens, contemporary genetic diversity)
+
+{% endcomment %}
