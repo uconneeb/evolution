@@ -123,10 +123,15 @@ You are welcome to read more, however. You might find the section on "Kin Select
 ### Lecture 17 (hybridization, diversification, adaptation)
 * pp. 629-637 (Hybridization)
 * pp. 637-641 (Diversification)
-* Beginning of Ch 10 (Adaptation)
+* pp. 369-373 (Adaptation)
 
+### Lecture 18 (Studying adaptation)
+* pp. 373-378 
+* pp. 380-386 
+* pp. 389-393 
+* 
 {% comment %}
-### Lecture 17 (Origin of life)
+### Lecture 18 (Studying adaptation)
 * pp. 645-675 (please use the lecture slides to guide your reading)
 
 ### Lecture 18 (Origin of life, fossils)
