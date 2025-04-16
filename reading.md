@@ -129,7 +129,17 @@ You are welcome to read more, however. You might find the section on "Kin Select
 * pp. 373-378 
 * pp. 380-386 
 * pp. 389-393 
-* 
+
+### Lecture 19 (Genome evolution)
+* pp. 581-587
+
+### Lecture 20 (Origin of life)
+* pp. 645-675 (please use the lecture slides to guide your reading)
+  
+### Lecture 21 (Origin of life, fossils)
+* pp. 675-683 (Origin of life)
+* pp. 691-697 (Intro to fossils)
+
 {% comment %}
 ### Lecture 18 (Studying adaptation)
 * pp. 645-675 (please use the lecture slides to guide your reading)
