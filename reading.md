@@ -140,6 +140,9 @@ You are welcome to read more, however. You might find the section on "Kin Select
 * pp. 675-683 (Origin of life)
 * pp. 691-697 (Intro to fossils)
 
+### Lecture 22 (Fossils continued)
+* pp. 692-704 (Fossils)
+
 {% comment %}
 ### Lecture 18 (Studying adaptation)
 * pp. 645-675 (please use the lecture slides to guide your reading)
