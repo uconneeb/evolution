@@ -21,14 +21,15 @@ A sample grade calculation follows: if you received 78, 83, 86, 99 as exam score
 (Note that the bonus points increase the numerator but do not affect the denominator.) Looking up 89.5 in the grading scale posted below, you would receive a letter grade of B+ for the course because 89.5 is greater than or equal to 87 but less than 90. (Note that 89.5 is **not** rounded to 90.)
 {% endcomment %}
 
-We have decided to allow the lowest of the four exam grades to be dropped. If you missed an exam for any reason and did not arrange with us to take a makeup exam before the exams were returned and the answer key posted, that must be the exam you drop.
-{:.noticethis} 
+We have decided to allow the lowest of the four exam grades to be dropped. 
+{:.boldbluenotice} 
+If you missed an exam for any reason and did not arrange with us to take a makeup exam before the exams were returned and the answer key posted, that must be the exam you drop.
 
 A sample grade calculation follows: if you received 78, 83, 86, 99 as exam scores, 8 bonus points, and 40 participation points, your overall percentage would be calculated as follows (78 is the exam score dropped): 
 
 92.9 = 100*(83 + 86 + 99 + 40 + 8)/(100 + 100 + 100 + 40)
 
-(Note that the bonus points are added to the numerator but not the denominator.) Looking up 92.9 in the grading scale posted below, you would receive a letter grade of A- for the course because 92.9 is greater than or equal to 90 but less than 93. (Note that we will not play games with rounding.)
+(Note that the bonus points are added to the numerator but not the denominator.) Looking up 92.9 in the grading scale posted below, you would receive a letter grade of A- for the course because 92.9 is greater than or equal to 90 but less than 93. (Note that 92.9 will **not** be rounded to 93!)
 
 Grades will be posted in the _My Grades_ section of [HuskyCT](https://huskyct.uconn.edu/).
 
