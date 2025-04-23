@@ -13,21 +13,22 @@ There are several sources of points that you can earn in this course:
 * **Participation** A total of 40 points will be derived from participating in activities during lecture. Not every lecture will have associated participation points, and the points will come from a variety of activities. There will probably be more than 40 points offered during the semester, but 40 is the maximum you can earn.
 * **Bonus** There will be 2-3 bonus exercises offered during the course for a total of 10 possible bonus points. The bonus points you earn can be used to make up for lost points on exams. 
 
+{% comment %}
 A sample grade calculation follows: if you received 78, 83, 86, 99 as exam scores, 8 bonus points, and 40 participation points, your overall percentage would be calculated as follows: 
 
 89.5 = 100*(78 + 83 + 86 + 99 + 40 + 8)/(100 + 100 + 100 + 100 + 40)
 
 (Note that the bonus points increase the numerator but do not affect the denominator.) Looking up 89.5 in the grading scale posted below, you would receive a letter grade of B+ for the course because 89.5 is greater than or equal to 87 but less than 90. (Note that 89.5 is **not** rounded to 90.)
+{% endcomment %}
 
-{% comment %}
-We have decided to allow the lowest of the four exam grades to be dropped. If you miss an exam for any reason other than a documented illness, that will be the exam you must drop.
+We have decided to allow the lowest of the four exam grades to be dropped. If you missed an exam for any reason and did not arrange with us to take a makeup exam before the exams were returned and the answer key posted, that must be the exam you drop.
 {:.noticethis} 
+
 A sample grade calculation follows: if you received 78, 83, 86, 99 as exam scores, 8 bonus points, and 40 participation points, your overall percentage would be calculated as follows (78 is the exam score dropped): 
 
-92.9 = 100*(83 + 86 + 99 + 8 + 40)/340
+92.9 = 100*(83 + 86 + 99 + 40 + 8)/(100 + 100 + 100 + 40)
 
-(Note that the bonus points add to the numerator but not the denominator.) Looking up 92.9 in the grading scale posted below, you would receive a letter grade of A- for the course because 92.9 is greater than or equal to 90 but less than 93. (Note that we will not play games with rounding.)
-{% endcomment %} 
+(Note that the bonus points are added to the numerator but not the denominator.) Looking up 92.9 in the grading scale posted below, you would receive a letter grade of A- for the course because 92.9 is greater than or equal to 90 but less than 93. (Note that we will not play games with rounding.)
 
 Grades will be posted in the _My Grades_ section of [HuskyCT](https://huskyct.uconn.edu/).
 
