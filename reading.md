@@ -143,6 +143,10 @@ You are welcome to read more, however. You might find the section on "Kin Select
 ### Lecture 22 (Fossils continued)
 * pp. 692-704 (Fossils)
 
+### Lecture 23 (Fossils, extinction)
+* pp. 704-705 (Fossils)
+* pp. 707-724 (Extinction)
+
 {% comment %}
 ### Lecture 18 (Studying adaptation)
 * pp. 645-675 (please use the lecture slides to guide your reading)
