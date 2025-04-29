@@ -147,6 +147,10 @@ You are welcome to read more, however. You might find the section on "Kin Select
 * pp. 704-705 (Fossils)
 * pp. 707-724 (Extinction)
 
+### Lecture 24 (Extinction, human evolution)
+* pp. 719-725 (Extinction)
+* pp. 769-776 (Incremental understanding of the human evolution)
+
 {% comment %}
 ### Lecture 18 (Studying adaptation)
 * pp. 645-675 (please use the lecture slides to guide your reading)
